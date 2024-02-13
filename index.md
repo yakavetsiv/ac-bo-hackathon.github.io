@@ -4,6 +4,27 @@ title: BO Hackathon for Chemistry and Materials
 menu_title: Home
 menu_icon: house-door
 ---
+{% assign current_date = 'now' | date: "%Y-%m-%d" %}
+{% assign event_start_date = site.event_start_date | date: "%Y-%m-%d" %}
+{% assign event_close_date = site.event_close_date | date: "%Y-%m-%d" %}
+{% assign registration_opens_date = site.registration_opens_date | date: "%Y-%m-%d" %}
+{% assign registration_closes_date = site.registration_closes_date | date: "%Y-%m-%d" %}
+
+{% if current_date < registration_opens_date %}
+    {% assign registration_status = 'soon' %}
+{% elsif current_date >= registration_opens_date and current_date <= registration_closes_date %}
+    {% assign registration_status = 'open' %}
+{% else %}
+    {% assign registration_status = 'closed' %}
+{% endif %}
+
+{% if current_date < event_start_date %}
+    {% assign event_status = 'soon' %}
+{% elsif current_date >= event_start_date and current_date <= event_close_date %}
+    {% assign event_status = 'now' %}
+{% else %}
+    {% assign event_status = 'over' %}
+{% endif %}
 
 {:.secondary}
 # {{ site.event_date }}, in association with the Acceleration Consortium and Merck KGaA
@@ -11,15 +32,15 @@ menu_icon: house-door
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
     <dl>
-        {% if site.registration_status == "soon" or site.registration_status == "open" or site.registration_status == "demo" %}
+        {% if registration_status == "soon" or registration_status == "open" or registration_status == "demo" %}
             <dt>{{ site.registration_opens_date }}</dt>
             <dd>
                 Applications open for participants<br>
-                {% if site.registration_status == 'open' %}
+                {% if registration_status == 'open' %}
                     <a href="{{ site.baseurl }}{% link registration.md %}" class="btn">Register now</a>
-                {% elsif site.registration_status == 'closed' %}
+                {% elsif registration_status == 'closed' %}
                     <a class="btn disabled">Registration has closed</a>
-                {% elsif site.registration_status == 'soon' %}
+                {% elsif registration_status == 'soon' %}
                     <a class="btn disabled">Registration opens soon</a>
                 {% endif %}
             </dd>
@@ -33,7 +54,7 @@ menu_icon: house-door
     </dl>
 </div>
 
-{% if site.event_status != "over" %}
+{% if event_status != "over" %}
 
 With the emergence of new [Bayesian optimization](https://chat.openai.com/share/ac610758-2ac8-4b38-8dd5-25e6c46ad2a6) tools applied or geared towards the physical sciences, it is important to understand their strengths and weaknesses relative to the state of the art. In this hackathon, we will put these tools to the test! Scientists from the Acceleration Consortium @ University of Toronto and Merck KGaA are hosting a 2-day hackathon on
 {{ site.event_date }}, open to researchers, to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks. After the hackathon, results will be collated and presented in a scholarly article.[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"} Come join us to explore, collaborate, innovate, and contribute to the advancement of Bayesian optimization for the physical sciences.
@@ -67,9 +88,9 @@ We want to express our gratitude to all the participants for their contributions
 
 ## Prizes
 
-{% if site.event_status != "over" %}
+{% if event_status != "over" %}
 
-Awards for the following categories based on the judging criteria outlined in the [project guidelines](projects.md) will be announced at the end of the hackathon:
+Awards for the following categories based on the judging criteria outlined in the [project guidelines](projects.md) will be announced the day after the hackathon:
 
 {% else %}
 ```{todo}
