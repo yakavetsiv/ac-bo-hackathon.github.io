@@ -92,7 +92,6 @@ We want to express our gratitude to all the participants for their contributions
 
 Awards for the following categories based on the judging criteria outlined in the [project guidelines](projects.md) will be announced the day after the hackathon:
 
-{% else %}
 ```{todo}
 - **Best Overall** (500 CAD awarded)
 - **Best Benchmark** (200 CAD awarded)
