@@ -5,11 +5,33 @@ menu_icon: clipboard-check
 event_status:
  - soon
 ---
+{% assign current_date = 'now' | date: "%Y-%m-%d" %}
+{% assign event_start_date = site.event_start_date | date: "%Y-%m-%d" %}
+{% assign event_close_date = site.event_close_date | date: "%Y-%m-%d" %}
+{% assign registration_opens_date = site.registration_opens_date | date: "%Y-%m-%d" %}
+{% assign registration_closes_date = site.registration_closes_date | date: "%Y-%m-%d" %}
+
+{% if current_date < registration_opens_date %}
+    {% assign registration_status = 'soon' %}
+{% elsif current_date >= registration_opens_date and current_date <= registration_closes_date %}
+    {% assign registration_status = 'open' %}
+{% else %}
+    {% assign registration_status = 'closed' %}
+{% endif %}
+
+{% if current_date < event_start_date %}
+    {% assign event_status = 'soon' %}
+{% elsif current_date >= event_start_date and current_date <= event_close_date %}
+    {% assign event_status = 'now' %}
+{% else %}
+    {% assign event_status = 'over' %}
+{% endif %}
+
 
 {:.lead}
 Participation is FREE and open. We can't wait to see what you build!
 
-{% if site.registration_status == "soon" or site.registration_status == "demo" %}
+{% if registration_status == "soon" or registration_status == "demo" %}
 Registration opens on {{ site.registration_opens_date }}.
 {% endif %}
 The closing date for applications is {{ site.registration_closes_date }}.
@@ -18,13 +40,13 @@ The closing date for applications is {{ site.registration_closes_date }}.
 This virtual event will require some commitment prior to and including the
 Hackathon Event which will take part from {{ site.event_date }}.
 
-{% if site.registration_status == "soon" or site.registration_status == "demo" %}
+{% if registration_status == "soon" or registration_status == "demo" %}
   <a class="btn disabled">Registration opens soon</a>
 {% endif %}
-{% if site.registration_status == "open" or site.registration_status == "demo" %}
+{% if registration_status == "open" or registration_status == "demo" %}
   [Register now](https://www.eventbrite.ca/e/837748407037){:.btn target="_blank"}
 {% endif %}
-{% if site.registration_status == "closed" or site.registration_status == "demo" %}
+{% if registration_status == "closed" or registration_status == "demo" %}
   <a class="btn disabled">Registration has closed</a>
 {% endif %}
 
