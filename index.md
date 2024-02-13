@@ -40,7 +40,7 @@ With the emergence of new [Bayesian optimization](https://chat.openai.com/share/
 
 Researchers can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
 application of algorithms to development of new benchmark tasks, and creating instructional tutorials. [This opportunity]({{ site.baseurl }}{% link registration.md %})
-is open to researchers at all levels who are interested in applying Bayesian optimization[<sup>(?)</sup>][faq]{:title="Are algorithms other than Bayesian optimization allowed?"} for accelerated discovery in chemistry and materials science. At minimum, we recommend beginner-to-intermediate Python programming experience and basic familiarity with git and GitHub.[<sup>(?)</sup>][faq]{:title="What are the recommended prerequisites for participation?"}.
+is open to researchers at all levels who are interested in applying Bayesian optimization[<sup>(?)</sup>][faq]{:title="Are algorithms other than Bayesian optimization allowed?"} for accelerated discovery in chemistry and materials science. At minimum, we recommend beginner-to-intermediate Python programming experience and basic familiarity with git and GitHub.[<sup>(?)</sup>][faq]{:title="Am I eligible to participate in the hackathon?"}.
 
 ## Logistics
 
@@ -50,7 +50,7 @@ conferencing** (Zoom) for meetings and seminars, and **discussion forums**
 
 ## Outputs
 
-By the end of the event, in addition to applying and developing algorithms, benchmarks, and tutorials, we hope you will have formed new connections, learned new skills, and been inspired with new ideas! We will also be working towards a scholarly article, and we hope you will be able to contribute to this effort.
+By the end of the event, in addition to applying and developing algorithms, benchmarks, and tutorials, we hope you will have formed new connections, learned new skills, and been inspired with new ideas! We will also be working towards a scholarly article[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}, and we hope you will be able to contribute to this effort.
 
 {% else %}
 
