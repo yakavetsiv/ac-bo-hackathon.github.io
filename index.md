@@ -6,7 +6,7 @@ menu_icon: house-door
 ---
 
 {:.secondary}
-# {{ site.event_date }}, in association with the Acceleration Consortium
+# {{ site.event_date }}, in association with the Acceleration Consortium and Merck KGaA
 
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
@@ -46,28 +46,45 @@ is open to researchers at all levels who are interested in applying Bayesian opt
 
 The event will take place virtually, using a combination of **video
 conferencing** (Zoom) for meetings and seminars, and **discussion forums**
-(Slack, Discord) for ongoing comms. 
+(Slack, Discord) for ongoing comms.
 
 ## Outputs
 
 By the end of the event, in addition to applying and developing algorithms, benchmarks, and tutorials, we hope you will have formed new connections, learned new skills, and been inspired with new ideas! We will also be working towards a scholarly article, and we hope you will be able to contribute to this effort.
 
-[faq]: {{ site.baseurl }}{% link faq.md %}
-
 {% else %}
 
 With the completion of a 2-day virtual hackathon hosted by scientists from the Acceleration Consortium @ University of Toronto and Merck KGaA on {{ site.event_date }}, we thank participants for exploring, collaborating, innovating, and contributing to the advancement of Bayesian optimization for the physical sciences.
 
-During the hackathon, researchers had the opportunity to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks. The results of this collaborative effort will be collated and presented in a scholarly article.
+During the hackathon, researchers had the opportunity to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks. The results of this collaborative effort will be collated and presented in a scholarly article[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}.
 
-Although the event has concluded, the outputs from the hackathon, including applied and developed algorithms, benchmarks, and tutorials, will continue to serve as valuable resources for the research community. Outputs from all teams have been made publicly available at https://github.com/AC-BO-Hackathon. We believe that through this event, new connections have been formed, new skills have been acquired, and new ideas have been inspired.
+Although the event has concluded, the outputs from the hackathon, including applied and developed algorithms, benchmarks, and tutorials, will continue to serve as valuable resources for the research community. Outputs from teams that have opted to release their projects are available at https://github.com/AC-BO-Hackathon. We believe that through this event, new connections have been formed, new skills have been acquired, and new ideas have been inspired.
 
 We want to express our gratitude to all the participants for their contributions, and we look forward to future collaborations in advancing Bayesian optimization in chemistry and materials science.
+{% endif %}
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
-## Prize Winners
+## Prizes
 
+{% if site.event_status != "over" %}
+
+Awards for the following categories based on the judging criteria outlined in the [project guidelines](projects.md) will be announced at the end of the hackathon:
+
+{% else %}
+```{todo}
+- **Best Overall** (500 CAD awarded)
+- **Best Benchmark** (200 CAD awarded)
+- **Best Algorithm** (200 CAD awarded)
+- **Best Tutorial** (200 CAD awarded)
+- **Best Presentation** (100 CAD awarded)
+- **Best Collaboration** (100 CAD awarded)
+- **Best Newcomers** (100 CAD awarded)
+- **Best Team Name** (50 CAD awarded)
+- **Best Team Spirit** (50 CAD awarded)
+```
+
+{% else %}
 We'd like to congratulate the following teams for their outstanding contributions to the hackathon:
 
 ```{todo}
@@ -81,7 +98,6 @@ We'd like to congratulate the following teams for their outstanding contribution
 - **Best Team Name**: Team 8 (50 CAD awarded)
 - **Best Team Spirit**: Team 9 (50 CAD awarded)
 ```
-
 {% endif %}
 
 ## Sponsors 
