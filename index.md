@@ -86,35 +86,35 @@ We want to express our gratitude to all the participants for their contributions
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
-## Prizes
+<!-- ## Prizes
 
 {% if event_status != "over" %}
 
 Tentative awards for the following categories based on the judging criteria outlined in the [project guidelines](projects.md) will be announced the day after the hackathon:
 
-- **Best Overall** (500 CAD awarded)
-- **Best Benchmark** (200 CAD awarded)
-- **Best Algorithm** (200 CAD awarded)
-- **Best Tutorial** (200 CAD awarded)
-- **Best Presentation** (100 CAD awarded)
-- **Best Collaboration** (100 CAD awarded)
-- **Best Newcomers** (100 CAD awarded)
-- **Best Team Name** (50 CAD awarded)
-- **Best Team Spirit** (50 CAD awarded)
+- **Best Overall** (500 CAD)
+- **Best Benchmark** (200 CAD)
+- **Best Algorithm** (200 CAD)
+- **Best Tutorial** (200 CAD)
+- **Best Presentation** (100 CAD)
+- **Best Collaboration** (100 CAD)
+- **Best Newcomers** (100 CAD)
+- **Best Team Name** (50 CAD)
+- **Best Team Spirit** (50 CAD)
 
 {% else %}
 We'd like to congratulate the following teams for their outstanding contributions to the hackathon:
 
-- **Best Overall**: Team 1 (500 CAD awarded)
-- **Best Benchmark**: Team 2 (200 CAD awarded)
-- **Best Algorithm**: Team 3 (200 CAD awarded)
-- **Best Tutorial**: Team 4 (200 CAD awarded)
-- **Best Presentation**: Team 5 (100 CAD awarded)
-- **Best Collaboration**: Team 6 (100 CAD awarded)
-- **Best Newcomers**: Team 7 (100 CAD awarded)
-- **Best Team Name**: Team 8 (50 CAD awarded)
-- **Best Team Spirit**: Team 9 (50 CAD awarded)
-{% endif %}
+- **Best Overall**: Team 1 (500 CAD)
+- **Best Benchmark**: Team 2 (200 CAD)
+- **Best Algorithm**: Team 3 (200 CAD)
+- **Best Tutorial**: Team 4 (200 CAD)
+- **Best Presentation**: Team 5 (100 CAD)
+- **Best Collaboration**: Team 6 (100 CAD)
+- **Best Newcomers**: Team 7 (100 CAD)
+- **Best Team Name**: Team 8 (50 CAD)
+- **Best Team Spirit**: Team 9 (50 CAD)
+{% endif %} -->
 
 ## Sponsors
 
