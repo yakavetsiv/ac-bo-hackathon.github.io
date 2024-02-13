@@ -75,7 +75,7 @@ By the end of the event, in addition to applying and developing algorithms, benc
 
 {% else %}
 
-With the completion of a 2-day virtual hackathon hosted by scientists from the Acceleration Consortium @ University of Toronto and Merck KGaA on {{ site.event_date }}, we thank participants for exploring, collaborating, innovating, and contributing to the advancement of Bayesian optimization for the physical sciences.
+With the completion of a 2-day virtual hackathon hosted by scientists from the Acceleration Consortium and Merck KGaA on {{ site.event_date }}, we thank participants for exploring, collaborating, innovating, and contributing to the advancement of Bayesian optimization for the physical sciences.
 
 During the hackathon, researchers had the opportunity to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks. The results of this collaborative effort will be collated and presented in a scholarly article[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}.
 
