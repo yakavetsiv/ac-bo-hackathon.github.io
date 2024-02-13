@@ -29,19 +29,19 @@ header_pages:
   - resources.md
   - about.md
 
-# # Event status
-# #   soon = event is yet to happen
-# #    now = event is currently happening
-# #   over = event has happened
-# #  (demo = show all pages to demonstrate the template)
-# event_status: demo
+# Event status
+#   soon = event is yet to happen
+#    now = event is currently happening
+#   over = event has happened
+#  (demo = show all pages to demonstrate the template)
+event_status: demo
 
-# # Open and close the registration form
-# #   soon = Registration has not yet opened
-# #   open = Registration form is open
-# # closed = Registration form is now closed
-# #  (demo = show all pages to demonstrate the template)
-# registration_status: demo
+# Open and close the registration form
+#   soon = Registration has not yet opened
+#   open = Registration form is open
+# closed = Registration form is now closed
+#  (demo = show all pages to demonstrate the template)
+registration_status: demo
 
 # Remove ".html" from default permalinks
 permalink: pretty

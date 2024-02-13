@@ -1,3 +1,24 @@
+{% assign current_date = 'now' | date: "%Y-%m-%d" %}
+{% assign event_start_date = site.event_start_date | date: "%Y-%m-%d" %}
+{% assign event_close_date = site.event_close_date | date: "%Y-%m-%d" %}
+{% assign registration_opens_date = site.registration_opens_date | date: "%Y-%m-%d" %}
+{% assign registration_closes_date = site.registration_closes_date | date: "%Y-%m-%d" %}
+
+{% if current_date < registration_opens_date %}
+    {% assign registration_status = 'soon' %}
+{% elsif current_date >= registration_opens_date and current_date <= registration_closes_date %}
+    {% assign registration_status = 'open' %}
+{% else %}
+    {% assign registration_status = 'closed' %}
+{% endif %}
+
+{% if current_date < event_start_date %}
+    {% assign event_status = 'soon' %}
+{% elsif current_date >= event_start_date and current_date <= event_close_date %}
+    {% assign event_status = 'now' %}
+{% else %}
+    {% assign event_status = 'over' %}
+{% endif %}
 <header class="site-header" role="banner">
 
   <div class="wrapper">
@@ -26,7 +47,7 @@
           {%- for path in page_paths -%}
             {%- assign node = site.pages | where: "path", path | first -%}
             {%- if node.title -%}
-            {%- if (node.event_status contains site.event_status) or (node.event_status == blank) or (site.event_status == "demo") -%}
+            {%- if (node.event_status contains event_status) or (node.event_status == blank) or (event_status == "demo") -%}
               <a class="page-link {% if page.url == node.url %}active{% endif %}" href="{{ node.url | relative_url }}">
                 {% if node.menu_icon %}<i class="bi bi-{{ node.menu_icon | escape }}"></i>{% endif %}
                 {% if node.menu_title %}
