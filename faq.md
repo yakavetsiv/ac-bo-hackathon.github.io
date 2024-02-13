@@ -2,6 +2,10 @@
 title: Frequently asked questions
 ---
 
+## What is Bayesian optimization, and why is it important for the physical sciences?
+
+Bayesian optimization is a key technique in chemistry and materials science, particularly useful for tackling complex experiments that are time-consuming and costly. It uses a smart model, often based on Gaussian Processes, to predict where to look next in an experiment to find the best results with minimal trials. This method is especially handy when dealing with experiments that don't have straightforward outcomes or involve a lot of variables, which is often the case in these fields. It's like having a smart assistant that tells you the most promising experiments to run next, helping you save time and resources. Moreover, Bayesian optimization is good at dealing with uncertain results through its smart handling of the exploration-exploitation trade-off. This approach helps speed up the discovery of new materials and chemical processes by making the experimental process more efficient and informed.
+
 ## Am I eligible to participate in the hackathon?
 
 Yes! The hackathon is open to everyone, regardless of background or experience. We encourage participants from all career stages, including students, researchers, and professionals, to join us. At minimum, we recommend at least beginner or intermediate Python programming experience and basic familiarity with git and GitHub. Prior to the hackathon, we also recommend that participants study the basic concepts behind Bayesian optimization. For those looking to learn or refresh their knowledge on these topics, please consider the following resources:
