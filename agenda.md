@@ -2,19 +2,65 @@
 title: Hackathon agenda 🗓️
 menu_title: Agenda
 menu_icon: clock
-event_status:
- - soon
- - now
 ---
+{% assign current_date = 'now' | date: "%Y-%m-%d" %}
+{% assign event_start_date = site.event_start_date | date: "%Y-%m-%d" %}
+{% assign event_close_date = site.event_close_date | date: "%Y-%m-%d" %}
+{% assign registration_opens_date = site.registration_opens_date | date: "%Y-%m-%d" %}
+{% assign registration_closes_date = site.registration_closes_date | date: "%Y-%m-%d" %}
 
-## Now - Mar 29: Brainstorm, build, team
+{% if current_date < registration_opens_date %}
+    {% assign registration_status = 'soon' %}
+{% elsif current_date >= registration_opens_date and current_date <= registration_closes_date %}
+    {% assign registration_status = 'open' %}
+{% else %}
+    {% assign registration_status = 'closed' %}
+{% endif %}
+
+{% if current_date < event_start_date %}
+    {% assign event_status = 'soon' %}
+{% elsif current_date >= event_start_date and current_date <= event_close_date %}
+    {% assign event_status = 'now' %}
+{% else %}
+    {% assign event_status = 'over' %}
+{% endif %}
+
+## Schedule
+{% if site.event_status != "over" %}
+The anticipated schedule is as follows, with all times listed in Eastern Time (ET):
+{% else %}
+The schedule for the event was as follows, with all times listed in Eastern Time (ET):
+{% endif %}
+
+### Pre-hackathon
+
+### Day 1
+
+| Time  | Activity |
+|-------|----------|
+| 09:00 | Welcome - Day 1 |
+| 09:10 | Keynote |
+| 09:50 | Orientation |
+| 10:00 | Breakout |
+| 13:00 | End of Day 1 |
+
+### Day 2
+
+| Time  | Activity |
+|-------|----------|
+| 09:00 | Welcome - Day 2 |
+| 09:10 | Breakout |
+| 12:45 | Closing Remarks |
+| 13:00 | End of Event |
+
+## Now - Mar 27: Brainstorm, build, team
 
 Brainstorm, build, team up.
 
 <!-- {:.agenda} -->
 
 
-## Day 1: Mar 29
+## Day 1: Mar 27
 
 Live Hackathon Day! 💻 Teams will be coordinating and there will be centrally run live sessions. Video submissions due!
 
@@ -32,6 +78,6 @@ Live Hackathon Day! 💻 Teams will be coordinating and there will be centrally 
 17:25 – 17:30 | **Close of day** | Zoom main room -->
 
 
-## Day 2: Mar 30
+## Day 2: Mar 28
 
 Live session to announce prizes.
