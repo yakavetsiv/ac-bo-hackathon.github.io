@@ -116,11 +116,7 @@ We'd like to congratulate the following teams for their outstanding contribution
 - **Best Team Spirit**: Team 9 (50 CAD awarded)
 {% endif %}
 
-## Sponsors 
+## Sponsors
 
 - [The Acceleration Consortium @ University of Toronto](https://acceleration.utoronto.ca/)
 - [Merck KGaA](https://www.emdgroup.com/en)
-
-<footer class="lead">
-*The progress of a scientific field is both tracked and propelled through robust benchmarks.*
-</footer>
