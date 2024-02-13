@@ -1,22 +1,14 @@
 ---
 layout: page
-title: LLM in Materials and Chemistry March Madness Hackathon
+title: BO Hackathon for Chemistry and Materials
 menu_title: Home
 menu_icon: house-door
 ---
 
-
 {:.secondary}
-# {{ site.event_date }}
-
-<!-- REMOVE THIS SECTION when you use this template -->
-<div class="lead" markdown="1">
-Welcome to the LLM March Madness Materials / Chemistry Hackathon, a virtual hackathon designed to explore and showcase innovative applications of large language models in the fields of materials science and chemistry. Participants from diverse backgrounds, including scientists, engineers, developers, and students, will come together to leverage the power of AI to address complex challenges and unlock new frontiers in these rapidly evolving domains.
-</div>
-<!-- END of section to remove -->
+# {{ site.event_date }}, in association with the Acceleration Consortium
 
 <div class="aside">
-    <div id="countdown" class="text-center"></div>
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
     <dl>
         {% if site.registration_status == "soon" or site.registration_status == "open" or site.registration_status == "demo" %}
@@ -43,29 +35,60 @@ Welcome to the LLM March Madness Materials / Chemistry Hackathon, a virtual hack
 
 {% if site.event_status != "over" %}
 
-During the event, teams will collaborate on projects aimed at harnessing the potential of large language models, in topics such as generating novel chemical compound structures, optimizing materials for specific applications, predicting material properties, automating synthesis routes, and more. By fusing state-of-the-art AI techniques with deep scientific knowledge, the hackathon aims to accelerate research and development in materials and chemistry.
+With the emergence of new [Bayesian optimization](https://chat.openai.com/share/ac610758-2ac8-4b38-8dd5-25e6c46ad2a6) tools applied or geared towards the physical sciences, it is important to understand their strengths and weaknesses relative to the state of the art. In this hackathon, we will put these tools to the test! Scientists from the Acceleration Consortium @ University of Toronto and Merck KGaA are hosting a 2-day hackathon on
+{{ site.event_date }}, open to researchers, to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks. After the hackathon, results will be collated and presented in a scholarly article.[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"} Come join us to explore, collaborate, innovate, and contribute to the advancement of Bayesian optimization for the physical sciences.
 
-Join us for the excitement of innovation, collaboration, and discovery as we push the boundaries of what's possible in materials science and chemistry using large language models. Prepare to be amazed by the groundbreaking solutions that will emerge from this cutting-edge hackathon!
+Researchers can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
+application of algorithms to development of new benchmark tasks, and creating instructional tutorials. [This opportunity]({{ site.baseurl }}{% link registration.md %})
+is open to researchers at all levels who are interested in applying Bayesian optimization[<sup>(?)</sup>][faq]{:title="Are algorithms other than Bayesian optimization allowed?"} for accelerated discovery in chemistry and materials science. At minimum, we recommend beginner-to-intermediate Python programming experience and basic familiarity with git and GitHub.[<sup>(?)</sup>][faq]{:title="What are the recommended prerequisites for participation?"}.
 
 ## Logistics
 
 The event will take place virtually, using a combination of **video
 conferencing** (Zoom) for meetings and seminars, and **discussion forums**
-(Slack, Miro). Slack, Miro, and Zoom links will be shared upon registration. 
+(Slack, Discord) for ongoing comms. 
 
-## Prizes
+## Outputs
 
-Will be announced soon! 
+By the end of the event, in addition to applying and developing algorithms, benchmarks, and tutorials, we hope you will have formed new connections, learned new skills, and been inspired with new ideas! We will also be working towards a scholarly article, and we hope you will be able to contribute to this effort.
 
+[faq]: {{ site.baseurl }}{% link faq.md %}
 
 {% else %}
 
+With the completion of a 2-day virtual hackathon hosted by scientists from the Acceleration Consortium @ University of Toronto and Merck KGaA on {{ site.event_date }}, we thank participants for exploring, collaborating, innovating, and contributing to the advancement of Bayesian optimization for the physical sciences.
+
+During the hackathon, researchers had the opportunity to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks. The results of this collaborative effort will be collated and presented in a scholarly article.
+
+Although the event has concluded, the outputs from the hackathon, including applied and developed algorithms, benchmarks, and tutorials, will continue to serve as valuable resources for the research community. Outputs from all teams have been made publicly available at https://github.com/AC-BO-Hackathon. We believe that through this event, new connections have been formed, new skills have been acquired, and new ideas have been inspired.
+
+We want to express our gratitude to all the participants for their contributions, and we look forward to future collaborations in advancing Bayesian optimization in chemistry and materials science.
+
+[faq]: {{ site.baseurl }}{% link faq.md %}
+
+## Prize Winners
+
+We'd like to congratulate the following teams for their outstanding contributions to the hackathon:
+
+```{todo}
+- **Best Overall**: Team 1 (500 CAD awarded)
+- **Best Benchmark**: Team 2 (200 CAD awarded)
+- **Best Algorithm**: Team 3 (200 CAD awarded)
+- **Best Tutorial**: Team 4 (200 CAD awarded)
+- **Best Presentation**: Team 5 (100 CAD awarded)
+- **Best Collaboration**: Team 6 (100 CAD awarded)
+- **Best Newcomers**: Team 7 (100 CAD awarded)
+- **Best Team Name**: Team 8 (50 CAD awarded)
+- **Best Team Spirit**: Team 9 (50 CAD awarded)
+```
 
 {% endif %}
 
-
 ## Sponsors 
 
-- The Materials Research Coordination Network (MaRCN)
-- The Materials Data Facility
-- The Materials Research Data Alliance (MaRDA)
+- [The Acceleration Consortium @ University of Toronto](https://acceleration.utoronto.ca/)
+- [Merck KGaA](https://www.emdgroup.com/en)
+
+<footer class="lead">
+*The progress of a scientific field is both tracked and propelled through robust benchmarks.*
+</footer>
