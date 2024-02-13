@@ -4,6 +4,11 @@ menu_title: About
 menu_icon: globe2
 ---
 
+{% if site.event_status != "over" %}
+The AC BO Hackathon is a 2-day virtual hackathon event on {{ site.event_date }}, organised by the [Acceleration Consortium @ University of Toronto](https://acceleration.utoronto.ca/). The event is open to researchers at all levels who are interested in applying Bayesian optimization for accelerated discovery in chemistry and materials science.
+{% else %}
+The AC BO Hackathon was a 2-day virtual hackathon event hosted on {{ site.event_date }}, organised by the [Acceleration Consortium @ University of Toronto](https://acceleration.utoronto.ca/). The event included researchers at all levels who worked on projects applying Bayesian optimization for accelerated discovery in chemistry and materials science.
+{% endif %}
 
 ### The organizing team
 
@@ -13,19 +18,21 @@ To contact us about the hackathon, please contact us on Twitter or Slack. -->
 <table class="team-list">
     <tr>
         <td>
-            <img alt="Ben Blaiszik" src="https://avatars.githubusercontent.com/u/4753182?v=4">
+            <img alt="Sterling Baird" src="https://avatars.githubusercontent.com/u/45469701?s=400&u=ab65e519709791f38a49a44fc03588058407be63&v=4">
         </td>
         <td>
-            <strong>Ben Blaiszik</strong>
+            <strong>Sterling Baird</strong>
             <span class="profile-links">
-                <a title="GitHub" href="https://github.com/blaiszik"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/BenBlaiszik"><i class="bi bi-twitter"></i></a>
+                <a title="Profile &amp; contact" href="https://acceleration.utoronto.ca/researcher/sterling-baird"><i class="bi bi-person-lines-fill"></i></a>
+                <!-- <a title="Website" href="https://jatonline.co.uk/"><i class="bi bi-globe2"></i></a> -->
+                <a title="GitHub" href="https://github.com/sgbaird"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/JGIBristol"><i class="bi bi-twitter"></i></a>
             </span>
-            <br>University of Chicago/Argonne National Lab
-            <br>Group Leader - AI and data infrastructure for science 
+            <br>Acceleration Consortium, University of Toronto
+            <br>Director of Training and Programs
         </td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td>
             <img alt="Andrew White" src="https://pbs.twimg.com/profile_images/1610864530216591361/9_HA-bt8_400x400.jpg">
         </td>
@@ -83,5 +90,5 @@ To contact us about the hackathon, please contact us on Twitter or Slack. -->
             <br>University of Chicago/Argonne National Lab
             <br>Research Scientist
         </td>
-    </tr>
+    </tr> -->
 </table>
