@@ -90,9 +90,8 @@ We want to express our gratitude to all the participants for their contributions
 
 {% if event_status != "over" %}
 
-Awards for the following categories based on the judging criteria outlined in the [project guidelines](projects.md) will be announced the day after the hackathon:
+Tentative awards for the following categories based on the judging criteria outlined in the [project guidelines](projects.md) will be announced the day after the hackathon:
 
-```{todo}
 - **Best Overall** (500 CAD awarded)
 - **Best Benchmark** (200 CAD awarded)
 - **Best Algorithm** (200 CAD awarded)
@@ -102,12 +101,10 @@ Awards for the following categories based on the judging criteria outlined in th
 - **Best Newcomers** (100 CAD awarded)
 - **Best Team Name** (50 CAD awarded)
 - **Best Team Spirit** (50 CAD awarded)
-```
 
 {% else %}
 We'd like to congratulate the following teams for their outstanding contributions to the hackathon:
 
-```{todo}
 - **Best Overall**: Team 1 (500 CAD awarded)
 - **Best Benchmark**: Team 2 (200 CAD awarded)
 - **Best Algorithm**: Team 3 (200 CAD awarded)
@@ -117,7 +114,6 @@ We'd like to congratulate the following teams for their outstanding contribution
 - **Best Newcomers**: Team 7 (100 CAD awarded)
 - **Best Team Name**: Team 8 (50 CAD awarded)
 - **Best Team Spirit**: Team 9 (50 CAD awarded)
-```
 {% endif %}
 
 ## Sponsors 
