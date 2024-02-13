@@ -1,18 +1,21 @@
-title: LLM in Chemistry and Materials
-nav_title: LLM in Chemistry and Materials
+title: Bayesian Optimization Hackathon for Chemistry and Materials
+nav_title: BO Hackathon<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> University of Bristol</small>
 
-event_date: Mar 29-30
-registration_opens_date: 15 March 2023
-registration_closes_date: 29 March 2023
+event_date: 27-28 March 2024
+event_start_date: 27 March 2024
+event_close_date: 28 March 2024
+registration_opens_date: 1 March 2024
+registration_closes_date: 27 March 2024
 
-author:
-mailbox_address:
+author: Acceleration Consortium
+mailbox_address: sterling.baird@utoronto.ca
 
-description: |
-  The LLM March Madness Materials / Chemistry Hackathon is a virtual hackathon designed to explore and showcase innovative applications of large language models in the fields of materials science and chemistry.
+description:
+  The BO Hackathon for Chemistry and Materials is a 2-day virtual event, organized by the Acceleration Consortium @ University of Toronto and Merck KGaA. Over the course of the event, teams of
+  researchers will select a benchmark task and use a Bayesian optimization package and algorithm of their choice. After the hackathon, results will be collated and presented in a scholarly article. Come join us to explore, collaborate, innovate, and contribute to the advancement of Bayesian optimization for the physical sciences.
 
-url: "https://materials-data-facility/llm-hackathon"
-github_repo: materials-data-facility
+url: "https://ac-bo-hackathon.github.io/"
+github_repo: AC-BO-Hackathon
 
 theme: minima
 
@@ -20,22 +23,25 @@ theme: minima
 # and registration_status flags below
 header_pages:
   - registration.md
+  - agenda.md
+  - projects.md
+  - videos-slides.md
   - resources.md
   - about.md
 
-# Event status
-#   soon = event is yet to happen
-#    now = event is currently happening
-#   over = event has happened
-#  (demo = show all pages to demonstrate the template)
-event_status: soon
+# # Event status
+# #   soon = event is yet to happen
+# #    now = event is currently happening
+# #   over = event has happened
+# #  (demo = show all pages to demonstrate the template)
+# event_status: demo
 
-# Open and close the registration form
-#   soon = Registration has not yet opened
-#   open = Registration form is open
-# closed = Registration form is now closed
-#  (demo = show all pages to demonstrate the template)
-registration_status: open
+# # Open and close the registration form
+# #   soon = Registration has not yet opened
+# #   open = Registration form is open
+# # closed = Registration form is now closed
+# #  (demo = show all pages to demonstrate the template)
+# registration_status: demo
 
 # Remove ".html" from default permalinks
 permalink: pretty
