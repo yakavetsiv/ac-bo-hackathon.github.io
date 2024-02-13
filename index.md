@@ -56,7 +56,7 @@ menu_icon: house-door
 
 {% if event_status != "over" %}
 
-With the emergence of new [Bayesian optimization](https://chat.openai.com/share/ac610758-2ac8-4b38-8dd5-25e6c46ad2a6) tools applied or geared towards the physical sciences, it is important to understand their strengths and weaknesses relative to the state of the art. In this hackathon, we will put these tools to the test! Scientists from the Acceleration Consortium @ University of Toronto and Merck KGaA are hosting a 2-day hackathon on
+With the emergence of new [Bayesian optimization tools for the physical sciences](https://chat.openai.com/share/ac610758-2ac8-4b38-8dd5-25e6c46ad2a6), it is important to understand their strengths and weaknesses relative to the state of the art. In this hackathon, we will put these tools to the test! Scientists from the Acceleration Consortium @ University of Toronto and Merck KGaA are hosting a 2-day hackathon on
 {{ site.event_date }}, open to researchers, to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks. After the hackathon, results will be collated and presented in a scholarly article.[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"} Come join us to explore, collaborate, innovate, and contribute to the advancement of Bayesian optimization for the physical sciences.
 
 Researchers can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
