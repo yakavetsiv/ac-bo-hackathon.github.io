@@ -26,7 +26,7 @@ menu_icon: clock
 {% endif %}
 
 ## Schedule
-{% if site.event_status != "over" %}
+{% if event_status != "over" %}
 The anticipated schedule is as follows, with all times listed in Eastern Time (ET):
 {% else %}
 The schedule for the event was as follows, with all times listed in Eastern Time (ET):
