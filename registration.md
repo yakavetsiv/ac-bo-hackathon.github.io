@@ -38,7 +38,7 @@ The closing date for applications is {{ site.registration_closes_date }}.
 
 <div class="aside" markdown="1">
 This virtual event will require some commitment prior to and including the
-Hackathon Event which will take part from {{ site.event_date }}.
+hackathon event which will take part from {{ site.event_date }}.
 
 {% if registration_status == "soon" or registration_status == "demo" %}
   <a class="btn disabled">Registration opens soon</a>
