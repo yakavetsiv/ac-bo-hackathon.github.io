@@ -20,30 +20,36 @@ At least beginner to intermediate Python programming experience is recommended f
 
 #### Git and GitHub
 
-Basic familiarty with git and GitHub is recommended. We recommend you familiarize yourself with the following resource in preparation for the hackathon.
+Basic familiarity with git and GitHub is recommended. Please familiarize yourself with the following resource in preparation for the hackathon.
 
 - [Introduction to Git and GitHub](https://github.com/AC-Classroom/github-starter-course)
 
 ### Bayesian optimization
 
-#### [A Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c)
-
-{% include youtube.html video="IVaWl2tL06c" title="" %}
-
-
 #### [Bayes Rule by 3Blue1Brown](https://youtu.be/HZGCoVF3YvM) -- explanation of the major concept behind Bayesian optimization
 
 {% include youtube.html video="HZGCoVF3YvM" title="" %}
 
+#### [A Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c)
+
+{% include youtube.html video="IVaWl2tL06c" title="" %}
+
+#### [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+
+#### [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
+
+
 </li>
 
-#### BO Tools
-
-See the [Acceleration Consortium's curated list of optimization tools](https://github.com/AccelerationConsortium/awesome-self-driving-labs#optimization).
-
-This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe). A diverse set of packages and implementations is encouraged, and multiple teams using the same package is not a problem, since implementations can remain private during the course of the hackathon.
-
 <li class="resource-block" markdown="1">
+
+## BO Tools
+
+#### [Acceleration Consortium's curated list of optimization tools](https://github.com/AccelerationConsortium/awesome-self-driving-labs#optimization)
+
+#### BayBE
+This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe). Use of this tool is not a requirement. A diverse set of packages and implementations is encouraged, and multiple teams using the same package is not a problem, since implementations can remain private during the course of the hackathon.
+
 
 <!-- ## Project inspirations
 
