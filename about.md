@@ -26,9 +26,9 @@ menu_icon: globe2
 {% endif %}
 
 {% if event_status != "over" %}
-The AC BO Hackathon is a 2-day virtual hackathon event on {{ site.event_date }}, organised by the [Acceleration Consortium @ University of Toronto](https://acceleration.utoronto.ca/). The event is open to researchers at all levels who are interested in applying Bayesian optimization for accelerated discovery in chemistry and materials science.
+The AC BO Hackathon is a 2-day virtual hackathon event on {{ site.event_date }}, co-organised by the [Acceleration Consortium @ University of Toronto](https://acceleration.utoronto.ca/) and [Merck KGaA](https://www.emdgroup.com/en). The event is open to researchers at all levels who are interested in applying Bayesian optimization for accelerated discovery in chemistry and materials science.
 {% else %}
-The AC BO Hackathon was a 2-day virtual hackathon event hosted on {{ site.event_date }}, organised by the [Acceleration Consortium @ University of Toronto](https://acceleration.utoronto.ca/). The event included researchers at all levels who worked on projects applying Bayesian optimization for accelerated discovery in chemistry and materials science.
+The AC BO Hackathon was a 2-day virtual hackathon event hosted on {{ site.event_date }}, organised by the [Acceleration Consortium @ University of Toronto](https://acceleration.utoronto.ca/) and [Merck KGaA](https://www.emdgroup.com/en). The event included researchers at all levels who worked on projects applying Bayesian optimization for accelerated discovery in chemistry and materials science.
 {% endif %}
 
 ### The organizing team
