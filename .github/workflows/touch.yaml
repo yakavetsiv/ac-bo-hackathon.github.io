@@ -2,13 +2,16 @@ name: Twice daily site rebuild
 on:
   schedule:
     - cron:  '0 12,18 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Make a commit
       run: |
