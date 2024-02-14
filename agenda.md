@@ -57,11 +57,7 @@ Brainstorm, build, team up.
 
 ### Mar 29
 
-Submissions due by [March 29 at 10:00 AM Eastern Time (ET)](https://everytimezone.com/s/d5b5871b).
-
-## Day 1: Mar 27
-
-Live Hackathon Day! 💻 Teams will be coordinating and there will be centrally run live sessions. Video submissions due!
+[Submissions](_/../resources/submission.md) due by [March 29 at 10:00 AM Eastern Time (ET)](https://everytimezone.com/s/d5b5871b).
 
 <!-- {:.agenda} -->
 
