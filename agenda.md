@@ -40,8 +40,8 @@ Brainstorm, build, team up.
 
 | Time  | Activity |
 |-------|----------|
-| 09:00 | Welcome - Day 1 |
-| 09:10 | Keynote |
+| 09:00 | Welcome |
+| 09:10 | Invited Talks |
 | 09:50 | Orientation |
 | 10:00 | Breakout |
 | 13:00 | End of Day 1 |
@@ -50,10 +50,10 @@ Brainstorm, build, team up.
 
 | Time  | Activity |
 |-------|----------|
-| 09:00 | Welcome - Day 2 |
+| 09:00 | Welcome |
 | 09:10 | Breakout |
 | 12:45 | Closing Remarks |
-| 13:00 | End of Event |
+| 13:00 | End of Day 2 |
 
 ### Mar 29
 
