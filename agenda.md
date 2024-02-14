@@ -32,9 +32,11 @@ The anticipated schedule is as follows, with all times listed in Eastern Time (E
 The schedule for the event was as follows, with all times listed in Eastern Time (ET):
 {% endif %}
 
-### Pre-hackathon
+## Now - Mar 27
 
-### Day 1
+Brainstorm, build, team up.
+
+### Day 1: Mar 27
 
 | Time  | Activity |
 |-------|----------|
@@ -44,7 +46,7 @@ The schedule for the event was as follows, with all times listed in Eastern Time
 | 10:00 | Breakout |
 | 13:00 | End of Day 1 |
 
-### Day 2
+### Day 2: Mar 28
 
 | Time  | Activity |
 |-------|----------|
@@ -53,18 +55,17 @@ The schedule for the event was as follows, with all times listed in Eastern Time
 | 12:45 | Closing Remarks |
 | 13:00 | End of Event |
 
-## Now - Mar 27: Brainstorm, build, team
+### Mar 29
 
-Brainstorm, build, team up.
-
-<!-- {:.agenda} -->
-
+Submissions due by [March 29 at 10:00 AM Eastern Time (ET)](https://everytimezone.com/s/d5b5871b).
 
 ## Day 1: Mar 27
 
 Live Hackathon Day! 💻 Teams will be coordinating and there will be centrally run live sessions. Video submissions due!
 
-{:.agenda}
+<!-- {:.agenda} -->
+
+<!-- {:.agenda} -->
 <!-- Time (BST)    | Activity | Where to go
 ------------- | -------- | -----------
 09:15 – 09:30 | Zoom meeting opens for informal networking | Zoom main room
@@ -78,6 +79,6 @@ Live Hackathon Day! 💻 Teams will be coordinating and there will be centrally 
 17:25 – 17:30 | **Close of day** | Zoom main room -->
 
 
-## Day 2: Mar 28
+<!-- ## Day 2: Mar 28
 
-Live session to announce prizes.
+Live session to announce prizes. -->
