@@ -57,7 +57,7 @@ Brainstorm, build, team up.
 
 ### Mar 29
 
-[Submissions](_/../resources/submission.md) due by [March 29 at 10:00 AM Eastern Time (ET)](https://everytimezone.com/s/d5b5871b).
+[Submissions](_/../resources/submission.md) due by {{ site.submissions_due }}.
 
 <!-- {:.agenda} -->
 
