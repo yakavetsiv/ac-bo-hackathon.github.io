@@ -7,24 +7,45 @@ menu_icon: journal-code
 <ul class="grid">
 <li class="resource-block" markdown="1">
 
-## LLM Tutorials and tools 
+## Recommended Prerequisites
 
-#### [Langchain demo](https://www.youtube.com/watch?v=zaYTXQFR0_s) - an overview of the capabilities of LangChain.
+#### Python Programming
 
-{% include youtube.html video="zaYTXQFR0_s" title="" %}
+At least beginner to intermediate Python programming experience is recommended for participation in the hackathon. We recommend you complete an introductory Python course in preparation for the hackathon.
+
+- [Python for Everybody by University of Michigan](https://www.coursera.org/specializations/python)
+- [Learn Python 3 by CodeAcademy](https://www.codecademy.com/learn/learn-python-3)
+- [Intro to Python Programming for Materials Engineers](https://youtube.com/playlist?list=PLL0SWcFqypCmkHClksnGlab3wglEVMqNN)
+- [Python Beginners Guide for Programmers by Python Software Foundation](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
+#### Git and GitHub
+
+Basic familiarty with git and GitHub is recommended. We recommend you familiarize yourself with the following resource in preparation for the hackathon.
+
+- [Introduction to Git and GitHub](https://github.com/AC-Classroom/github-starter-course)
+
+### Bayesian optimization
+
+#### [A Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c)
+
+{% include youtube.html video="IVaWl2tL06c" title="" %}
 
 
-#### [Huggingface walkthrough](https://www.youtube.com/watch?v=QEaBAZQCtwE) -- very quick overview of the most important functionalities of HuggingFace
+#### [Bayes Rule by 3Blue1Brown](https://youtu.be/HZGCoVF3YvM) -- explanation of the major concept behind Bayesian optimization
 
-{% include youtube.html video="QEaBAZQCtwE" title="" %}
-
+{% include youtube.html video="HZGCoVF3YvM" title="" %}
 
 </li>
 
+#### BO Tools
 
+See the [Acceleration Consortium's curated list of optimization tools](https://github.com/AccelerationConsortium/awesome-self-driving-labs#optimization).
+
+This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe). A diverse set of packages and implementations is encouraged, and multiple teams using the same package is not a problem, since implementations can remain private during the course of the hackathon.
 
 <li class="resource-block" markdown="1">
-## Project inspirations 
+
+<!-- ## Project inspirations
 
 #### [Paper QA](https://huggingface.co/spaces/whitead/paper-qa) -- doing question and answering from PDFs or text files (e.g. papers)
 
@@ -40,9 +61,10 @@ menu_icon: journal-code
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s a text demo of Marvis from <a href="https://twitter.com/glenhocky?ref_src=twsrc%5Etfw">@glenhocky</a> and me. Info: <a href="https://t.co/DQLKYpwZsX">https://t.co/DQLKYpwZsX</a> Code: <a href="https://t.co/LjzwjS4zR9">https://t.co/LjzwjS4zR9</a> <a href="https://t.co/wn3PNBrpmb">pic.twitter.com/wn3PNBrpmb</a></p>&mdash; Andrew White ⏣🧪 (@andrewwhite01) <a href="https://twitter.com/andrewwhite01/status/1392517379326894080?ref_src=twsrc%5Etfw">May 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-</li>
+</li> -->
 
 <li class="resource-block" markdown="1">
+
 ## Guidelines
 
 ### [Submission](_/../resources/submission.md) - The hackathon's workflow for submissions
