@@ -45,12 +45,12 @@ Basic familiarity with git and GitHub is recommended. Please familiarize yoursel
 
 ## BO Tools
 
-Use of the tools listed in this section is not a requirement. A diverse set of packages and implementations is encouraged. Likewise, multiple teams using the same package is not a problem, since implementations can remain private during the course of the hackathon.
+Use of the tools listed in this section is not a requirement. A diverse set of packages and implementations is encouraged. Likewise, multiple teams using the same package is not a problem, since implementations can remain private during the course of the hackathon. If you'd like to see a specific tool listed here, please navigate to the "Improve this page" link at the bottom of the page and open a pull request.
 
 #### [Acceleration Consortium's curated list of optimization tools](https://github.com/AccelerationConsortium/awesome-self-driving-labs#optimization)
 
 #### BayBE
-This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe).
+This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe). This tool focuses on real-world experimental campaigns in the physical sciences.
 
 <li class="resource-block" markdown="1">
 
