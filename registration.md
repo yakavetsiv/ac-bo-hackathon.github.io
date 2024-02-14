@@ -36,6 +36,8 @@ Registration opens on {{ site.registration_opens_date }}.
 {% endif %}
 The closing date for applications is {{ site.registration_closes_date }}.
 
+The hackathon is open to everyone, regardless of background or experience; however, we recommend prior programming experience[<sup>(?)</sup>][faq]{:title="Am I eligible to participate in the hackathon?"}. Prior to the hackathon, this event will require that you think about the packages, algorithms, and benchmark tasks you will use or develop. You may choose to either work solo or form a team. During the hackathon, the organizers will be available to support you. After the hackathon, if you choose, you can contribute to the scholarly article[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}.
+
 <div class="aside" markdown="1">
 This virtual event will require some commitment prior to and including the
 hackathon event which will take part from {{ site.event_date }}.
@@ -52,5 +54,3 @@ hackathon event which will take part from {{ site.event_date }}.
 
 The closing date for applications is {{ site.registration_closes_date }}.
 </div>
-
-The hackathon is open to everyone, regardless of background or experience; however, we recommend prior programming experience[<sup>(?)</sup>][faq]{:title="Am I eligible to participate in the hackathon?"}. Prior to the hackathon, this event will require that you think about the packages, algorithms, and benchmark tasks you will use or develop. You may choose to either work solo or form a team. During the hackathon, the organizers will be available to support you. After the hackathon, if you choose, you can contribute to the scholarly article[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}.
