@@ -1,3 +1,9 @@
+---
+title: Submission Guidelines
+menu_title: Submission
+menu_icon: cloud-arrow-up
+---
+
 To ensure a dynamic and engaging submission process, we ask that all hackathon teams submit their final projects through social media (e.g., Twitter, LinkedIn, YouTube). 
 By sharing your work with a broader audience, you’ll help to promote groundbreaking research in materials science and chemistry while inspiring others to contribute to the field.
 
