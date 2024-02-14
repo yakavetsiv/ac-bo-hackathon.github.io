@@ -26,11 +26,11 @@ Basic familiarity with git and GitHub is recommended. Please familiarize yoursel
 
 ### Bayesian optimization
 
-#### [Bayes Rule by 3Blue1Brown](https://youtu.be/HZGCoVF3YvM) -- explanation of the major concept behind Bayesian optimization
+#### [Bayes Rule by 3Blue1Brown](https://youtu.be/HZGCoVF3YvM) -- explanation of the fundamental concept behind Bayesian methods
 
 {% include youtube.html video="HZGCoVF3YvM" title="" %}
 
-#### [A Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c)
+#### [A Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c) - a recording of the Accelerate '23 training workshop on Bayesian optimization, with a focus on application
 
 {% include youtube.html video="IVaWl2tL06c" title="" %}
 
