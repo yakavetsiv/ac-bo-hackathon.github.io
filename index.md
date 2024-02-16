@@ -59,8 +59,8 @@ menu_icon: house-door
 With the emergence of new [Bayesian optimization tools for the physical sciences](https://chat.openai.com/share/ac610758-2ac8-4b38-8dd5-25e6c46ad2a6), it is important to understand their strengths and weaknesses relative to the state of the art. In this hackathon, we will put these tools to the test! Scientists from the Acceleration Consortium @ University of Toronto and Merck KGaA are hosting a 2-day hackathon on
 {{ site.event_date }}, open to researchers, to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks. After the hackathon, results will be collated and presented in a scholarly article.[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"} Come join us to explore, collaborate, innovate, and contribute to the advancement of Bayesian optimization for the physical sciences.
 
-Researchers can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-application of algorithms to development of new benchmark tasks, and creating instructional tutorials. [This opportunity]({{ site.baseurl }}{% link registration.md %})
+Researchers can sign up to [topics such as]({{ site.baseurl }}{% link projects.md %})
+applying algorithms to existing benchmarks, developing new benchmark tasks, creating instructional tutorials, and proposing real-world chemistry and materials optimization tasks. [This opportunity]({{ site.baseurl }}{% link registration.md %})
 is open to researchers at all levels who are interested in applying Bayesian optimization[<sup>(?)</sup>][faq]{:title="Are algorithms other than Bayesian optimization allowed?"} for accelerated discovery in chemistry and materials science. At minimum, we recommend beginner-to-intermediate Python programming experience and basic familiarity with git and GitHub.[<sup>(?)</sup>][faq]{:title="Am I eligible to participate in the hackathon?"}.
 
 ## Logistics
