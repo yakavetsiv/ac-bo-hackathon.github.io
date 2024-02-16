@@ -36,6 +36,10 @@ The schedule for the event was as follows, with all times listed in Eastern Time
 
 Brainstorm, build, team up.
 
+1. Join the [Slack channel](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj) (the link expires on Feb 28, contact us if this hasn't been updated with a new link)
+2. Submit your [project application](_/../projects.md)
+3. 
+
 ### Day 1: Mar 27
 
 | Time  | Activity |
