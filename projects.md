@@ -17,6 +17,8 @@ We will provide a set of benchmark tasks and instructions, and your job will be 
 
 #### Benchmark Tasks
 
+We are still refining the list of benchmark tasks. Please contact us if you have suggestions for existing optimization benchmark datasets or tasks that you would like to see included.
+
 ##### Domain
 
 - [Analytical functions]()
