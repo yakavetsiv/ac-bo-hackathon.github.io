@@ -2,8 +2,8 @@
 title: Hackathon registration
 menu_title: Registration
 menu_icon: clipboard-check
-event_status:
- - soon
+# event_status:
+#  - soon
 ---
 {% assign current_date = 'now' | date: "%Y-%m-%d" %}
 {% assign event_start_date = site.event_start_date | date: "%Y-%m-%d" %}
@@ -54,3 +54,5 @@ hackathon event which will take part from {{ site.event_date }}.
 
 The closing date for applications is {{ site.registration_closes_date }}.
 </div>
+
+[faq]: {{ site.baseurl }}{% link faq.md %}
