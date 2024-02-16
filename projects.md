@@ -32,7 +32,7 @@ Multiple projects are OK. For example, one may wish to apply a particular algori
 To initialize your project, please follow these steps:
 1. Accept the GitHub Classroom invitation to a topic above
 2. Create a new file in a fork of the hackathon repository named `project-<your-team-name>.md`. For example, if your team name is "Bayes Bandits", the file should be named `project-bayes-bandits.md`.
-3. Copy the following contents into the file and fill in the corresponding details. Use the GitHub repository
+3. Copy the following contents into the file and fill in the corresponding details. Replace `<your-repo-name>` wit the GitHub repository that was created by GitHub Classroom for you. For example, if your team name is "Bayes Bandits", the repository will be named `bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/bayes-bandits`.
 
 ```markdown
 ---
