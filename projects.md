@@ -17,6 +17,18 @@ We will provide a set of benchmark tasks and instructions, and your job will be 
 
 #### Benchmark Tasks
 
+##### Domain
+
+- [Analytical functions]()
+- [Molecule Optimization]()
+- [Materials Optimization]()
+
+##### Optimization features
+
+- [Multi-fidelity Optimization]()
+- [Constrained Optimization]()
+- [Multi-objective Optimization]()
+
 #### Judging Criteria
 
 ### Developing New Benchmarks
