@@ -30,6 +30,7 @@ We are still refining the list of benchmark tasks. Please contact us if you have
 - [Multi-fidelity Optimization]()
 - [Constrained Optimization]()
 - [Multi-objective Optimization]()
+- [Real-world noise]()
 
 #### Judging Criteria
 
