@@ -11,11 +11,11 @@ layout: default
     
     <div class="aside authors">
       <dl>
-        {% if page.pis %}
+        {% if page.team_leads %}
         <dt>Project leads</dt>
         <dd>
           <ul>
-            {% for person in page.pis %}
+            {% for person in page.team_leads %}
             <li>{{ person }}</li>
             {% endfor %}
           </ul>

@@ -65,7 +65,7 @@ As a teamleader, to initialize your project(s)[<sup>(?)</sup>][faq]{:title="Can 
 ---
 number: 1 <!-- leave as-is, maintainers will adjust -->
 title: Project 1 title
-pis:
+team_leads:
   - Project lead 1 (Institution 1)
   - Project lead 2 (Institution 2)
 
@@ -89,7 +89,7 @@ Here is an example of a filled-in project file called `project-bayes-bandits.md`
 ---
 number: 1 <!-- leave as-is, maintainers will adjust -->
 title: Investigation of Bandit Optimization for Composite Materials Design
-pis:
+team_leads:
   - Jane Doe (University of Invention)
   - John Smith (Institute of Discovery)
 

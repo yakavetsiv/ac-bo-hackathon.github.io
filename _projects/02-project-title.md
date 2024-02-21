@@ -1,7 +1,7 @@
 ---
 number: 2
 title: Project 2 title
-pis:
+team_leads:
   - Project lead 1 (Institution 1)
   - Project lead 2 (Institution 2)
 
