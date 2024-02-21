@@ -55,7 +55,10 @@ The hackathon is also open to proposals for real-world optimization tasks in che
 As a teamleader, to initialize your project(s)[<sup>(?)</sup>][faq]{:title="Can I participate in multiple projects?"}, please follow these steps:
 1. Accept the GitHub Classroom invitation to a topic above
 2. Create a new team in the GitHub Classroom interface
-3. Create a new file in a fork of the hackathon repository named `project-<your-team-name>.md`. For example, if your team name is "Bayes Bandits", the file should be named `project-bayes-bandits.md`.
+3. Use [this link to create a new file](https://github.com/AC-BO-Hackathon/ac-bo-hackathon.github.io/new/main/_projects) in a fork of the hackathon repository named `project-<your-team-name>.md`. For example, if your team name is "Bayes Bandits", the file should be named `project-bayes-bandits.md`
+
+![project submission](assets/project-submission.png)
+
 4. Copy the following contents into the file and fill in the corresponding details. Replace `<your-repo-name>` with the GitHub repository that was created by GitHub Classroom for you. For example, if your team name is "Bayes Bandits", the repository will be named `bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/bayes-bandits`.
 5. Submit a pull request to the hackathon repository with the title "Add project <your-team-name>".
 6. Have your team members click on the same GitHub Classroom invitation link that you used and join the team you created.
@@ -107,6 +110,6 @@ This project will investigate the application of bandit optimization to the desi
 - Dimmery, D., Bakshy, E., & Sekhon, J. (2019). Shrinkage Estimators in Online Experiments. arXiv. https://doi.org/10.48550/ARXIV.1904.12918
 ```
 
-If the submission instructions from above are daunting, you are welcome to submit your project proposal by email to [mailto:sterling.baird@utoronto.ca](sterling.baird@utoronto.ca). Please include "AC BO Hackathon Project Proposal" in the subject line. We will create the project file and corresponding pull request for you.
+If the submission instructions from above are daunting, you are welcome to submit your project proposal by email to sterling.baird@utoronto.ca. Please include "AC BO Hackathon Project Proposal" in the subject line. We will create the project file and corresponding pull request for you.
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
