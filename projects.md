@@ -58,8 +58,8 @@ As a teamleader, to initialize your project(s)[<sup>(?)</sup>][faq]{:title="Can 
 3. Create a new file in a fork of the hackathon repository named `project-<your-team-name>.md`. For example, if your team name is "Bayes Bandits", the file should be named `project-bayes-bandits.md`.
 4. Copy the following contents into the file and fill in the corresponding details. Replace `<your-repo-name>` with the GitHub repository that was created by GitHub Classroom for you. For example, if your team name is "Bayes Bandits", the repository will be named `bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/bayes-bandits`.
 5. Submit a pull request to the hackathon repository with the title "Add project <your-team-name>".
-6. Ask your team members to click on the same GitHub Classroom invitation link that you used and join the team you created in step 2.
-6. Once the pull request is merged, your project will appear in the list below.
+6. Have your team members click on the same GitHub Classroom invitation link that you used and join the team you created.
+7. Once the pull request is merged, your project will appear in the list below.
 
 ```markdown
 ---
