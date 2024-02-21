@@ -93,7 +93,6 @@ team_leads:
   - Jane Doe (University of Invention)
   - John Smith (Institute of Discovery)
 
-# Comment these lines to hide these elements
 contributors:
   - Larry Lab (University of Invention)
   - David Data (University of Science)
@@ -107,5 +106,7 @@ This project will investigate the application of bandit optimization to the desi
 - Aleksandrs Slivkins (2019), "Introduction to Multi-Armed Bandits", Foundations and Trends in Machine Learning: Vol. 12: No. 1-2, pp 1-286. http://dx.doi.org/10.1561/2200000068
 - Dimmery, D., Bakshy, E., & Sekhon, J. (2019). Shrinkage Estimators in Online Experiments. arXiv. https://doi.org/10.48550/ARXIV.1904.12918
 ```
+
+If the submission instructions from above are daunting, you are welcome to submit your project proposal by email to [mailto:sterling.baird@utoronto.ca](sterling.baird@utoronto.ca). Please include "AC BO Hackathon Project Proposal" in the subject line. We will create the project file and corresponding pull request for you.
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
