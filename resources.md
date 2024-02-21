@@ -59,5 +59,3 @@ This hackathon is co-organized by Merck KGaA. You may consider using an internal
 ### [Submission](_/../resources/submission.md) - The hackathon's workflow for submissions
 
 </li>
-
-</ul>
