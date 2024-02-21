@@ -66,8 +66,8 @@ is open to researchers at all levels who are interested in applying Bayesian opt
 ## Logistics
 
 The event will take place virtually, using a combination of **video
-conferencing** (Zoom) for meetings and seminars, and **discussion forums**
-(Slack, Discord) for ongoing comms.
+conferencing** ([Gather](https://app.gather.town/app/QB6fIRXzA8H5v2TD/AC%20BO%20Hackathon)) for meetings and seminars, and **discussion forums**
+([Discourse](https://accelerated-discovery.discourse.group/), [Discord](https://discord.gg/gZPKDH3pWU)) for ongoing comms.
 
 ## Outputs
 
