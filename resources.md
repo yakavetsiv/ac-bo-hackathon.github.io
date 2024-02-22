@@ -5,6 +5,23 @@ menu_icon: journal-code
 ---
 
 <ul class="grid">
+
+<li class="resource-block" markdown="1">
+
+## Getting Set Up
+
+#### [Slack](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj) - Join the hackathon's Slack channel to connect with other participants and ask questions.
+
+#### [Project proposals](_/../submission.md) - team leaders should submit their project proposals and form teams
+
+#### Complete the orientation modules
+
+- Intro to Git and GitHub
+- Intro to GitHub Classroom
+- Python refresher
+
+</li>
+
 <li class="resource-block" markdown="1">
 
 ## Recommended Prerequisites
