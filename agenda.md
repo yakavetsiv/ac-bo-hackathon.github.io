@@ -49,9 +49,11 @@ Brainstorm, build, team up.
 | Time  | Activity |
 |-------|----------|
 | 09:00 | Welcome |
-| 09:10 | Invited Talks |
-| 09:50 | Orientation |
-| 10:00 | Breakout |
+| 09:15 | Talk: Dr. Taylor Sparks, University of Utah |
+| 09:30 | Talk: Merck KGaA |
+| 09:45 | Talk: TBD |
+| 10:00 | Orientation |
+| 10:10 | Breakout |
 | 13:00 | End of Day 1 |
 
 ### Day 2: Mar 28
@@ -65,11 +67,16 @@ Brainstorm, build, team up.
 
 ### Mar 29
 
-[Submissions](_/../resources/submission.md) due by {{ site.submissions_due }}. Prizes to be announced March 29 at 1:00 PM Eastern Time (ET).
+[Submissions](_/../resources/submission.md) due by {{ site.submissions_due }}.
+
+<!-- Prizes to be announced March 29 at 1:00 PM Eastern Time (ET). -->
 
 ### Post-hackathon
 
-Preparation of scholarly article.
+Preparation of scholarly article.[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}
+
+
+[faq]: {{ site.baseurl }}{% link faq.md %}
 
 <!-- {:.agenda} -->
 
