@@ -49,9 +49,9 @@ Brainstorm, build, team up.
 | Time  | Activity |
 |-------|----------|
 | 09:00 | Welcome |
-| 09:15 | Talk: Dr. Taylor Sparks, University of Utah |
-| 09:30 | Talk: Merck KGaA |
-| 09:45 | Talk: TBD |
+| 09:15 | Speaker: Dr. Taylor Sparks, University of Utah. Title: TBD |
+| 09:30 | Speaker: Merck KGaA. Title: TBD |
+| 09:45 | Speaker: TBD. Talk: TBD |
 | 10:00 | Orientation |
 | 10:10 | Breakout |
 | 13:00 | End of Day 1 |
