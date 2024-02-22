@@ -56,12 +56,16 @@ Brainstorm, build, team up.
 |-------|----------|
 | 09:00 | Welcome |
 | 09:10 | Breakout |
-| 12:45 | Closing Remarks |
+| 12:00 | Project showcase and judging |
 | 13:00 | End of Day 2 |
 
 ### Mar 29
 
-[Submissions](_/../resources/submission.md) due by {{ site.submissions_due }}.
+[Submissions](_/../resources/submission.md) due by {{ site.submissions_due }}. Prizes to be announced March 29 at 1:00 PM Eastern Time (ET).
+
+### Post-hackathon
+
+Preparation of scholarly article.
 
 <!-- {:.agenda} -->
 
