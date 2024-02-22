@@ -4,17 +4,23 @@ nav_title: <span class="hide-very-narrow">BO Hackathon</span><br><small><span cl
 event_date: 27-28 March 2024
 event_start_date: 27 March 2024
 event_close_date: 28 March 2024
-registration_opens_date: 1 March 2024
+registration_opens_date: 22 February 2024
 registration_closes_date: 27 March 2024
 
-submissions_due: <a href="https://everytimezone.com/s/d5b5871b">March 29 at 10:00 AM Eastern Time (ET)</a></p>
+submissions_due: <a href="https://everytimezone.com/s/d5b5871b">March 29 at 10:00 AM Eastern Time (ET)</a>
 
 author: Acceleration Consortium
 mailbox_address: sterling.baird@utoronto.ca
 
 description:
-  The BO Hackathon for Chemistry and Materials is a 2-day virtual event, organized by the Acceleration Consortium @ University of Toronto and Merck KGaA. Over the course of the event, teams of
-  researchers will select a benchmark task and use a Bayesian optimization package and algorithm of their choice. After the hackathon, results will be collated and presented in a scholarly article. Come join us to explore, collaborate, innovate, and contribute to the advancement of Bayesian optimization for the physical sciences.
+  The BO Hackathon for Chemistry and Materials is a 2-day virtual event,
+  organized by the Acceleration Consortium @ University of Toronto and Merck
+  KGaA. Leading up to and at the beginning of the event, participants will
+  brainstorm projects and form teams. Over the course of the event, teams will
+  work together to deliver the project and showcase their project at the end.
+  After the hackathon, results will be collated and presented in a scholarly
+  article. Come join us to explore, collaborate, innovate, and contribute to the
+  advancement of Bayesian optimization for the physical sciences!
 
 url: "https://ac-bo-hackathon.github.io/"
 github_repo: AC-BO-Hackathon
