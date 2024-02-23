@@ -61,7 +61,7 @@ With the emergence of new [Bayesian optimization tools for the physical sciences
 
 Researchers can sign up to [topics such as]({{ site.baseurl }}{% link projects.md %})
 applying algorithms to existing benchmarks, developing new benchmark tasks, creating instructional tutorials, and proposing real-world chemistry and materials optimization tasks. [This opportunity]({{ site.baseurl }}{% link registration.md %})
-is open to researchers at all levels who are interested in applying Bayesian optimization[<sup>(?)</sup>][faq]{:title="Are algorithms other than Bayesian optimization allowed?"} for accelerated discovery in chemistry and materials science. For code-focused projects, we recommend beginner-to-intermediate Python programming experience and basic familiarity with git and GitHub.[<sup>(?)</sup>][faq]{:title="Am I eligible to participate in the hackathon?"}. Training resources are available on the [resources page](_/../resources.md).
+is open to researchers at all levels who are interested in applying Bayesian optimization[<sup>(?)</sup>][faq]{:title="Are algorithms other than Bayesian optimization allowed?"} for accelerated discovery in chemistry and materials science. For code-focused projects, we recommend beginner-to-intermediate Python programming experience and basic familiarity with git and GitHub.[<sup>(?)</sup>][faq]{:title="Am I eligible to participate in the hackathon?"}. Training resources are available on the [resources page](_/../resources.md)
 
 ## Logistics
 
