@@ -66,7 +66,7 @@ is open to researchers at all levels who are interested in applying Bayesian opt
 ## Logistics
 
 The event will take place virtually, using a combination of **video
-conferencing** ([virtual Gather space](https://app.gather.town/app/QB6fIRXzA8H5v2TD/AC%20BO%20Hackathon)) for meetings and seminars, and **discussion forums**
+conferencing** virtual Gather space for meetings and seminars, and **discussion forums**
 ([Accelerated Discovery Discourse](https://accelerated-discovery.discourse.group/), [AC Discord](https://discord.gg/gZPKDH3pWU)) for ongoing comms.
 
 ## Outputs
@@ -90,7 +90,11 @@ We want to express our gratitude to all the participants for their contributions
 
 {% if event_status != "over" %}
 
-Tentative awards for the following categories based on the judging criteria outlined in the [project guidelines](projects.md) will be announced the day after the hackathon:
+Tentative awards for the highest ranked projects by the judges will be announced the day after the hackathon:
+
+First-ranked: $200 Amazon gift card for each team member
+Second-ranked: $100 Amazon gift card for each team member
+Third-ranked: $50 Amazon gift card for each team member
 
 - **Best Overall** (500 CAD)
 - **Best Benchmark** (200 CAD)
