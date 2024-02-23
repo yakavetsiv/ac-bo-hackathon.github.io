@@ -36,7 +36,7 @@ Registration opens on {{ site.registration_opens_date }}.
 {% endif %}
 The closing date for applications is {{ site.registration_closes_date }}.
 
-The hackathon is open to everyone, regardless of background or experience; however, we recommend prior programming experience[<sup>(?)</sup>][faq]{:title="Am I eligible to participate in the hackathon?"}. Prior to the hackathon, this event will require that you think about the packages, algorithms, and benchmark tasks you will use or develop. You may choose to either work solo or form a team. During the hackathon, the organizers will be available to support you. After the hackathon, if you choose, you can contribute to the scholarly article[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}.
+The hackathon is open to everyone, regardless of background or experience. Prior programming experience is not required, but it is recommended for coding projects[<sup>(?)</sup>][faq]{:title="Am I eligible to participate in the hackathon?"}. Please review the [resources page](_/../resources.md) to learn more about the types of projects within the scope of the hackathon and other information you need to prepare. During the hackathon, the organizers will be available to support you. After the hackathon, if you choose to and you meet the guidelines[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}, you can contribute to the scholarly article.
 
 <div class="aside" markdown="1">
 This virtual event will require some commitment prior to and including the
