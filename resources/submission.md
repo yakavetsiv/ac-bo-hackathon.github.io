@@ -136,4 +136,6 @@ github: AC-BO-Hackathon/bayes-bandits
 youtube_video: IVaWl2tL06c
 ```
 
-If you don't want to post it to YouTube, you can also post it directly to LinkedIn or Twitter. In this case, please update the project description to include a link to the post. This pull request will be considered your final submission. Again, if you find this process daunting, you are welcome to instead send your link by email to sterling.baird@utoronto.ca. Please include "AC BO Hackathon Final Submission" in the subject line. We will update the project file and create corresponding pull request for you.
+If you don't want to post it to YouTube, you can also post it directly to LinkedIn or Twitter. In this case, please update the project description file to include a link to the post. This pull request will be considered your final submission. Again, if you find this process daunting, you are welcome to instead send your link by email to sterling.baird@utoronto.ca. Please include "AC BO Hackathon Final Submission" in the subject line. We will update the project file and create corresponding pull request for you.
+
+[faq]: {{ site.baseurl }}{% link faq.md %}
