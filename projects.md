@@ -35,6 +35,6 @@ For details on how to submit a project, see the [submission page](_/../submissio
 
 The BO Hackathon for Chemistry and Materials '24 has concluded. See below for teams, project descriptions, videos, and GitHub repositories for each of the projects below.
 
-{% end %}
+{% endif %}
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
