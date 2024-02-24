@@ -8,35 +8,7 @@ Bayesian optimization is a key technique in chemistry and materials science, par
 
 ## Am I eligible to participate in the hackathon?
 
-Yes! The hackathon is open to everyone, regardless of background or experience. We encourage participants from all career stages, including students, researchers, and professionals, to join us. At minimum, we recommend at least beginner or intermediate Python programming experience[<sup>(?)</sup>][faq]{:title="Do I need to use Python, or can I use other languages?"} and basic familiarity with git and GitHub. Prior to the hackathon, we also recommend that participants study the basic concepts behind Bayesian optimization. For those looking to learn or refresh their knowledge on these topics, please study the following resources in preparation for the hackathon.
-
-### Python Programming
-
-At least beginner to intermediate Python programming experience is recommended for participation in the hackathon. We recommend you complete an introductory Python course in preparation for the hackathon.
-
-- [Python for Everybody by University of Michigan](https://www.coursera.org/specializations/python)
-- [Learn Python 3 by CodeAcademy](https://www.codecademy.com/learn/learn-python-3)
-- [Intro to Python Programming for Materials Engineers](https://youtube.com/playlist?list=PLL0SWcFqypCmkHClksnGlab3wglEVMqNN)
-- [Python Beginners Guide for Programmers by Python Software Foundation](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-
-If you have no prior programming experience, you may wish to start with the following resource:
-- [Python Beginners Guide for Non-programmers by Python Software Foundation](https://www.python.org/about/gettingstarted/)
-
-### Git and GitHub
-
-Basic familiarty with git and GitHub is recommended. We recommend you familiarize yourself with the following resource in preparation for the hackathon.
-
-- [Introduction to Git and GitHub](https://github.com/AC-Classroom/github-starter-course)
-
-### Bayesian Optimization
-
-A basic understanding of Bayesian optimization will help you get the most out of the hackathon. For those who are not yet comfortable with Bayesian optimization, please study the following resources in preparation for the hackathon:
-
-1. [Bayes Rule by 3Blue1Brown](https://youtu.be/HZGCoVF3YvM)
-2. [A Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c)
-3. [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
-4. [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
-
+Yes! The hackathon is open to everyone, regardless of background or experience. We encourage participants from all career stages, including students, researchers, and professionals, to join us. For code-based projects, we recommend at least beginner Python programming experience[<sup>(?)</sup>][faq]{:title="Do I need to use Python, or can I use other languages?"} and basic familiarity with git and GitHub. Prior to the hackathon, we also recommend that participants study the basic concepts behind Bayesian optimization. For those looking to learn or refresh their knowledge on these topics, please study the items provided in the [resources page](_/../resources.md).
 
 ## Are there specific packages I should use?
 
