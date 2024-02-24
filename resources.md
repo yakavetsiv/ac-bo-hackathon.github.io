@@ -16,19 +16,15 @@ menu_icon: journal-code
 
 #### Complete the orientation modules
 
+
+
 - Intro to Git and GitHub
 - Intro to GitHub Classroom
 - Python refresher
 
-</li>
-
-<li class="resource-block" markdown="1">
-
-## Recommended Prerequisites
-
 #### Python Programming
 
-At least beginner to intermediate Python programming experience is recommended for participation in the hackathon. We recommend you complete an introductory Python course in preparation for the hackathon.
+At least beginner Python programming experience is recommended for participation in the coding aspects of the hackathon. For those this applies to, we recommend you complete an introductory Python course in preparation for the hackathon.
 
 - [Python for Everybody by University of Michigan](https://www.coursera.org/specializations/python)
 - [Learn Python 3 by CodeAcademy](https://www.codecademy.com/learn/learn-python-3)
@@ -54,7 +50,6 @@ Basic familiarity with git and GitHub is recommended. Please familiarize yoursel
 #### [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/) - A Distill Pub article explaining a commonly used predictive model in Bayesian optimization with visualizations and mathematical rigor.
 
 #### [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/) - A Distill Pub article that provides an overview of active learning, Bayesian optimization with visualizations and mathematical rigor.
-
 
 </li>
 
