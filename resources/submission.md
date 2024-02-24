@@ -60,7 +60,7 @@ As a teamleader, to initialize your project(s)[<sup>(?)</sup>][faq]{:title="Can 
 2. Create a new team in the GitHub Classroom interface
 3. Use [this link to create a new file](https://github.com/AC-BO-Hackathon/ac-bo-hackathon.github.io/new/main/_projects) in a fork of the hackathon repository named `project-<your-team-name>.md`. For example, if your team name is "Bayes Bandits", the file should be named `project-bayes-bandits.md`
 
-![project submission](assets/project-submission.png)
+![project submission](../assets/project-submission.png)
 
 4. Copy the following contents into the file and fill in the corresponding details. Replace `<your-repo-name>` with the GitHub repository that was created by GitHub Classroom for you. For example, if your team name is "Bayes Bandits", the repository will be named `bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/bayes-bandits`.
 5. Submit a pull request to the hackathon repository with the title "Add project <your-team-name>".
@@ -136,6 +136,27 @@ github: AC-BO-Hackathon/bayes-bandits
 youtube_video: IVaWl2tL06c
 ```
 
-If you don't want to post it to YouTube, you can also post it directly to LinkedIn or Twitter. In this case, please update the project description file to include a link to the post. This pull request will be considered your final submission. Again, if you find this process daunting, you are welcome to instead send your link by email to sterling.baird@utoronto.ca. Please include "AC BO Hackathon Final Submission" in the subject line. We will update the project file and create corresponding pull request for you.
+If you don't want to post it to YouTube, you can also post it directly to LinkedIn or Twitter. In this case, please update the project description file to include a link to the post and create a new pull request. For example, if your description is:
+
+```markdown
+This project will investigate the application of bandit optimization to the design of composite materials. We will focus on the optimization of the mechanical properties of the composite materials, such as strength, stiffness, and toughness as a function of the fiber types and matrix materials. We will compare the performance of bandit optimization with the performance of Bayesian optimization using featurization tactics for this highly discrete space.
+
+- Aleksandrs Slivkins (2019), "Introduction to Multi-Armed Bandits", Foundations and Trends in Machine Learning: Vol. 12: No. 1-2, pp 1-286. http://dx.doi.org/10.1561/2200000068
+- Dimmery, D., Bakshy, E., & Sekhon, J. (2019). Shrinkage Estimators in Online Experiments. arXiv. https://doi.org/10.48550/ARXIV.1904.12918
+```
+
+You could add a link before the references (replace `<your_link_here>` with your actual link, without the angle brackets):
+
+```markdown
+This project will investigate the application of bandit optimization to the design of composite materials. We will focus on the optimization of the mechanical properties of the composite materials, such as strength, stiffness, and toughness as a function of the fiber types and matrix materials. We will compare the performance of bandit optimization with the performance of Bayesian optimization using featurization tactics for this highly discrete space.
+
+See also the [LinkedIn submission post](<your link here>).
+
+- Aleksandrs Slivkins (2019), "Introduction to Multi-Armed Bandits", Foundations and Trends in Machine Learning: Vol. 12: No. 1-2, pp 1-286. http://dx.doi.org/10.1561/2200000068
+- Dimmery, D., Bakshy, E., & Sekhon, J. (2019). Shrinkage Estimators in Online Experiments. arXiv. https://doi.org/10.48550/ARXIV.1904.12918
+```
+
+
+This pull request will be considered your final submission. Again, if you find this process daunting, you are welcome to instead send your link by email to sterling.baird@utoronto.ca. Please include "AC BO Hackathon Final Submission" in the subject line. We will update the project file and create corresponding pull request for you.
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
