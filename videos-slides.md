@@ -8,7 +8,10 @@ menu_icon: film
 
 <ul class="grid">
 
-<li class="video" markdown="1">
+This section will be populated with the talks from the welcome session of the hackathon.
+
+<!-- <li class="video" markdown="1">
+
 {% include youtube.html video="lIanN0DI9R8" title="Best practices for reproducible research – Thinking in Spreadsheets" %}
 
 In this talk given at the CMIP6 Data Hackathon 2021, Jean Golding Institute
@@ -20,7 +23,7 @@ practices to follow when coding for reproducible research.
 {% include youtube.html video="lIanN0DI9R8" title="Another video" %}
 
 Another video...
-</li>
+</li> -->
 
 </ul>
 
@@ -28,7 +31,9 @@ Another video...
 
 <ul class="grid">
 
-<li class="video" markdown="1">
+This section will contain project 
+
+<!-- <li class="video" markdown="1">
 {% include youtube.html video="lIanN0DI9R8" title="Project 1 ..." %}
 
 Project description...
@@ -38,6 +43,6 @@ Project description...
 {% include youtube.html video="lIanN0DI9R8" title="Project 2 ..." %}
 
 Another video...
-</li>
+</li> -->
 
 </ul>
