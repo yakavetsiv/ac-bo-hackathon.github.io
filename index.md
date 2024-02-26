@@ -127,11 +127,11 @@ We'd like to congratulate the following teams for their outstanding contribution
 
 ## Sponsors
 
-<a href="https://acceleration.utoronto.ca/">
-  <img src="./assets/ac-logo.png" alt="The Acceleration Consortium @ University of Toronto" style="width:400px;">
-</a>
-<br>
-<br>
-<a href="https://www.emdgroup.com/en">
-  <img src="./assets/merck-logo.png" alt="Merck KGaA" style="width:400px;">
-</a>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://acceleration.utoronto.ca/">
+        <img src="./assets/ac-logo.png" alt="The Acceleration Consortium @ University of Toronto" style="width:400px; margin-right: 20px;">
+    </a>
+    <a href="https://www.emdgroup.com/en">
+        <img src="./assets/merck-logo.png" alt="Merck KGaA" style="width:400px; margin-left: 20px;">
+    </a>
+</div>
