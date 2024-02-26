@@ -25,7 +25,7 @@ For those looking for a refresher on Python programming, see the following GitHu
 
 #### Python Programming
 
-At least beginner Python programming experience is recommended for participation in code-focused projects of the hackathon.
+Programming expertise is not required, but at least beginner Python programming experience is recommended for participation in code-focused projects of the hackathon.
 
 For those looking for a brief refresher on Python programming, we recommend you complete the following GitHub Classroom assignment:
 
