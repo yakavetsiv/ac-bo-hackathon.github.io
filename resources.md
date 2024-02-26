@@ -16,26 +16,27 @@ menu_icon: journal-code
 
 #### Complete the orientation modules
 
+Please complete the following orientation assignments in preparation for the hackathon. These modules are designed to help you get familiar with the tools and concepts you'll need to participate in the hackathon.
 
+- [Intro to Git and GitHub](https://classroom.github.com/a/2rswOlPi)
+- [Intro to GitHub Classroom](https://classroom.github.com/a/EaTuZ8L8)
 
-- Intro to Git and GitHub
-- Intro to GitHub Classroom
-- Python refresher
+For those looking for a refresher on Python programming, see the following GitHub Classroom assignment and the resources in the next section.
 
 #### Python Programming
 
-At least beginner Python programming experience is recommended for participation in the coding aspects of the hackathon. For those this applies to, we recommend you complete an introductory Python course in preparation for the hackathon.
+At least beginner Python programming experience is recommended for participation in code-focused projects of the hackathon.
+
+For those looking for a brief refresher on Python programming, we recommend you complete the following GitHub Classroom assignment:
+
+- [Python refresher](https://classroom.github.com/a/XFCJVXYP)
+
+For those without prior Python experience, we recommend you complete an introductory Python course in preparation for the hackathon.
 
 - [Python for Everybody by University of Michigan](https://www.coursera.org/specializations/python)
 - [Learn Python 3 by CodeAcademy](https://www.codecademy.com/learn/learn-python-3)
 - [Intro to Python Programming for Materials Engineers](https://youtube.com/playlist?list=PLL0SWcFqypCmkHClksnGlab3wglEVMqNN)
 - [Python Beginners Guide for Programmers by Python Software Foundation](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-
-#### Git and GitHub
-
-Basic familiarity with git and GitHub is recommended. Please familiarize yourself with the following resource in preparation for the hackathon.
-
-- [Introduction to Git and GitHub](https://github.com/AC-Classroom/github-starter-course)
 
 ### Bayesian optimization
 
@@ -51,18 +52,23 @@ Basic familiarity with git and GitHub is recommended. Please familiarize yoursel
 
 #### [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/) - A Distill Pub article that provides an overview of active learning, Bayesian optimization with visualizations and mathematical rigor.
 
+#### [Bayesian Optimization Book](https://bayesoptbook.com/) - For those REALLY looking to dive deep into the topic, this book is a comprehensive resource on Bayesian optimization. The book aims to provide a self-contained and comprehensive introduction to Bayesian optimization, starting "from scratch" and carefully developing all the key ideas along the way. The book is free, and even open-source.
+
 </li>
 
 <li class="resource-block" markdown="1">
 
 ## BO Tools
 
-Use of the tools listed in this section is not a requirement. A diverse set of packages and implementations is encouraged. Likewise, multiple teams using the same package is not a problem, since implementations can remain private during the course of the hackathon. If you'd like to see a specific tool listed here, please navigate to the "Improve this page" link at the bottom of the page and open a pull request.
+Use of the tools listed in this section is not a requirement. A diverse set of packages and implementations is encouraged. Likewise, multiple teams using the same package is not a problem, in part because implementations can remain private during the course of the hackathon.[<sup>(?)</sup>][faq]{:title="Does my GitHub repository need to be public?"} If you'd like to see a specific tool listed here, please navigate to the "Improve this page" link at the bottom of the page and open a pull request.
 
 #### [Acceleration Consortium's curated list of optimization tools](https://github.com/AccelerationConsortium/awesome-self-driving-labs#optimization)
 
 #### BayBE
-This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe). This tool focuses on real-world experimental campaigns in the physical sciences.
+This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe). This tool focuses on real-world experimental campaigns in the physical sciences with support for integrating domain knowledge through custom parameter encodings and built-in chemical encodings. In addition, it allows for custom surrogate models, mixed variable types, and transfer learning.
+
+#### Adaptive Experiment (Ax) Platform
+The Ax Platform is a tool developed by Meta's Adaptive Experimentation team. It is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks. It is a high-level wrapper to the widely used [BoTorch](https://botorch.org/) library, also developed by Meta, which is built on PyTorch.
 
 <li class="resource-block" markdown="1">
 
