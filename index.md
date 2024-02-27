@@ -61,23 +61,25 @@ With the emergence of new [Bayesian optimization tools for the physical sciences
 
 Researchers can sign up to [topics such as]({{ site.baseurl }}{% link projects.md %})
 applying algorithms to existing benchmarks, developing new benchmark tasks, creating instructional tutorials, and proposing real-world chemistry and materials optimization tasks. [This opportunity]({{ site.baseurl }}{% link registration.md %})
-is open to researchers at all levels who are interested in applying Bayesian optimization[<sup>(?)</sup>][faq]{:title="Are algorithms other than Bayesian optimization allowed?"} for accelerated discovery in chemistry and materials science. For code-focused projects, we recommend beginner-to-intermediate Python programming experience and basic familiarity with git and GitHub.[<sup>(?)</sup>][faq]{:title="Am I eligible to participate in the hackathon?"}. Training resources are available on the [resources page](_/../resources.md)
+is open to researchers at all levels who are interested in applying Bayesian optimization[<sup>(?)</sup>][faq]{:title="Are algorithms other than Bayesian optimization allowed?"} for accelerated discovery in chemistry and materials science. Prior programming experience is not required, but for code-focused projects, we recommend beginner-to-intermediate Python programming experience and basic familiarity with git and GitHub.[<sup>(?)</sup>][faq]{:title="Am I eligible to participate in the hackathon?"}. Training resources are available on the [resources page](_/../resources.md).
 
 ## Logistics
 
 The event will take place virtually, using a combination of **video
-conferencing** virtual Gather space for meetings and seminars, and **discussion forums**
-([Accelerated Discovery Discourse](https://accelerated-discovery.discourse.group/), [AC Discord](https://discord.gg/gZPKDH3pWU)) for ongoing comms.
+conferencing** ([virtual Gather space](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA)) for meetings and seminars, and **discussion forums**
+([Accelerated Discovery Discourse](https://accelerated-discovery.discourse.group/), [Slack](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj)) for ongoing comms.
+
+<!-- [AC Discord](https://discord.gg/gZPKDH3pWU) -->
 
 ## Outputs
 
-By the end of the event, in addition to applying and developing algorithms, benchmarks, and tutorials, we hope you will have formed new connections, learned new skills, and been inspired with new ideas! We will also be working towards a scholarly article[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}, and we hope you will be able to contribute to this effort.
+By the end of the event, in addition to engaging applying and developing algorithms, benchmarks, creating tutorials, describing real-world applications, and other projects, we hope you will have formed new connections, learned new skills, and been inspired with new ideas! We will also be working towards a scholarly article[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}, and we hope you will be able to contribute to this effort.
 
 {% else %}
 
 With the completion of a 2-day virtual hackathon hosted by scientists from the Acceleration Consortium and Merck KGaA on {{ site.event_date }}, we thank participants for exploring, collaborating, innovating, and contributing to the advancement of Bayesian optimization for the physical sciences.
 
-During the hackathon, researchers had the opportunity to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks. The results of this collaborative effort will be collated and presented in a scholarly article[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}.
+During the hackathon, researchers had the opportunity to select or develop Bayesian optimization algorithms and apply them to benchmarking tasks, design new benchmark tasks, create instructional tutorials, describe real-world applications, and more. The results of this collaborative effort will be collated and presented in a scholarly article[<sup>(?)</sup>][faq]{:title="What is required for me to participate in the scholarly article?"}.
 
 Although the event has concluded, the outputs from the hackathon, including applied and developed algorithms, benchmarks, and tutorials, will continue to serve as valuable resources for the research community. Outputs from teams that have opted to release their projects are available at https://github.com/AC-BO-Hackathon. We believe that through this event, new connections have been formed, new skills have been acquired, and new ideas have been inspired.
 
