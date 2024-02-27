@@ -8,17 +8,17 @@ menu_icon: journal-code
 
 <li class="resource-block" markdown="1">
 
-## Getting Set Up
+## Getting Started
 
-#### [Slack](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj) - Join the hackathon's Slack channel to connect with other participants, ask questions, and to help form teams
+#### [Slack](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj) - Join the hackathon's Slack channel to connect, ask questions, and form teams
 
-#### [Project proposals](_/../submission.md) - team leaders should submit their project proposals and form teams
+#### [Project proposals](_/../submission.md) - team leaders should submit their project proposals
 
-#### [Gather](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA) - Add the Gather Town event to your calendar
+#### [Gather](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA) - Add the event to your calendar
 
-####  [Accelerated discovery forum](https://accelerated-discovery.discourse.group/) - create an account to participate in the hackathon's discussion forums
+####  [Accelerated discovery forum](https://accelerated-discovery.discourse.group/) - create an account
 
-#### [Bayesian optimization](https://youtu.be/IVaWl2tL06c) - Watch a recording of the Accelerate '23 training workshop on Bayesian optimization
+#### [Bayesian optimization](https://youtu.be/IVaWl2tL06c) - Watch the Accelerate '23 training workshop on Bayesian optimization
 
 {% include youtube.html video="IVaWl2tL06c" title="" %}
 
@@ -36,6 +36,8 @@ Please complete the following orientation assignments in preparation for the hac
         <td><a href="https://classroom.github.com/a/EaTuZ8L8">📝 Intro to GitHub Classroom</a></td>
     </tr>
 </table>
+
+{% include youtube.html video="w3jLJU7DT5E" title="" %}
 
 <p>For those looking for a refresher on Python programming or to implement a simple BO example, see the following GitHub Classroom assignments:</p>
 
@@ -91,10 +93,16 @@ For those looking for a brief, interactive refresher on Python programming, see 
 
 For those without prior Python experience, we recommend you complete an introductory Python course in preparation for the hackathon. Some resources are listed below:
 
-- [Python for Everybody by University of Michigan](https://www.coursera.org/specializations/python)
-- [Learn Python 3 by CodeAcademy](https://www.codecademy.com/learn/learn-python-3)
-- [Intro to Python Programming for Materials Engineers](https://youtube.com/playlist?list=PLL0SWcFqypCmkHClksnGlab3wglEVMqNN)
-- [Python Beginners Guide for Programmers by Python Software Foundation](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+<table>
+    <tr>
+        <td><a href="https://www.coursera.org/specializations/python">Python for Everybody by University of Michigan</a></td>
+        <td><a href="https://www.codecademy.com/learn/learn-python-3">Learn Python 3 by CodeAcademy</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://youtube.com/playlist?list=PLL0SWcFqypCmkHClksnGlab3wglEVMqNN">Intro to Python Programming for Materials Engineers</a></td>
+        <td><a href="https://wiki.python.org/moin/BeginnersGuide/Programmers">Python Beginners Guide for Programmers by Python Software Foundation</a></td>
+    </tr>
+</table>
 
 If you have no prior programming experience, you may wish to start with the following resource:
 - [Python Beginners Guide for Non-programmers by Python Software Foundation](https://www.python.org/about/gettingstarted/)
