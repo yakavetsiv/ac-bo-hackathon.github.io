@@ -10,7 +10,7 @@ menu_icon: journal-code
 
 ## Getting Set Up
 
-#### [Slack](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj) - Join the hackathon's Slack channel to connect with other participants and ask questions
+#### [Slack](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj) - Join the hackathon's Slack channel to connect with other participants, ask questions, and to help form teams
 
 #### [Project proposals](_/../submission.md) - team leaders should submit their project proposals and form teams
 
@@ -26,18 +26,33 @@ menu_icon: journal-code
 
 Please complete the following orientation assignments in preparation for the hackathon. These modules are designed to help you get familiar with the tools and concepts you'll need to participate in the hackathon. If you are already familiar with Git and GitHub, you may skip to the GitHub Classroom tutorial. Note that you will need to [create a GitHub account](https://github.com/join) to access these resources.
 
-- [📝 Intro to Git and GitHub](https://classroom.github.com/a/2rswOlPi)
-- [📝 Intro to GitHub Classroom](https://classroom.github.com/a/EaTuZ8L8)
+| [📝 Intro to Git and GitHub](https://classroom.github.com/a/2rswOlPi) | [📝 Intro to GitHub Classroom](https://classroom.github.com/a/EaTuZ8L8) |
+| --- | --- |
 
-For those looking for a refresher on Python programming, see the following GitHub Classroom assignment:
+For those looking for a refresher on Python programming or to implement a simple BO example, see the following GitHub Classroom assignments:
 
-- [📝 Python Refresher](https://classroom.github.com/a/XFCJVXYP)
+| [📝 Python Refresher](https://classroom.github.com/a/XFCJVXYP) | [📝 Simple Bayesian optimization script](https://classroom.github.com/a/TlzXth_g) |
+| --- | --- |
 
-For those looking to implement a simple Bayesian optimization example, see the following GitHub Classroom assignment:
+</li>
 
-- [📝 Bayesian Optimization](https://classroom.github.com/a/TlzXth_g)
+<li class="resource-block" markdown="1">
 
-Additional resources are provided in other sections on this page.
+## Bayesian optimization
+
+#### [Bayes Rule by 3Blue1Brown](https://youtu.be/HZGCoVF3YvM) -- explanation of the fundamental concept behind Bayesian methods
+
+{% include youtube.html video="HZGCoVF3YvM" title="" %}
+
+#### [A Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c) - a recording of the Accelerate '23 training workshop on Bayesian optimization, with a focus on application
+
+{% include youtube.html video="IVaWl2tL06c" title="" %}
+
+#### [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/) - A Distill Pub article explaining a commonly used predictive model in Bayesian optimization with visualizations and mathematical rigor.
+
+#### [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/) - A Distill Pub article that provides an overview of active learning, Bayesian optimization with visualizations and mathematical rigor.
+
+#### [Bayesian Optimization Book](https://bayesoptbook.com/) - For those REALLY looking to dive deep into the topic, this book is a comprehensive resource on Bayesian optimization. The book aims to provide a self-contained and comprehensive introduction to Bayesian optimization, starting "from scratch" and carefully developing all the key ideas along the way. The book is free, and even open-source.
 
 </li>
 
@@ -75,26 +90,6 @@ For those without prior Python experience, we recommend you complete an introduc
 
 If you have no prior programming experience, you may wish to start with the following resource:
 - [Python Beginners Guide for Non-programmers by Python Software Foundation](https://www.python.org/about/gettingstarted/)
-
-</li>
-
-<li class="resource-block" markdown="1">
-
-## Bayesian optimization
-
-#### [Bayes Rule by 3Blue1Brown](https://youtu.be/HZGCoVF3YvM) -- explanation of the fundamental concept behind Bayesian methods
-
-{% include youtube.html video="HZGCoVF3YvM" title="" %}
-
-#### [A Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c) - a recording of the Accelerate '23 training workshop on Bayesian optimization, with a focus on application
-
-{% include youtube.html video="IVaWl2tL06c" title="" %}
-
-#### [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/) - A Distill Pub article explaining a commonly used predictive model in Bayesian optimization with visualizations and mathematical rigor.
-
-#### [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/) - A Distill Pub article that provides an overview of active learning, Bayesian optimization with visualizations and mathematical rigor.
-
-#### [Bayesian Optimization Book](https://bayesoptbook.com/) - For those REALLY looking to dive deep into the topic, this book is a comprehensive resource on Bayesian optimization. The book aims to provide a self-contained and comprehensive introduction to Bayesian optimization, starting "from scratch" and carefully developing all the key ideas along the way. The book is free, and even open-source.
 
 </li>
 
