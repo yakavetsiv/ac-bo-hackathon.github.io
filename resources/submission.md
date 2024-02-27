@@ -50,16 +50,19 @@ This category is for projects that don't fit into the special topics listed abov
 ## Project initialization
 
 As a teamleader, to initialize your project(s)[<sup>(?)</sup>][faq]{:title="Can I participate in multiple projects?"}, please follow these steps:
-1. Accept the GitHub Classroom invitation to a topic above
-2. Create a new team in the GitHub Classroom interface
-3. Use [this link to create a new file](https://github.com/AC-BO-Hackathon/ac-bo-hackathon.github.io/new/main/_projects) in a fork of the hackathon repository named `project-<your-team-name>.md`. For example, if your team name is "Bayes Bandits", the file should be named `project-bayes-bandits.md`
+
+1. Use [this link to create a new file](https://github.com/AC-BO-Hackathon/ac-bo-hackathon.github.io/new/main/_projects) in a fork of the hackathon repository named `project-<your-team-name>.md`. For example, if your team name is "Bayes Bandits", the file should be named `project-bayes-bandits.md`
 
 ![project submission](../assets/project-submission.png)
 
-4. Copy the following contents into the file and fill in the corresponding details. Replace `<your-repo-name>` with the GitHub repository that was created by GitHub Classroom for you. For example, if your team name is "Bayes Bandits", the repository will be named `bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/bayes-bandits`.
-5. Submit a pull request to the hackathon repository with the title "Add project <your-team-name>".
-6. Have your team members click on the same GitHub Classroom invitation link that you used and join the team you created.
-7. Once the pull request is merged, your project will appear in the list below.
+1. Copy the template from below into the file and fill in the title, team leads, and contributors sections
+2. Submit a pull request to the hackathon repository with the title "Add project <your-team-name>" and tag your team members in the pull request description
+3. Once the pull request is merged, your project will appear on [the projects page](_/../../projects.md)
+
+Replace `<your-repo-name>` with the GitHub repository that was created by GitHub Classroom for you. For example, if your team name is "Bayes Bandits", the repository will be named `bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/bayes-bandits`.
+5. Accept the GitHub Classroom invitation to a topic above
+6. Create a new team in the GitHub Classroom interface
+7. Have your team members click on the same GitHub Classroom invitation link that you used and join the team you created.
 
 ```markdown
 ---
@@ -111,8 +114,7 @@ If the submission instructions from above are daunting, you are welcome to submi
 
 ## End of hackathon
 
-To ensure a dynamic and engaging submission process, we ask that all hackathon teams submit their final projects through social media (e.g., Twitter, LinkedIn, YouTube). 
-By sharing your work with a broader audience, you’ll help to promote groundbreaking research in materials science and chemistry while inspiring others to contribute to the field.
+To ensure a dynamic and engaging submission process, we ask that all hackathon teams submit their final projects through social media (e.g., Twitter, LinkedIn, YouTube). By sharing your work with a broader audience, you’ll help to promote groundbreaking research in materials science and chemistry while inspiring others to contribute to the field.
 
 Here are the guidelines for submitting your project:
 
@@ -149,7 +151,6 @@ See also the [LinkedIn submission post](<your link here>).
 - Aleksandrs Slivkins (2019), "Introduction to Multi-Armed Bandits", Foundations and Trends in Machine Learning: Vol. 12: No. 1-2, pp 1-286. http://dx.doi.org/10.1561/2200000068
 - Dimmery, D., Bakshy, E., & Sekhon, J. (2019). Shrinkage Estimators in Online Experiments. arXiv. https://doi.org/10.48550/ARXIV.1904.12918
 ```
-
 
 This pull request will be considered your final submission. Again, if you find this process daunting, you are welcome to instead send your link by email to sterling.baird@utoronto.ca. Please include "AC BO Hackathon Final Submission" in the subject line. We will update the project file and create corresponding pull request for you.
 
