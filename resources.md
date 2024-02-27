@@ -12,13 +12,13 @@ menu_icon: journal-code
 
 #### [Slack](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj) - Join the hackathon's Slack channel to connect, ask questions, and form teams
 
-#### [Project proposals](_/../submission.md) - team leaders should submit their project proposals
+#### [Project proposals](_/../submission.md) - team leaders should submit their project proposals using the instructions here
 
 #### [Gather](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA) - Add the event to your calendar
 
-####  [Accelerated discovery forum](https://accelerated-discovery.discourse.group/) - create an account
+####  [Accelerated discovery forum](https://accelerated-discovery.discourse.group/) - create an account to join the discussion forums
 
-#### [Bayesian optimization](https://youtu.be/IVaWl2tL06c) - Watch the Accelerate '23 training workshop on Bayesian optimization
+#### [Bayesian optimization](https://youtu.be/IVaWl2tL06c) - Watch the Accelerate '23 training workshop: "A Gentle Introduction to Bayesian Optimization"
 
 {% include youtube.html video="IVaWl2tL06c" title="" %}
 
