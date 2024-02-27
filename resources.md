@@ -14,7 +14,7 @@ menu_icon: journal-code
 
 #### [Project proposals](_/../submission.md) - team leaders should submit their project proposals and form teams
 
-#### 
+#### [Add Gather event to calendar](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA)
 
 #### Complete the interactive orientation modules
 
