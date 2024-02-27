@@ -10,13 +10,13 @@ menu_icon: journal-code
 
 ## Getting Set Up
 
-#### [Slack](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj) - Join the hackathon's Slack channel to connect with other participants and ask questions.
+#### [Slack](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj) - Join the hackathon's Slack channel to connect with other participants and ask questions
 
 #### [Project proposals](_/../submission.md) - team leaders should submit their project proposals and form teams
 
 #### [Gather](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA) - Add the Gather Town event to your calendar
 
-####  [Accelerated discovery forum](https://accelerated-discovery.discourse.group/) - create an account
+####  [Accelerated discovery forum](https://accelerated-discovery.discourse.group/) - create an account to participate in the hackathon's discussion forums
 
 </li>
 
