@@ -43,7 +43,7 @@ Brainstorm, build, team up.
    3. If you plan to be a team leader, submit your [project proposal](_/../resources.md)
 3. For coding-related projects, [complete the orientation modules](_/../resources.md)
 
-<!-- 4. If you plan to join an existing project, use the GitHub Classroom link corresponding to the project topic and select the appropriate team on the GitHub Classroom interface (see [submission](_/../resources/submission.md)). Reach out to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) if you have trouble getting added to your team -->
+<!-- 4. If you plan to join an existing project, use the GitHub Classroom link corresponding to the project topic and select the appropriate team on the GitHub Classroom interface (see [submission](_/../submission.md)). Reach out to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) if you have trouble getting added to your team -->
 
 ### Day 1: Mar 27
 
@@ -69,7 +69,7 @@ Brainstorm, build, team up.
 
 ### Mar 29
 
-[Submissions](_/../resources/submission.md) due by {{ site.submissions_due }}.
+[Submissions](_/../submission.md) due by {{ site.submissions_due }}.
 
 <!-- Prizes to be announced March 29 at 1:00 PM Eastern Time (ET). -->
 
