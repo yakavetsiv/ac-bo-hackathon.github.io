@@ -18,9 +18,9 @@ menu_icon: journal-code
 
 ####  [Accelerated discovery forum](https://accelerated-discovery.discourse.group/) - create an account to join the discussion forums
 
-#### [Bayesian optimization](https://youtu.be/IVaWl2tL06c) - Watch the Accelerate '23 training workshop: "A Gentle Introduction to Bayesian Optimization"
+#### [Bayesian optimization](https://youtu.be/IVaWl2tL06c) - Watch the Accelerate '23 training workshop on Bayesian optimization
 
-{% include youtube.html video="IVaWl2tL06c" title="" %}
+{% include youtube.html video="IVaWl2tL06c" title="A Gentle Introduction to Bayesian Optimization" %}
 
 </li>
 
@@ -46,9 +46,7 @@ For those looking for a refresher on Python programming or to implement a simple
     </tr>
 </table>
 
-#### What is GitHub?
-
-{% include youtube.html video="w3jLJU7DT5E" title="" %}
+{% include youtube.html video="w3jLJU7DT5E" title="What is GitHub?" %}
 
 </li>
 
