@@ -29,7 +29,7 @@ menu_icon: briefcase
 
 {% if event_status != "over" %}
 
-For details on how to submit a project, see the [submission page](_/../submission.md).
+Find below the webpages for each of the hackathon projects. For details on how to submit a project, see the [submission page](_/../submission.md).
 
 {% else %}
 
