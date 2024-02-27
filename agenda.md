@@ -63,6 +63,7 @@ Brainstorm, build, team up.
 | 09:00 | Welcome |
 | 09:10 | Breakout |
 | 12:00 | Project showcase and judging |
+| 12:50 | Closing remarks and announcements |
 | 13:00 | End of Day 2 |
 
 ### Mar 29
