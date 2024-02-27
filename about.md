@@ -113,3 +113,7 @@ To contact us about the hackathon, please contact us on Twitter or Slack. -->
         </td>
     </tr> -->
 </table>
+
+### Acknowledgements
+
+We thank Ben Blaiszik, Kevin Jablonka, and the rest of the organizing team for the [LLMs in Materials and Chemistry '23 Hackathon](https://materials-data-facility.github.io/llm-hackathon/), for which this event is heavily templated off of.
