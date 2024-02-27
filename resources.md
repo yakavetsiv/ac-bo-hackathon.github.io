@@ -28,7 +28,7 @@ menu_icon: journal-code
 
 ## Orientation Modules
 
-Please complete the following orientation assignments in preparation for the hackathon. These modules are designed to help you get familiar with the tools and concepts you'll need to participate in the hackathon. If you are already familiar with Git and GitHub, you may skip to the GitHub Classroom tutorial. Note that you will need to [create a GitHub account](https://github.com/join) to access these resources. Additional resources are listed in other sections on this page.
+Please complete the following orientation assignments in preparation for the hackathon to familiarize the tools and concepts you'll need. You will need to [create a GitHub account](https://github.com/join) to access these resources. If you are already familiar with git and GitHub, you may skip directly to "Intro to GitHub Classroom".
 
 <table>
     <tr>
@@ -37,9 +37,7 @@ Please complete the following orientation assignments in preparation for the hac
     </tr>
 </table>
 
-{% include youtube.html video="w3jLJU7DT5E" title="" %}
-
-<p>For those looking for a refresher on Python programming or to implement a simple BO example, see the following GitHub Classroom assignments:</p>
+For those looking for a refresher on Python programming or to implement a simple BO example, see the following GitHub Classroom assignments:
 
 <table>
     <tr>
@@ -47,6 +45,10 @@ Please complete the following orientation assignments in preparation for the hac
         <td><a href="https://classroom.github.com/a/TlzXth_g">📝 Simple Bayesian optimization script</a></td>
     </tr>
 </table>
+
+#### What is GitHub?
+
+{% include youtube.html video="w3jLJU7DT5E" title="" %}
 
 </li>
 
