@@ -31,23 +31,17 @@ We are still refining the list of benchmark tasks. Please contact us if you have
 - Multi-objective Optimization
 - Real-world noise
 
-<!-- #### Judging Criteria -->
-
 ### Developing New Benchmarks
 
 Ideally, these tasks will be representative of real-world problems in chemistry and materials science. While remotely accessible automated experiments would be the gold standard, the more pragmatic benchmark tasks typically include surrogate modeling. The new benchmark tasks should lean towards real-world conditions in terms of optimization problem type (objectives, fidelities, constraints) and/or relevance towards chemistry and materials applications (e.g., molecules, materials, reactions, etc.).
-
-<!-- #### Judging Criteria -->
 
 ### Creating Instructional Tutorials
 
 We will provide a set of topics in Bayesian optimization, and your job will be to create a tutorial that introduces the topic conceptually and provides a hands-on example. These are meant to be "gentle introduction" tutorials which assume beginner Python knowledge and Bayesian optimization knowledge (see [resources](_/../resources.md) for more details).
 
-<!-- #### Judging Criteria -->
-
 ### Real-world Chemistry and Materials Tasks
 
-The hackathon is also open to proposals for real-world optimization tasks in chemistry and materials science. This will involve providing beginner-friendly background knowledge on the impact of the application, existing solutions, and the science behind it. It will also involve providing rigorous details around the optimization problem, including search space (tunable parameters + constraints), objectives, experimental equipment, reagants, and standard operating procedures. These should be well-defined problems that *can* and *should* be tackled with Bayesian optimization, but have not yet.
+The hackathon is also open to proposals for real-world optimization tasks in chemistry and materials science. This will involve providing beginner-friendly background knowledge on the impact of the application, existing solutions, and the science behind it. It will also involve providing rigorous details around the optimization problem, including search space (tunable parameters + constraints), objectives, experimental equipment, reagants, and standard operating procedures. These should be well-defined problems that *can* and *should* be tackled with Bayesian optimization, but have not yet. If you do not have a background in Bayesian optimization, it is highly recommended that you watch the recording of the Accelerate '23 [Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c) training workshop.
 
 ### General
 
