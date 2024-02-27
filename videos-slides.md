@@ -31,7 +31,7 @@ Another video...
 
 <ul class="grid">
 
-This section will contain project 
+This section will contain project presentations that were submitted by the teams.
 
 <!-- <li class="video" markdown="1">
 {% include youtube.html video="lIanN0DI9R8" title="Project 1 ..." %}
