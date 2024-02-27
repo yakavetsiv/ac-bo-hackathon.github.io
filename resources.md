@@ -24,7 +24,7 @@ menu_icon: journal-code
 
 ## Orientation Modules
 
-Please complete the following orientation assignments in preparation for the hackathon. These modules are designed to help you get familiar with the tools and concepts you'll need to participate in the hackathon. If you are already familiar with Git and GitHub, you may skip to the GitHub Classroom tutorial.
+Please complete the following orientation assignments in preparation for the hackathon. These modules are designed to help you get familiar with the tools and concepts you'll need to participate in the hackathon. If you are already familiar with Git and GitHub, you may skip to the GitHub Classroom tutorial. Note that you will need to [create a GitHub account](https://github.com/join) to access these resources.
 
 - [📝 Intro to Git and GitHub](https://classroom.github.com/a/2rswOlPi)
 - [📝 Intro to GitHub Classroom](https://classroom.github.com/a/EaTuZ8L8)
@@ -107,5 +107,7 @@ If you have no prior programming experience, you may wish to start with the foll
 ### [Submission](_/../resources/submission.md) - The hackathon's workflow for submissions
 
 </li>
+
+</ul>
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
