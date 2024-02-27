@@ -12,7 +12,7 @@ menu_icon: journal-code
 
 #### [Slack](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj) - Join the hackathon's Slack channel to connect, ask questions, and form teams
 
-#### [Project proposals](_/../resources/submission.md) - team leaders should submit their project proposals using the instructions here
+#### [Project proposals](_/../submission.md) - team leaders should submit their project proposals using the instructions here
 
 #### [Gather](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA) - Add the Gather Town event to your calendar
 
@@ -58,11 +58,11 @@ For those looking for a refresher on Python programming or to implement a simple
 
 {% include youtube.html video="HZGCoVF3YvM" title="" %}
 
-#### [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/) - A Distill Pub article explaining a commonly used predictive model in Bayesian optimization with visualizations and mathematical rigor.
+#### [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/) - An explanation of a commonly used predictive model in Bayesian optimization with visualizations and mathematical rigor
 
-#### [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/) - A Distill Pub article that provides an overview of active learning, Bayesian optimization with visualizations and mathematical rigor.
+#### [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/) - An overview of active learning and Bayesian optimization with visualizations and mathematical rigor
 
-#### [Bayesian Optimization Book](https://bayesoptbook.com/) - For those REALLY looking to dive deep into the topic, this book is a comprehensive resource on Bayesian optimization. The book aims to provide a self-contained and comprehensive introduction to Bayesian optimization, starting "from scratch" and carefully developing all the key ideas along the way. The book is free, and even open-source.
+#### [Bayesian Optimization Book](https://bayesoptbook.com/) - For those that REALLY want to understand BO, this is a self-contained, comprehensive deep dive that builds up basic principles from "scratch" and delves into advanced topics. The book is free and open-source.
 
 </li>
 
@@ -129,7 +129,7 @@ The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experi
 
 ## Guidelines
 
-### [Submission](_/../resources/submission.md) - The hackathon's workflow for submissions
+### [Submission](_/../submission.md) - The hackathon's workflow for submissions
 
 </li>
 
