@@ -16,7 +16,13 @@ menu_icon: journal-code
 
 #### [Add Gather event to calendar](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA)
 
-#### Complete the interactive orientation modules
+#### Create an [accelerated discovery forum](https://accelerated-discovery.discourse.group/) account
+
+</li>
+
+<li class="resource-block" markdown="1">
+
+## Orientation Modules
 
 Please complete the following orientation assignments in preparation for the hackathon. These modules are designed to help you get familiar with the tools and concepts you'll need to participate in the hackathon. If you are already familiar with Git and GitHub, you may skip to the GitHub Classroom tutorial.
 
@@ -56,7 +62,7 @@ The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experi
 
 <li class="resource-block" markdown="1">
 
-#### Python Programming
+## Python
 
 Programming expertise is not required, but at least beginner Python programming experience is recommended for participation in code-focused projects of the hackathon.
 
@@ -76,7 +82,7 @@ If you have no prior programming experience, you may wish to start with the foll
 
 <li class="resource-block" markdown="1">
 
-### Bayesian optimization
+## Bayesian optimization
 
 #### [Bayes Rule by 3Blue1Brown](https://youtu.be/HZGCoVF3YvM) -- explanation of the fundamental concept behind Bayesian methods
 
