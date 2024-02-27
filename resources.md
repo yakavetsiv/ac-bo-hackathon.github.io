@@ -14,24 +14,55 @@ menu_icon: journal-code
 
 #### [Project proposals](_/../submission.md) - team leaders should submit their project proposals and form teams
 
-#### Complete the orientation modules
+#### 
 
-Please complete the following orientation assignments in preparation for the hackathon. These modules are designed to help you get familiar with the tools and concepts you'll need to participate in the hackathon.
+#### Complete the interactive orientation modules
 
-- [Intro to Git and GitHub](https://classroom.github.com/a/2rswOlPi)
-- [Intro to GitHub Classroom](https://classroom.github.com/a/EaTuZ8L8)
+Please complete the following orientation assignments in preparation for the hackathon. These modules are designed to help you get familiar with the tools and concepts you'll need to participate in the hackathon. If you are already familiar with Git and GitHub, you may skip to the GitHub Classroom tutorial.
 
-For those looking for a refresher on Python programming, see the following GitHub Classroom assignment and the resources in the next section.
+- [📝 Intro to Git and GitHub](https://classroom.github.com/a/2rswOlPi)
+- [📝 Intro to GitHub Classroom](https://classroom.github.com/a/EaTuZ8L8)
+
+For those looking for a refresher on Python programming, see the following GitHub Classroom assignment:
+
+- [📝 Python Refresher](https://classroom.github.com/a/XFCJVXYP)
+
+For those looking to implement a simple Bayesian optimization example, see the following GitHub Classroom assignment:
+
+- [📝 Bayesian Optimization](https://classroom.github.com/a/TlzXth_g)
+
+Additional resources are provided in other sections on this page.
+
+</li>
+
+<li class="resource-block" markdown="1">
+
+## BO Tools
+
+Use of the tools listed in this section is not a requirement. A diverse set of packages and implementations is encouraged. Likewise, multiple teams using the same package is not a problem, in part because implementations can remain private during the course of the hackathon.[<sup>(?)</sup>][faq]{:title="Does my GitHub repository need to be public?"} If you'd like to see a specific tool listed here, please navigate to the "Improve this page" link at the bottom of the page and open a pull request.
+
+#### [Acceleration Consortium's curated list of optimization tools](https://github.com/AccelerationConsortium/awesome-self-driving-labs#optimization)
+
+#### BayBE
+This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe). This tool focuses on real-world experimental campaigns in the physical sciences with support for integrating domain knowledge through custom parameter encodings and built-in chemical encodings. In addition, it allows for custom surrogate models, mixed variable types, and transfer learning.
+
+#### Adaptive Experiment (Ax) Platform
+The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experimentation team. It is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks. It is a high-level wrapper to the widely used [BoTorch](https://botorch.org/) library, also developed by Meta, which is built on PyTorch.
+
+#### Honegumi: An interactive BO teaching tool
+[Honegumi](https://honegumi.readthedocs.io/en/latest/) (pronounced "ho neh goo mee", also referred to as "honey gummy"), deriving from the Japanese word for _skeletal framework_, is a package for interactively creating API tutorials with a focus on optimization packages. You use an interactive grid to select Bayesian optimization characteristics specific to your task and watch template dynamically appear. "Open in Colab" and "Open in GitHub" links are also dynamically generated for each template. [Honegumi pairs particularly well with LLMs](https://youtu.be/rnI2BvGgP9o) to adapt the templates to real-world tasks.
+
+</li>
+
+<li class="resource-block" markdown="1">
 
 #### Python Programming
 
 Programming expertise is not required, but at least beginner Python programming experience is recommended for participation in code-focused projects of the hackathon.
 
-For those looking for a brief refresher on Python programming, we recommend you complete the following GitHub Classroom assignment:
+For those looking for a brief, interactive refresher on Python programming, see the GitHub Classroom assignment from the first section on this page.
 
-- [Python refresher](https://classroom.github.com/a/XFCJVXYP)
-
-For those without prior Python experience, we recommend you complete an introductory Python course in preparation for the hackathon.
+For those without prior Python experience, we recommend you complete an introductory Python course in preparation for the hackathon. Some resources are listed below:
 
 - [Python for Everybody by University of Michigan](https://www.coursera.org/specializations/python)
 - [Learn Python 3 by CodeAcademy](https://www.codecademy.com/learn/learn-python-3)
@@ -40,6 +71,10 @@ For those without prior Python experience, we recommend you complete an introduc
 
 If you have no prior programming experience, you may wish to start with the following resource:
 - [Python Beginners Guide for Non-programmers by Python Software Foundation](https://www.python.org/about/gettingstarted/)
+
+</li>
+
+<li class="resource-block" markdown="1">
 
 ### Bayesian optimization
 
@@ -61,25 +96,10 @@ If you have no prior programming experience, you may wish to start with the foll
 
 <li class="resource-block" markdown="1">
 
-## BO Tools
-
-Use of the tools listed in this section is not a requirement. A diverse set of packages and implementations is encouraged. Likewise, multiple teams using the same package is not a problem, in part because implementations can remain private during the course of the hackathon.[<sup>(?)</sup>][faq]{:title="Does my GitHub repository need to be public?"} If you'd like to see a specific tool listed here, please navigate to the "Improve this page" link at the bottom of the page and open a pull request.
-
-#### [Acceleration Consortium's curated list of optimization tools](https://github.com/AccelerationConsortium/awesome-self-driving-labs#optimization)
-
-#### BayBE
-This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe). This tool focuses on real-world experimental campaigns in the physical sciences with support for integrating domain knowledge through custom parameter encodings and built-in chemical encodings. In addition, it allows for custom surrogate models, mixed variable types, and transfer learning.
-
-#### Adaptive Experiment (Ax) Platform
-The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experimentation team. It is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks. It is a high-level wrapper to the widely used [BoTorch](https://botorch.org/) library, also developed by Meta, which is built on PyTorch.
-
-#### Honegumi: An interactive BO teaching tool
-[Honegumi](https://honegumi.readthedocs.io/en/latest/) (pronounced "ho neh goo mee", also referred to as "honey gummy"), deriving from the Japanese word for _skeletal framework_, is a package for interactively creating API tutorials with a focus on optimization packages. You use an interactive grid to select Bayesian optimization characteristics specific to your task and watch template dynamically appear. "Open in Colab" and "Open in GitHub" links are also dynamically generated for each template. [Honegumi pairs particularly well with LLMs](https://youtu.be/rnI2BvGgP9o) to adapt the templates to real-world tasks.
-
-<li class="resource-block" markdown="1">
-
 ## Guidelines
 
 ### [Submission](_/../resources/submission.md) - The hackathon's workflow for submissions
 
 </li>
+
+[faq]: {{ site.baseurl }}{% link faq.md %}
