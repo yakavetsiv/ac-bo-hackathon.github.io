@@ -100,6 +100,9 @@ Use of the tools listed on this page is not a requirement. A diverse set of pack
 <li class="resource-block" markdown="1">
 
 #### BayBE
+
+![baybe](./assets/baybe.png)
+
 This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe). This tool focuses on real-world experimental campaigns in the physical sciences with support for integrating domain knowledge through custom parameter encodings and built-in chemical encodings. In addition, it allows for custom surrogate models, mixed variable types, and transfer learning.
 
 </li>
@@ -107,6 +110,9 @@ This hackathon is co-organized by Merck KGaA. You may consider using an internal
 <li class="resource-block" markdown="1">
 
 #### Adaptive Experiment (Ax) Platform
+
+![ax](./assets/ax_lockup_white.svg)
+
 The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experimentation team. It is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks. It is a high-level wrapper to the widely used [BoTorch](https://botorch.org/) library, also developed by Meta, which is built on PyTorch.
 
 </li>
@@ -114,6 +120,9 @@ The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experi
 <li class="resource-block" markdown="1">
 
 #### Honegumi: An interactive BO teaching tool
+
+![honegumi](./assets/honegumi.png)
+
 [Honegumi](https://honegumi.readthedocs.io/en/latest/) (pronounced "ho neh goo mee", also referred to as "honey gummy"), deriving from the Japanese word for _skeletal framework_, is a package for interactively creating API tutorials with a focus on optimization packages. You use an interactive grid to select Bayesian optimization characteristics specific to your task and watch template dynamically appear. "Open in Colab" and "Open in GitHub" links are also dynamically generated for each template. [Honegumi pairs particularly well with LLMs](https://youtu.be/rnI2BvGgP9o) to adapt the templates to real-world tasks.
 
 </li>
