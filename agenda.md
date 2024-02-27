@@ -36,13 +36,14 @@ The schedule for the event was as follows, with all times listed in Eastern Time
 
 Brainstorm, build, team up.
 
-1. Join the [Slack channel](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj) (the link expires on Feb 28, contact us if this hasn't been updated with a new link)
+1. Join the [Slack channel](https://join.slack.com/share/enQtNjcwNDYyMzQ0MTA3OC0xN2M1OTc0NDdlYjg4YTUxMzI3YjJkNDRlZmZjNjkxMDQ5NzI5OWQ3YTY4OGJiZTA5Y2EzMTViZWRjZTVjMmY2) (the link expires on March 12, contact us if this hasn't been updated with a new link)
 2. Brainstorm project ideas and form teams
    1. If you'd like to solicit solicit team members, post your project idea in the slack channel. You may also consider using social media to get feedback and find team members
    2. If you would like to join a team, use the slack channel to express your interest and describe your background
-   3. If you plan to be a team leader, submit your [project application](_/../projects.md)
-   4. If you plan to join an existing project, use the GitHub Classroom link corresponding to the project topic and select the appropriate team on the GitHub Classroom interface (see [projects](_/../projects.md)). Reach out to sterling.baird@utoronto.ca if you have trouble getting added to your team
+   3. If you plan to be a team leader, submit your [project proposal](_/../resources.md)
 3. For coding-related projects, [complete the orientation modules](_/../resources.md)
+
+<!-- 4. If you plan to join an existing project, use the GitHub Classroom link corresponding to the project topic and select the appropriate team on the GitHub Classroom interface (see [submission](_/../resources/submission.md)). Reach out to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) if you have trouble getting added to your team -->
 
 ### Day 1: Mar 27
 
