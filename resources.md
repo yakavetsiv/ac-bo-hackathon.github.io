@@ -14,9 +14,9 @@ menu_icon: journal-code
 
 #### [Project proposals](_/../submission.md) - team leaders should submit their project proposals and form teams
 
-#### [Add Gather event to calendar](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA)
+#### [Gather](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA) - Add the Gather Town event to your calendar
 
-#### Create an [accelerated discovery forum](https://accelerated-discovery.discourse.group/) account
+####  [Accelerated discovery forum](https://accelerated-discovery.discourse.group/) - create an account
 
 </li>
 
@@ -45,9 +45,7 @@ Additional resources are provided in other sections on this page.
 
 ## BO Tools
 
-Use of the tools listed in this section is not a requirement. A diverse set of packages and implementations is encouraged. Likewise, multiple teams using the same package is not a problem, in part because implementations can remain private during the course of the hackathon.[<sup>(?)</sup>][faq]{:title="Does my GitHub repository need to be public?"} If you'd like to see a specific tool listed here, please navigate to the "Improve this page" link at the bottom of the page and open a pull request.
-
-#### [Acceleration Consortium's curated list of optimization tools](https://github.com/AccelerationConsortium/awesome-self-driving-labs#optimization)
+Use of the tools listed in this section is not a requirement. A diverse set of packages and implementations is encouraged. Likewise, multiple teams using the same package is not a problem, in part because implementations can remain private during the course of the hackathon.[<sup>(?)</sup>][faq]{:title="Does my GitHub repository need to be public?"} If you'd like to see a specific tool listed here, please navigate to the "Improve this page" link at the bottom of the page and open a pull request. See also the [Acceleration Consortium's curated list of optimization tools](https://github.com/AccelerationConsortium/awesome-self-driving-labs#optimization).
 
 #### BayBE
 This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe). This tool focuses on real-world experimental campaigns in the physical sciences with support for integrating domain knowledge through custom parameter encodings and built-in chemical encodings. In addition, it allows for custom surrogate models, mixed variable types, and transfer learning.
