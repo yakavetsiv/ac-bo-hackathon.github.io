@@ -68,30 +68,9 @@ Please complete the following orientation assignments in preparation for the hac
 
 <li class="resource-block" markdown="1">
 
-## BO Tools
-
-Use of the tools listed in this section is not a requirement. A diverse set of packages and implementations is encouraged. Likewise, multiple teams using the same package is not a problem, in part because implementations can remain private during the course of the hackathon.[<sup>(?)</sup>][faq]{:title="Does my GitHub repository need to be public?"} If you'd like to see a specific tool listed here, please navigate to the "Improve this page" link at the bottom of the page and open a pull request. See also the [Acceleration Consortium's curated list of optimization tools](https://github.com/AccelerationConsortium/awesome-self-driving-labs#optimization).
-
-#### BayBE
-This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe). This tool focuses on real-world experimental campaigns in the physical sciences with support for integrating domain knowledge through custom parameter encodings and built-in chemical encodings. In addition, it allows for custom surrogate models, mixed variable types, and transfer learning.
-
-#### Adaptive Experiment (Ax) Platform
-The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experimentation team. It is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks. It is a high-level wrapper to the widely used [BoTorch](https://botorch.org/) library, also developed by Meta, which is built on PyTorch.
-
-#### Honegumi: An interactive BO teaching tool
-[Honegumi](https://honegumi.readthedocs.io/en/latest/) (pronounced "ho neh goo mee", also referred to as "honey gummy"), deriving from the Japanese word for _skeletal framework_, is a package for interactively creating API tutorials with a focus on optimization packages. You use an interactive grid to select Bayesian optimization characteristics specific to your task and watch template dynamically appear. "Open in Colab" and "Open in GitHub" links are also dynamically generated for each template. [Honegumi pairs particularly well with LLMs](https://youtu.be/rnI2BvGgP9o) to adapt the templates to real-world tasks.
-
-</li>
-
-<li class="resource-block" markdown="1">
-
 ## Python
 
-Programming expertise is not required, but at least beginner Python programming experience is recommended for participation in code-focused projects of the hackathon.
-
-For those looking for a brief, interactive refresher on Python programming, see the GitHub Classroom assignment from the first section on this page.
-
-For those without prior Python experience, we recommend you complete an introductory Python course in preparation for the hackathon. Some resources are listed below:
+Programming expertise is not required, but at least beginner Python programming experience is recommended for participation in code-focused projects of the hackathon. For those looking for a brief, interactive refresher on Python programming, see the GitHub Classroom assignment from the first section on this page. For those without prior Python experience, we recommend you complete an introductory Python course in preparation for the hackathon. Some resources are listed below:
 
 <table>
     <tr>
@@ -104,8 +83,36 @@ For those without prior Python experience, we recommend you complete an introduc
     </tr>
 </table>
 
-If you have no prior programming experience, you may wish to start with the following resource:
-- [Python Beginners Guide for Non-programmers by Python Software Foundation](https://www.python.org/about/gettingstarted/)
+If you have no prior programming experience, you may wish to start with the [Python Beginners Guide for Non-programmers by Python Software Foundation](https://www.python.org/about/gettingstarted/).
+
+</li>
+
+<li class="resource-block" markdown="1">
+
+## BO Tools
+
+Use of the tools listed on this page is not a requirement. A diverse set of packages and implementations is encouraged. Likewise, multiple teams using the same package is not a problem, in part because implementations can remain private during the course of the hackathon.[<sup>(?)</sup>][faq]{:title="Does my GitHub repository need to be public?"} If you'd like to see a specific tool listed here, please navigate to the "Improve this page" link at the bottom of the page and open a pull request. See also the [Acceleration Consortium's curated list of optimization tools](https://github.com/AccelerationConsortium/awesome-self-driving-labs#optimization).
+
+</li>
+
+<li class="resource-block" markdown="1">
+
+#### BayBE
+This hackathon is co-organized by Merck KGaA. You may consider using an internal Merck tool that was recently open-sourced, called the [Bayesian optimization BackEnd (BayBE)](https://github.com/emdgroup/baybe). This tool focuses on real-world experimental campaigns in the physical sciences with support for integrating domain knowledge through custom parameter encodings and built-in chemical encodings. In addition, it allows for custom surrogate models, mixed variable types, and transfer learning.
+
+</li>
+
+<li class="resource-block" markdown="1">
+
+#### Adaptive Experiment (Ax) Platform
+The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experimentation team. It is a user-friendly, modular, and actively developed general-purpose Bayesian optimization platform with support for simple and advanced optimization tasks. It is a high-level wrapper to the widely used [BoTorch](https://botorch.org/) library, also developed by Meta, which is built on PyTorch.
+
+</li>
+
+<li class="resource-block" markdown="1">
+
+#### Honegumi: An interactive BO teaching tool
+[Honegumi](https://honegumi.readthedocs.io/en/latest/) (pronounced "ho neh goo mee", also referred to as "honey gummy"), deriving from the Japanese word for _skeletal framework_, is a package for interactively creating API tutorials with a focus on optimization packages. You use an interactive grid to select Bayesian optimization characteristics specific to your task and watch template dynamically appear. "Open in Colab" and "Open in GitHub" links are also dynamically generated for each template. [Honegumi pairs particularly well with LLMs](https://youtu.be/rnI2BvGgP9o) to adapt the templates to real-world tasks.
 
 </li>
 
