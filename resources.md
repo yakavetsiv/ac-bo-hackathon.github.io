@@ -18,21 +18,33 @@ menu_icon: journal-code
 
 ####  [Accelerated discovery forum](https://accelerated-discovery.discourse.group/) - create an account to participate in the hackathon's discussion forums
 
+#### [Bayesian optimization](https://youtu.be/IVaWl2tL06c) - Watch a recording of the Accelerate '23 training workshop on Bayesian optimization
+
+{% include youtube.html video="IVaWl2tL06c" title="" %}
+
 </li>
 
 <li class="resource-block" markdown="1">
 
 ## Orientation Modules
 
-Please complete the following orientation assignments in preparation for the hackathon. These modules are designed to help you get familiar with the tools and concepts you'll need to participate in the hackathon. If you are already familiar with Git and GitHub, you may skip to the GitHub Classroom tutorial. Note that you will need to [create a GitHub account](https://github.com/join) to access these resources.
+Please complete the following orientation assignments in preparation for the hackathon. These modules are designed to help you get familiar with the tools and concepts you'll need to participate in the hackathon. If you are already familiar with Git and GitHub, you may skip to the GitHub Classroom tutorial. Note that you will need to [create a GitHub account](https://github.com/join) to access these resources. Additional resources are listed in other sections on this page.
 
-| [📝 Intro to Git and GitHub](https://classroom.github.com/a/2rswOlPi) | [📝 Intro to GitHub Classroom](https://classroom.github.com/a/EaTuZ8L8) |
-| --- | --- |
+<table>
+    <tr>
+        <td><a href="https://classroom.github.com/a/2rswOlPi">📝 Intro to Git and GitHub</a></td>
+        <td><a href="https://classroom.github.com/a/EaTuZ8L8">📝 Intro to GitHub Classroom</a></td>
+    </tr>
+</table>
 
-For those looking for a refresher on Python programming or to implement a simple BO example, see the following GitHub Classroom assignments:
+<p>For those looking for a refresher on Python programming or to implement a simple BO example, see the following GitHub Classroom assignments:</p>
 
-| [📝 Python Refresher](https://classroom.github.com/a/XFCJVXYP) | [📝 Simple Bayesian optimization script](https://classroom.github.com/a/TlzXth_g) |
-| --- | --- |
+<table>
+    <tr>
+        <td><a href="https://classroom.github.com/a/XFCJVXYP">📝 Python Refresher</a></td>
+        <td><a href="https://classroom.github.com/a/TlzXth_g">📝 Simple Bayesian optimization script</a></td>
+    </tr>
+</table>
 
 </li>
 
@@ -43,10 +55,6 @@ For those looking for a refresher on Python programming or to implement a simple
 #### [Bayes Rule by 3Blue1Brown](https://youtu.be/HZGCoVF3YvM) -- explanation of the fundamental concept behind Bayesian methods
 
 {% include youtube.html video="HZGCoVF3YvM" title="" %}
-
-#### [A Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c) - a recording of the Accelerate '23 training workshop on Bayesian optimization, with a focus on application
-
-{% include youtube.html video="IVaWl2tL06c" title="" %}
 
 #### [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/) - A Distill Pub article explaining a commonly used predictive model in Bayesian optimization with visualizations and mathematical rigor.
 
