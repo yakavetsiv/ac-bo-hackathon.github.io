@@ -27,7 +27,7 @@ menu_icon: clock
 
 ## Schedule
 {% if event_status != "over" %}
-The anticipated schedule is as follows, with all times listed in Eastern Time (ET). Be sure to add the events to your calendar using the [Gather link](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA).
+The anticipated schedule is as follows, with all times listed in Eastern Time (ET). Be sure to [add the events to your calendar using the Gather links](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA).
 {% else %}
 The schedule for the event was as follows, with all times listed in Eastern Time (ET):
 {% endif %}
