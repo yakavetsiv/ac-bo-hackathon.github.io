@@ -38,7 +38,7 @@ Brainstorm, build, team up.
 
 1. Join the [Slack channel](https://join.slack.com/share/enQtNjcwNDYyMzQ0MTA3OC0xN2M1OTc0NDdlYjg4YTUxMzI3YjJkNDRlZmZjNjkxMDQ5NzI5OWQ3YTY4OGJiZTA5Y2EzMTViZWRjZTVjMmY2) (the link expires on March 12, contact us if this hasn't been updated with a new link)
 2. Brainstorm project ideas and form teams
-   1. If you'd like to solicit solicit team members, post your project idea in the slack channel. You may also consider using social media to get feedback and find team members
+   1. If you'd like to solicit team members or get feedback, post your project idea in the slack channel. You may also consider using social media
    2. If you would like to join a team, use the slack channel to express your interest and describe your background
    3. If you plan to be a team leader, submit your [project proposal](_/../resources.md)
 3. For coding-related projects, [complete the orientation modules](_/../resources.md)
