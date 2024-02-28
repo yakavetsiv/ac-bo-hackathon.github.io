@@ -16,7 +16,8 @@ This is a BYOP ("bring-your-own-package") event 😉. We have some recommendatio
 
 ## Do I need to use Python, or can I use other languages?
 
-We recommend using Python, as it is the most common language for scientific computing and has a wide range of libraries for Bayesian optimization. To be considered for the prizes, your implementation must be based in Python. However, you are welcome to use other languages if you prefer. If you choose a language other than Python, your project can still be highlighted on the projects page and elsewhere.
+We recommend using Python, as it is the most common language for scientific computing and has a wide range of libraries for Bayesian optimization. However, you are welcome to use other languages if you prefer.
+<!-- To be considered for the prizes, your implementation must be based in Python. If you choose a language other than Python, your project can still be highlighted on the projects page and elsewhere. -->
 
 ## Does it have to be Bayesian optimization, or are other algorithms allowed?
 
@@ -24,7 +25,7 @@ There is certainly a focus on Bayesian optimization, but you are welcome to use 
 
 ## Is the hackathon a competition?
 
-Yes, in some sense. Rather than collaborating on a single problem together, you will work either solo or in small teams to accomplish one of three tasks: applying a Bayesian optimization algorithm to one of the provided benchmark tasks, designing a new optimization benchmark, or creating concept-focused instructional tutorials. Each submission will be reviewed by a team of judges and evaluated based on a set of criteria laid out in the [project guidelines](projects.md). Prizes will be awarded accordingly.
+Yes, in some sense. Rather than collaborating on a single problem together, you will work either solo or in small teams to accomplish one of three tasks: applying a Bayesian optimization algorithm to one of the provided benchmark tasks, designing a new optimization benchmark, or creating concept-focused instructional tutorials. Submissions will be reviewed by a team of judges[<sup>(?)</sup>][faq]{:title="What is expected from me if I act as a judge?"}.
 
 ## Do I need to have a team to participate?
 
@@ -44,7 +45,7 @@ Yes, you may participate in multiple projects. For example, one may wish to appl
 
 ## Does my GitHub repository need to be public?
 
-During the course of the hackathon, your repository can remain private. However, to be considered for the prizes and to contribute to the scholarly article, your repository must be made public. This is to ensure that the work is accessible to the community and can be reviewed by the judges. You are also welcome to make your repository public at any time leading up to or during the hackathon.
+During the course of the hackathon, your repository can remain private. However, to be considered for the prizes and to contribute to the scholarly article, your repository must be made public. This helps ensure that the work is accessible to the community and can be reviewed by the judges[<sup>(?)</sup>][faq]{:title="What is expected from me if I act as a judge?"} during the [judging and showcase section](_/../agenda.md). You are also welcome to make your repository public at any time leading up to or during the hackathon.
 
 ## What is expected from me if I act as a judge?
 
