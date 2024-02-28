@@ -136,8 +136,8 @@ $ git push
 
 ## Contributors
 
-* [James Thomas](https://github.com/jatonline), Jean Golding Institute
+* [Sterling Baird](https://github.com/sgbaird), Acceleration Consortium @ University of Toronto
 
 ## Acknowledgements
 
-This template was originally based on the [CMIP6 Data Hackathon](https://cmip6moap.github.io/) website and resources that we created for the event on 2–4 June 2021. It has now been modified to suit a wider variety of virtual hackathons.
+This is based on the [LLM Hackathon website repository](https://github.com/materials-data-facility/llm-hackathon) [[website](https://materials-data-facility.github.io/llm-hackathon/)], which in turn is based on a template built by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) at the University of Bristol. See below for instructions regarding development using this template. To see the actual website and learn more about the hackathon, visit [https://ac-bo-hackathon.github.io/](https://ac-bo-hackathon.github.io/).
