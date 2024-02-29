@@ -132,6 +132,6 @@ We'd like to congratulate the following teams for their outstanding contribution
         <img src="./assets/ac-logo.png" alt="The Acceleration Consortium @ University of Toronto" style="width:400px; margin-right: 20px;">
     </a>
     <a href="https://www.emdgroup.com/en">
-        <img src="./assets/emd-vibrant-m-logo.png" alt="Merck KGaA" style="width:400px; margin-left: 20px;">
+        <img src="./assets/emd-vibrant-m-logo.png" alt="Merck KGaA" style="width:300px; margin-left: 20px;">
     </a>
 </div>
