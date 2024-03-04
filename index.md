@@ -65,7 +65,7 @@ is open to researchers at all levels who are interested in Bayesian optimization
 
 The event will take place virtually, using a combination of **video
 conferencing** ([virtual Gather space](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA)) for meetings and seminars and **discussion forums**
-([Discourse](https://accelerated-discovery.discourse.group/), [Slack](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj)) for ongoing comms.
+([Discourse](https://accelerated-discovery.discourse.group/), [Slack](https://join.slack.com/share/enQtNjc0MDgwNTM2OTIzNy02ZmZiZDM0YTlkNDVlYzQyNzJjODk2MThkNjM2YWZlZjliY2MxZjlkZmMxMWUzNzlhYzA2ZTFjYjJlYWNlZDQ0)) for ongoing comms.
 
 <!-- [AC Discord](https://discord.gg/gZPKDH3pWU) -->
 

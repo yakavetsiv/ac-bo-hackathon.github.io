@@ -10,7 +10,7 @@ menu_icon: journal-code
 
 ## Getting Started
 
-#### [Slack](https://join.slack.com/share/enQtNjY0MDE3Njc1NjYxMS01NjJlYWJlNTY1ZDcwYTYxMTRhMTIzYTI4NDRlMmY3NzI2MjlmOGQ0NWQzY2RhZTQwMTQ4YjMxNGIwYjNiMmRj) - Join the hackathon's Slack channel to connect, ask questions, and form teams
+#### [Slack](https://join.slack.com/share/enQtNjc0MDgwNTM2OTIzNy02ZmZiZDM0YTlkNDVlYzQyNzJjODk2MThkNjM2YWZlZjliY2MxZjlkZmMxMWUzNzlhYzA2ZTFjYjJlYWNlZDQ0) - Join the hackathon's Slack channel to connect, ask questions, and form teams
 
 #### [Project proposals](_/../submission.md) - team leaders should submit their project proposals using the instructions here
 
