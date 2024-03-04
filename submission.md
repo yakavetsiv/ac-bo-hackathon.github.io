@@ -37,15 +37,15 @@ Ideally, these tasks will be representative of real-world problems in chemistry 
 
 ### Creating Instructional Tutorials
 
-We will provide a set of topics in Bayesian optimization, and your job will be to create a tutorial that introduces the topic conceptually and provides a hands-on example. These are meant to be "gentle introduction" tutorials which assume beginner Python knowledge and Bayesian optimization knowledge (see [resources](_/../resources.md) for more details).
+We have a set of topics in Bayesian optimization attached with the planned [AC data science microcourse](https://ac-microcourses.readthedocs.io/en/latest/courses/data-science/overview.html), and your job will be to create a tutorial that introduces the topic conceptually and provides a hands-on example. Topics other than the ones listed are also fair game. These are meant to be "gentle introduction" tutorials which assume beginner Python knowledge and beginner Bayesian optimization knowledge (see [resources](_/../resources.md) for more details on what is meant by "beginner").
 
 ### Real-world Chemistry and Materials Tasks
 
-The hackathon is also open to proposals for real-world optimization tasks in chemistry and materials science. This will involve providing beginner-friendly background knowledge on the impact of the application, existing solutions, and the science behind it. It will also involve providing rigorous details around the optimization problem, including search space (tunable parameters + constraints), objectives, experimental equipment, reagants, and standard operating procedures. These should be well-defined problems that *can* and *should* be tackled with Bayesian optimization, but have not yet. If you do not have a background in Bayesian optimization, it is highly recommended that you watch the recording of the Accelerate '23 [Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c) training workshop.
+The hackathon is open to proposals for real-world optimization tasks in chemistry and materials science. This will involve providing beginner-friendly background knowledge on the impact of the application, existing solutions, and the science behind it. This is particularly well-suited for those who would prefer to contribute in a non-coding context, as it allows domain experts to formulate high-impact research tasks from an optimization perspective. It will also involve providing rigorous details around the optimization problem, including search space (tunable parameters + constraints), objectives, experimental equipment, reagants, and standard operating procedures. These should be well-defined problems that *can* and *should* be tackled with Bayesian optimization, but have not yet been tackled successfully or adequately. If you do not have a background in Bayesian optimization, it is highly recommended that you watch the recording of the Accelerate '23 [Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c) training workshop in preparation for projects in this category.
 
 ### General
 
-This category is for projects that don't fit into the special topics listed above, but generally fall within the topic of Bayesian optimization for the physical sciences.
+This category is for projects that don't fit into the special topics listed above, but generally fall within the topic of Bayesian optimization for the physical sciences. Projects in this context are welcome! If you're unsure about a project, feel free to reach out to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca).
 
 ## Project initialization
 
@@ -56,13 +56,8 @@ As a teamleader, to initialize your project(s)[<sup>(?)</sup>][faq]{:title="Can 
 ![project submission](../assets/project-submission.png)
 
 1. Copy the template from below into the file and fill in the title, team leads, and contributors sections
-2. Submit a pull request to the hackathon repository with the title "Add project <your-team-name>" and tag your team members in the pull request description
+2. Submit a pull request to the hackathon repository with the title "Add project <your-team-name>" and tag your team members in the pull request description using the `@` symbol followed by their GitHub username. For example, `@sgbaird`.
 3. Once the pull request is merged, your project will appear on [the projects page](_/../../projects.md)
-
-Replace `<your-repo-name>` with the GitHub repository that was created by GitHub Classroom for you. For example, if your team name is "Bayes Bandits", the repository will be named `bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/bayes-bandits`.
-5. Accept the GitHub Classroom invitation to a topic above
-6. Create a new team in the GitHub Classroom interface
-7. Have your team members click on the same GitHub Classroom invitation link that you used and join the team you created.
 
 ```markdown
 ---
@@ -110,11 +105,18 @@ This project will investigate the application of bandit optimization to the desi
 - Dimmery, D., Bakshy, E., & Sekhon, J. (2019). Shrinkage Estimators in Online Experiments. arXiv. https://doi.org/10.48550/ARXIV.1904.12918
 ```
 
-If the submission instructions from above are daunting, you are welcome to submit your project proposal by email to sterling.baird@utoronto.ca. Please include "AC BO Hackathon Project Proposal" in the subject line. We will create the project file and corresponding pull request for you.
+The project templates are anticipated for release during the first week of March. Once these are ready you can follow the instructions below.
+
+4. Accept the GitHub Classroom invitation to a topic above
+5. Create a new team in the GitHub Classroom interface
+6. Have your team members click on the same GitHub Classroom invitation link that you used and join the team you created.
+7. Open a new pull request to modify your project file. Replace `<your-repo-name>` with the GitHub repository name that was created by GitHub Classroom for you using the corresponding project template link. For example, if your team name is "Bayes Bandits" and the template is called "benchmarking", the repository will be named `benchmarking-bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/benchmarking-bayes-bandits`.
+
+If the submission instructions from above are daunting, you are welcome to submit your project proposal by email to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca). Please include "AC BO Hackathon Project Proposal" in the subject line. We will create the project file and corresponding pull request for you.
 
 ## End of hackathon
 
-To ensure a dynamic and engaging submission process, we ask that all hackathon teams submit their final projects through social media (e.g., Twitter, LinkedIn, YouTube). By sharing your work with a broader audience, you’ll help to promote groundbreaking research in materials science and chemistry while inspiring others to contribute to the field.
+To ensure a dynamic and engaging submission process, we ask that all hackathon teams submit their final projects through social media (e.g., Twitter, LinkedIn, YouTube) and then link to this in their project file. By sharing your work with a broader audience, you’ll help to promote groundbreaking research in materials science and chemistry while inspiring others to contribute to the field.
 
 Here are the guidelines for submitting your project:
 
