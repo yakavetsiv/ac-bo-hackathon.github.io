@@ -50,3 +50,5 @@ During the course of the hackathon, your repository can remain private. However,
 ## What is expected from me if I act as a judge?
 
 If you are interested in acting as a judge, please indicate so in the corresponding question when you [register](_/../registration.md). If you are selected as a judge, you are expected to attend the [project showcase and judging session](_/../agenda.md) on {{ site.event_close_data }}. Prior to this session, you will be provided with a [Gavel](https://anishathalye.com/gavel-an-expo-judging-system/) link which you will use to evaluate projects based on the method of pairwise comparisons. You are welcome to spend as little or as much time as you'd like on each project, and you are not required (or necessarily expected) to review all projects. If you are a participant in the hackathon, we ask that you use the "skip" button in the Gavel app if your own project is sent to you for evaluation.
+
+[faq]: {{ site.baseurl }}{% link faq.md %}
