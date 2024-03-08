@@ -36,11 +36,11 @@ The schedule for the event was as follows, with all times listed in Eastern Time
 
 Brainstorm, build, team up.
 
-1. Join the [Slack channel](https://join.slack.com/share/enQtNjc0MDgwNTM2OTIzNy02ZmZiZDM0YTlkNDVlYzQyNzJjODk2MThkNjM2YWZlZjliY2MxZjlkZmMxMWUzNzlhYzA2ZTFjYjJlYWNlZDQ0) (the link expires on March 12, contact us if this hasn't been updated with a new link). UPDATE: If you aren't able to join due to Slack Pro plan limitations, we can add you as a guest manually. Please send a request to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) with subject line "Slack guest invite request" and the email you'd like to use for the invite in the body of the email.
+1. Join the [Slack channel](https://join.slack.com/share/enQtNjc0MDgwNTM2OTIzNy02ZmZiZDM0YTlkNDVlYzQyNzJjODk2MThkNjM2YWZlZjliY2MxZjlkZmMxMWUzNzlhYzA2ZTFjYjJlYWNlZDQ0) (the link expires on March 12, contact us if this hasn't been updated with a new link). UPDATE: If you aren't able to join due to Slack Pro plan limitations, we can add you as a guest manually. Please send a request to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) with subject line "Slack guest invite request". The message body can be blank.
 2. Brainstorm project ideas and form teams
    1. If you'd like to solicit team members or get feedback, post your project idea in the slack channel. You may also consider using social media
    2. If you would like to join a team, use the slack channel to express your interest and describe your background
-   3. If you plan to be a team leader, submit your [project proposal](_/../resources.md)
+   3. Submit your [project proposal](_/../submission.md) (one per team)
 3. For coding-related projects, [complete the orientation modules](_/../resources.md)
 
 <!-- 4. If you plan to join an existing project, use the GitHub Classroom link corresponding to the project topic and select the appropriate team on the GitHub Classroom interface (see [submission](_/../submission.md)). Reach out to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) if you have trouble getting added to your team -->
