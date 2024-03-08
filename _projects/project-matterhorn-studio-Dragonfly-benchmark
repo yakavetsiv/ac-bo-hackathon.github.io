@@ -1,6 +1,6 @@
 ---
 number: 1 <!-- leave as-is, maintainers will adjust -->
-title: Long-run Behaviour of Multi-fidelity Bayesian Optimisation
+title: Multi-objective Benchmarking of Dragonfly against BoTorch
 team_leads:
   - Jakob Zeitler (Matterhorn Studio, http://matterhorn.studio)
 
