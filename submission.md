@@ -107,10 +107,10 @@ This project will investigate the application of bandit optimization to the desi
 
 The project templates are anticipated for release during the first week of March. Once these are ready you can follow the instructions below.
 
-4. Accept the GitHub Classroom invitation to a topic above
-5. Create a new team in the GitHub Classroom interface
-6. Have your team members click on the same GitHub Classroom invitation link that you used and join the team you created.
-7. Open a new pull request to modify your project file. Replace `<your-repo-name>` with the GitHub repository name that was created by GitHub Classroom for you using the corresponding project template link. For example, if your team name is "Bayes Bandits" and the template is called "benchmarking", the repository will be named `benchmarking-bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/benchmarking-bayes-bandits`.
+1. Accept the GitHub Classroom invitation to a topic above (see also [resources](_/../resources.md))
+2. Create a new team in the GitHub Classroom interface
+3. Have your team members click on the same GitHub Classroom invitation link that you used and join the team you created.
+4. Open a new pull request to modify your project file. Replace `<your-repo-name>` with the GitHub repository name that was created by GitHub Classroom for you using the corresponding project template link. For example, if your team name is "Bayes Bandits" and the template is called "benchmarking", the repository will be named `benchmarking-bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/benchmarking-bayes-bandits`.
 
 If the submission instructions from above are daunting, you are welcome to submit your project proposal by email to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca). Please include "AC BO Hackathon Project Proposal" in the subject line. We will create the project file and corresponding pull request for you.
 
