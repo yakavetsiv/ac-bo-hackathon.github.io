@@ -1,6 +1,6 @@
 ---
 number: 3 <!-- leave as-is, maintainers will adjust -->
-title: Take Your Time: Measuring Optimization Performance as a Function of ACQF Optimizer Runtime
+title: Take Your Time - Measuring Optimization Performance as a Function of ACQF Optimizer Runtime
 team_leads:
   - Andrew R. Falkowski (University of Utah)
   - Ramsey Issa (University of Utah)
