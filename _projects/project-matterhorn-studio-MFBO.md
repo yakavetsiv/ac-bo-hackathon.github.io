@@ -13,6 +13,4 @@ github: AC-BO-Hackathon/<your-repo-name>
 <!-- youtube_video: CzZ-_A2_dck -->
 ---
 
-Based on our recent workshop paper, we will investigate the causes of long-run MFBO failure.
-
-- Long-run Behaviour of Multi-fidelity Bayesian Optimisation (https://arxiv.org/abs/2312.12633)
+Based on our [recent workshop paper](https://arxiv.org/abs/2312.12633), we will investigate the causes of long-run MFBO failure.
