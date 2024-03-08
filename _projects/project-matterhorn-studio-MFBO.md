@@ -1,5 +1,5 @@
 ---
-number: 1 <!-- leave as-is, maintainers will adjust -->
+number: 2 <!-- leave as-is, maintainers will adjust -->
 title: Long-run Behaviour of Multi-fidelity Bayesian Optimisation
 team_leads:
   - Jakob Zeitler (Matterhorn Studio, http://matterhorn.studio)
