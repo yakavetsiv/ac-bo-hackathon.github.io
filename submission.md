@@ -1,5 +1,5 @@
 ---
-title: Submission Guidelines
+title: Submit a Project
 menu_title: Submission
 menu_icon: cloud-arrow-up
 ---
