@@ -28,7 +28,7 @@ menu_icon: journal-code
 
 ## Orientation Modules
 
-Please complete the following orientation assignments in preparation for the hackathon to familiarize the tools and concepts you'll need. You will need to [create a GitHub account](https://github.com/join) to access these resources. If you are already familiar with git and GitHub, you may skip directly to "Intro to GitHub Classroom".
+Please complete the following orientation assignments in preparation for the hackathon to familiarize the tools and concepts you'll need. You will need to [create a GitHub account](https://github.com/join) to access these resources. If you are already familiar with git and GitHub, you may skip directly to "Intro to GitHub Classroom". When prompted, please select an identifier from the list that's given.
 
 <table>
     <tr>
