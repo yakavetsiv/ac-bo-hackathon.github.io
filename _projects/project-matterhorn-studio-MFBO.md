@@ -2,11 +2,11 @@
 number: 2 <!-- leave as-is, maintainers will adjust -->
 title: Long-run Behaviour of Multi-fidelity Bayesian Optimisation
 team_leads:
-  - Jakob Zeitler (Matterhorn Studio, http://matterhorn.studio)
+  - Jakob Zeitler ([Matterhorn Studio](http://matterhorn.studio))
 
 # Comment these lines to hide these elements
 contributors:
-  - Gbetondji Dovonon (Matterhorn Studio, http://matterhorn.studio)
+  - Gbetondji Dovonon ([Matterhorn Studio](http://matterhorn.studio))
 
 github: AC-BO-Hackathon/<your-repo-name>
 
