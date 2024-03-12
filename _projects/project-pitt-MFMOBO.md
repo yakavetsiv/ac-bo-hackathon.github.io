@@ -13,4 +13,4 @@ github: AC-BO-Hackathon/<your-repo-name>
 
 ---
 
-(REPLACED) We will investigate the performance of Dragonfly against state of the multi-objective BO approaches. Dragonfly has found somewhat popularity in the community, but we want to provide evidence that the latest BoTorch solutions are possibly more optimal.
+(WILL BE REPLACED) We will investigate the performance of Dragonfly against state of the multi-objective BO approaches. Dragonfly has found somewhat popularity in the community, but we want to provide evidence that the latest BoTorch solutions are possibly more optimal.
