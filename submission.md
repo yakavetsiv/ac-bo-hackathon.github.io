@@ -81,7 +81,7 @@ Project 1 description
 - ...
 ```
 
-Here is an example of a filled-in project file called `project-bayes-bandits.md` for the "Bayes Bandits" team:
+Here is an example of a filled-in project file called `project-bayes-bandits.md` for the "Bayes Bandits" team. Please replace any colons (`:`) with hyphens (`-`) in the title, if applicable.
 
 ```markdown
 ---
