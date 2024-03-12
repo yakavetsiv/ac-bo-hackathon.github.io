@@ -71,8 +71,8 @@ team_leads:
 contributors:
   - Contributor 1 (Institution 1)
   - Contributor 2 (Institution 2)
-github: AC-BO-Hackathon/<your-repo-name>
-<!-- youtube_video: lIanN0DI9R8 -->
+<!-- github: AC-BO-Hackathon/<your-repo-name> -->
+<!-- youtube_video: <your-video-id> -->
 ---
 
 Project 1 description
@@ -95,8 +95,8 @@ contributors:
   - Larry Lab (University of Invention)
   - David Data (University of Science)
   - Rachel Research (Institute of Discovery)
-github: AC-BO-Hackathon/bayes-bandits
-<!-- youtube_video: lIanN0DI9R8 -->
+<!-- github: AC-BO-Hackathon/<your-repo-name> -->
+<!-- youtube_video: <your-video-id> -->
 ---
 
 This project will investigate the application of bandit optimization to the design of composite materials. We will focus on the optimization of the mechanical properties of the composite materials, such as strength, stiffness, and toughness as a function of the fiber types and matrix materials. We will compare the performance of bandit optimization with the performance of Bayesian optimization using featurization tactics for this highly discrete space.
@@ -105,12 +105,21 @@ This project will investigate the application of bandit optimization to the desi
 - Dimmery, D., Bakshy, E., & Sekhon, J. (2019). Shrinkage Estimators in Online Experiments. arXiv. https://doi.org/10.48550/ARXIV.1904.12918
 ```
 
-The project templates are anticipated for release during the first week of March. Once these are ready you can follow the instructions below.
+The project templates are anticipated for release during mid-March. Once these are ready you, team leaders can follow the instructions below:
 
 1. Accept the GitHub Classroom invitation to a topic above (see also [resources](_/../resources.md))
 2. Create a new team in the GitHub Classroom interface
 3. Have your team members click on the same GitHub Classroom invitation link that you used and join the team you created.
-4. Open a new pull request to modify your project file. Replace `<your-repo-name>` with the GitHub repository name that was created by GitHub Classroom for you using the corresponding project template link. For example, if your team name is "Bayes Bandits" and the template is called "benchmarking", the repository will be named `benchmarking-bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/benchmarking-bayes-bandits`.
+4. Open a new pull request to modify your project file. Replace `<your-repo-name>` with the GitHub repository name that was created by GitHub Classroom for you using the corresponding project template link. For example, if your team name is "Bayes Bandits" and the template is called "benchmarking", the repository will be named `benchmarking-bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/benchmarking-bayes-bandits`. You will also need to uncomment the line. For example:
+
+```markdown
+<!-- github: AC-BO-Hackathon/<your-repo-name> -->
+```
+would be replaced with:
+  
+```markdown
+github: AC-BO-Hackathon/benchmarking-bayes-bandits
+```
 
 If the submission instructions from above are daunting, you are welcome to submit your project proposal by email to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca). Please include "AC BO Hackathon Project Proposal" in the subject line. We will create the project file and corresponding pull request for you.
 
@@ -126,7 +135,7 @@ Here are the guidelines for submitting your project:
 
 ```markdown
 github: AC-BO-Hackathon/bayes-bandits
-<!-- youtube_video: lIanN0DI9R8 -->
+<!-- youtube_video: <your-video-id> -->
 ```
 with:
 ```
@@ -154,6 +163,6 @@ See also the [LinkedIn submission post](<your link here>).
 - Dimmery, D., Bakshy, E., & Sekhon, J. (2019). Shrinkage Estimators in Online Experiments. arXiv. https://doi.org/10.48550/ARXIV.1904.12918
 ```
 
-This pull request will be considered your final submission. Again, if you find this process daunting, you are welcome to instead send your link by email to sterling.baird@utoronto.ca. Please include "AC BO Hackathon Final Submission" in the subject line. We will update the project file and create corresponding pull request for you.
+This pull request will be considered your final submission. Again, if you find this process daunting, you are welcome to instead send your link by email to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca). Please include "AC BO Hackathon Final Submission" in the subject line. We will update the project file and create corresponding pull request for you.+
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
