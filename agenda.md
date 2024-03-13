@@ -36,7 +36,7 @@ The schedule for the event was as follows, with all times listed in Eastern Time
 
 Brainstorm, build, team up.
 
-1. Join the [Slack channel](https://join.slack.com/share/enQtNjc0MDgwNTM2OTIzNy02ZmZiZDM0YTlkNDVlYzQyNzJjODk2MThkNjM2YWZlZjliY2MxZjlkZmMxMWUzNzlhYzA2ZTFjYjJlYWNlZDQ0) (the link expires on March 12, contact us if this hasn't been updated with a new link). UPDATE: If you aren't able to join due to Slack Pro plan limitations, we can add you as a guest manually. Please send a request to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) with subject line "Slack guest invite request". The message body can be blank.
+1. Join the [Slack channel](https://join.slack.com/share/enQtNjc5MjI1NTI3MDUzMy1lNjZlZWZlMGYxNzA3MTY2N2Q2MDA2ZjNlMDQxZmIyMmZkMmNhZmYyMjhhYWQyODM1NDI0Yjg0MGE4NjI3YTBl) (the link expires on March 12, contact us if this hasn't been updated with a new link). UPDATE: If you aren't able to join due to Slack Pro plan limitations, we can add you as a guest manually. Please send a request to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) with subject line "Slack guest invite request". The message body can be blank.
 2. Brainstorm project ideas and form teams
    1. If you'd like to solicit team members or get feedback, post your project idea in the slack channel. You may also consider using social media
    2. If you would like to join a team, use the slack channel to express your interest and describe your background
@@ -71,7 +71,7 @@ Brainstorm, build, team up.
 
 [Submissions](_/../submission.md) due by {{ site.submissions_due }}.
 
-<!-- Prizes to be announced March 29 at 1:00 PM Eastern Time (ET). -->
+Prizes to be announced March 29 at 1:00 PM Eastern Time (ET).
 
 ### Post-hackathon
 
