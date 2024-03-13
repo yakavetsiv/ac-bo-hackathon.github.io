@@ -65,7 +65,7 @@ is open to researchers at all levels who are interested in Bayesian optimization
 
 The event will take place virtually, using a combination of **video
 conferencing** ([virtual Gather space](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA)) for meetings and seminars and **discussion forums**
-([Discourse](https://accelerated-discovery.discourse.group/), [Slack](https://join.slack.com/share/enQtNjc0MDgwNTM2OTIzNy02ZmZiZDM0YTlkNDVlYzQyNzJjODk2MThkNjM2YWZlZjliY2MxZjlkZmMxMWUzNzlhYzA2ZTFjYjJlYWNlZDQ0)) for ongoing comms.
+([Discourse](https://accelerated-discovery.discourse.group/), [Slack](https://join.slack.com/share/enQtNjc5MjI1NTI3MDUzMy1lNjZlZWZlMGYxNzA3MTY2N2Q2MDA2ZjNlMDQxZmIyMmZkMmNhZmYyMjhhYWQyODM1NDI0Yjg0MGE4NjI3YTBl)) for ongoing comms.
 
 <!-- [AC Discord](https://discord.gg/gZPKDH3pWU) -->
 
@@ -84,48 +84,43 @@ Although the event has concluded, the outputs from the hackathon, including appl
 We want to express our gratitude to all the participants for their contributions, and we look forward to future collaborations in advancing Bayesian optimization in chemistry and materials science.
 {% endif %}
 
-[faq]: {{ site.baseurl }}{% link faq.md %}
-
-<!-- ## Prizes
+## Prizes
 
 {% if event_status != "over" %}
 
-Tentative awards for the highest ranked projects by the judges will be announced the day after the hackathon:
+Awards for the highest-ranked[<sup>(?)</sup>][faq]{:title="What is expected from me if I act as a judge?"} projects will be announced the day after the hackathon. Tentative prize tiers are below, and submissions from any project topic are eligible.
 
-First-ranked: $200 Amazon gift card for each team member
-Second-ranked: $100 Amazon gift card for each team member
-Third-ranked: $50 Amazon gift card for each team member
-
-- **Best Overall** (500 CAD)
-- **Best Benchmark** (200 CAD)
-- **Best Algorithm** (200 CAD)
-- **Best Tutorial** (200 CAD)
-- **Best Presentation** (100 CAD)
-- **Best Collaboration** (100 CAD)
-- **Best Newcomers** (100 CAD)
-- **Best Team Name** (50 CAD)
-- **Best Team Spirit** (50 CAD)
+First-ranked: Up to CA$300 gift card per team member (max CA$1000)
+Second-ranked: Up to CA$150 gift card per team member (max CA$500)
+Third-ranked: Up to CA$75 gift card per team member (max CA$250)
+4th-10th ranked: Up to CA$30 gift card per team member (max CA$100)
 
 {% else %}
-We'd like to congratulate the following teams for their outstanding contributions to the hackathon:
+We'd like to congratulate the following teams for their outstanding contributions to the hackathon! The top-ranked[<sup>(?)</sup>][faq]{:title="What is expected from me if I act as a judge?"} projects are as follows:
 
-- **Best Overall**: Team 1 (500 CAD)
-- **Best Benchmark**: Team 2 (200 CAD)
-- **Best Algorithm**: Team 3 (200 CAD)
-- **Best Tutorial**: Team 4 (200 CAD)
-- **Best Presentation**: Team 5 (100 CAD)
-- **Best Collaboration**: Team 6 (100 CAD)
-- **Best Newcomers**: Team 7 (100 CAD)
-- **Best Team Name**: Team 8 (50 CAD)
-- **Best Team Spirit**: Team 9 (50 CAD)
-{% endif %} -->
+| Rank | Project | Team | Prize |
+|------|---------|------|-------|
+| 1st | | | |
+| 2nd | | | |
+| 3rd | | | |
+| 4th | | | |
+| 5th | | | |
+| 6th | | | |
+| 7th | | | |
+| 8th | | | |
+| 9th | | | |
+| 10th | | | |
+
+For a full list of hackathon projects, we encourage you to check out the [projects page](_/../projects.md).
+
+{% endif %}
 
 <!-- ## Sponsors
 
 - [The Acceleration Consortium @ University of Toronto](https://acceleration.utoronto.ca/)
 - [Merck KGaA](https://www.emdgroup.com/en) -->
 
-## Sponsors
+## Hosts
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://acceleration.utoronto.ca/">
@@ -135,3 +130,13 @@ We'd like to congratulate the following teams for their outstanding contribution
         <img src="./assets/emd-vibrant-m-logo.png" alt="Merck KGaA" style="width:300px; margin-left: 20px;">
     </a>
 </div>
+
+## Prize Sponsor
+
+<div style="display: flex; align-items: left; justify-content: left;">
+    <a href="https://matterhorn.studio/">
+        <img src="./assets/matterhorn-studio-logo.png" alt="Matterhorn Studio" style="width:450px;">
+    </a>
+</div>
+
+[faq]: {{ site.baseurl }}{% link faq.md %}
