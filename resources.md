@@ -85,6 +85,8 @@ Programming expertise is not required, but at least beginner Python programming 
 
 If you have no prior programming experience, you may wish to start with the [Python Beginners Guide for Non-programmers by Python Software Foundation](https://www.python.org/about/gettingstarted/).
 
+{% include youtube.html video="x7X9w_GIm1s" title="What is Python?" %}
+
 </li>
 
 <li class="resource-block" markdown="1">
@@ -124,6 +126,28 @@ The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experi
 [Honegumi](https://honegumi.readthedocs.io/en/latest/) (pronounced "ho neh goo mee", also referred to as "honey gummy"), deriving from the Japanese word for _skeletal framework_, is a package for interactively creating API tutorials with a focus on optimization packages. You use an interactive grid to select Bayesian optimization characteristics specific to your task and watch the corresponding template dynamically appear. "Open in Colab" and "Open in GitHub" links are also dynamically generated for each template. [Honegumi pairs particularly well with LLMs](https://youtu.be/rnI2BvGgP9o) to adapt the templates to real-world tasks.
 
 </li>
+
+
+<li class="resource-block" markdown="1">
+
+## Hugging Face Spaces
+
+The pre-packaged benchmark functions will be available on [Hugging Face Spaces](https://huggingface.co/docs/hub/spaces), which makes it easy to deploy and use our benchmark tasks through a web GUI, or more relevant to the hackathon - programmatically via a straightforward API. For those who are developing their own benchmarks as a hackathon project (Topic #2), we recommend hosting the final benchmark through this same interface. Start by watching the [Hugging Face Spaces overview](https://huggingface.co/docs/hub/spaces-overview) below, which shows how you can get one running in just a few minutes.
+
+{% include youtube.html video="3bSVKNKb_PY" title="Hugging Face Spaces Overview" %}
+
+To make this more concrete, see [our implementation of the Branin function](https://huggingface.co/spaces/AccelerationConsortium/branin) being run via the Hugging Face Spaces interface, which can be set up in just a few minutes. To see how to use it programmatically, click on the "Use with API" button at the bottom of the page (button marked in red in the image below).
+
+[![use with API](assets/branin-api.png)](https://huggingface.co/spaces/AccelerationConsortium/branin)
+
+
+### 
+
+</li>
+
+</ul>
+
+<ul class="grid">
 
 <li class="resource-block" markdown="1">
 
