@@ -10,7 +10,7 @@ Start by reviewing the topics below.
 
 While a list of topics is provided, we are open to new ideas. If you have a project in mind that doesn't fit into one of the topics below, you are welcome and encouraged to submit a project proposal for it.
 
-### Topic 1: Applying Algorithms to Benchmark Tasks
+### Topic 1: Applying Algorithms to Benchmark Tasks (`benchmark-app`)
 
 We will provide a set of benchmark tasks and instructions, and your job will be to choose a package or algorithm and apply it to task(s) of your choice. The tasks will cover a broad range of both optimization complexity and application domains.
 
@@ -31,19 +31,19 @@ We are still [refining the list of benchmark tasks](https://docs.google.com/spre
 - Multi-objective Optimization
 - Real-world noise
 
-### Topic 2: Developing New Benchmarks
+### Topic 2: Developing New Benchmarks (`benchmark-dev`)
 
 Ideally, these tasks will be representative of real-world problems in chemistry and materials science. While remotely accessible automated experiments would be the gold standard, the more pragmatic benchmark tasks typically include surrogate modeling. The new benchmark tasks should lean towards real-world conditions in terms of optimization problem type (objectives, fidelities, constraints) and/or relevance towards chemistry and materials applications (e.g., molecules, materials, reactions, etc.).
 
-### Topic 3: Creating Instructional Tutorials
+### Topic 3: Creating Instructional Tutorials (`tutorial`)
 
 We have a set of topics in Bayesian optimization attached with the planned [AC data science microcourse](https://ac-microcourses.readthedocs.io/en/latest/courses/data-science/overview.html), and your job will be to create a tutorial that introduces the topic conceptually and provides a hands-on example. Topics other than the ones listed are also fair game. These are meant to be "gentle introduction" tutorials which assume beginner Python knowledge and beginner Bayesian optimization knowledge (see [resources](_/../resources.md) for more details on what is meant by "beginner").
 
-### Topic 4: Real-world Chemistry and Materials Tasks
+### Topic 4: Real-world Chemistry and Materials Tasks (`real-world`)
 
 The hackathon is open to proposals for real-world optimization tasks in chemistry and materials science. This will involve providing beginner-friendly background knowledge on the impact of the application, existing solutions, and the science behind it. This is particularly well-suited for those who would prefer to contribute in a non-coding context, as it allows domain experts to formulate high-impact research tasks from an optimization perspective. It will also involve providing rigorous details around the optimization problem, including search space (tunable parameters + constraints), objectives, experimental equipment, reagants, and standard operating procedures. These should be well-defined problems that *can* and *should* be tackled with Bayesian optimization, but have not yet been tackled successfully or adequately. If you do not have a background in Bayesian optimization, it is highly recommended that you watch the recording of the Accelerate '23 [Gentle Introduction to Bayesian Optimization](https://youtu.be/IVaWl2tL06c) training workshop in preparation for projects in this category.
 
-### Topic 5: General
+### Topic 5: General (`general`)
 
 This category is for projects that don't fit into the special topics listed above, but generally fall within the topic of Bayesian optimization for the physical sciences. Projects in this context are welcome! If you're unsure about a project, feel free to reach out to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca).
 
@@ -63,6 +63,7 @@ As a teamleader, to initialize your project[<sup>(?)</sup>][faq]{:title="Can I p
 ---
 number: 1 <!-- leave as-is, maintainers will adjust -->
 title: Project 1 title
+topic: <topic-name>
 team_leads:
   - Project lead 1 (Institution 1)
   - Project lead 2 (Institution 2)
@@ -81,12 +82,13 @@ Project 1 description
 - ...
 ```
 
-Here is an example of a filled-in project file called `project-bayes-bandits.md` for the "Bayes Bandits" team. Please replace any colons (`:`) with hyphens (`-`) in the title, if applicable.
+Here is an example of a filled-in project file called `project-bayes-bandits.md` for the "Bayes Bandits" team for a submission to the `general` topic. Please replace any colons (`:`) with hyphens (`-`) in the title, if applicable.
 
 ```markdown
 ---
 number: 1 <!-- leave as-is, maintainers will adjust -->
 title: Investigation of Bandit Optimization for Composite Materials Design
+topic: general
 team_leads:
   - Jane Doe (University of Invention)
   - John Smith (Institute of Discovery)
