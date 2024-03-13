@@ -99,7 +99,7 @@ Use of the tools listed on this page is not a requirement. A diverse set of pack
 
 <li class="resource-block" markdown="1">
 
-#### BayBE
+#### [BayBE](https://github.com/emdgroup/baybe)
 
 [![baybe](./assets/baybe.png)](https://github.com/emdgroup/baybe)
 
@@ -109,7 +109,7 @@ This hackathon is co-organized by Merck KGaA. You may consider using an internal
 
 <li class="resource-block" markdown="1">
 
-#### Adaptive Experiment (Ax) Platform
+#### [Adaptive Experiment (Ax) Platform](https://ax.dev/)
 
 [![ax](./assets/ax-black-background.png)](https://ax.dev/)
 
@@ -119,7 +119,7 @@ The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experi
 
 <li class="resource-block" markdown="1">
 
-#### Honegumi
+#### [Honegumi](https://honegumi.readthedocs.io/en/latest/)
 
 [![honegumi](./assets/honegumi.png)](https://honegumi.readthedocs.io/en/latest/)
 
@@ -132,16 +132,13 @@ The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experi
 
 ## Hugging Face Spaces
 
-The pre-packaged benchmark functions will be available on [Hugging Face Spaces](https://huggingface.co/docs/hub/spaces), which makes it easy to deploy and use our benchmark tasks through a web GUI, or more relevant to the hackathon - programmatically via a straightforward API. For those who are developing their own benchmarks as a hackathon project (Topic #2), we recommend hosting the final benchmark through this same interface. Start by watching the [Hugging Face Spaces overview](https://huggingface.co/docs/hub/spaces-overview) below, which shows how you can get one running in just a few minutes.
+The pre-packaged benchmark functions will be available on [Hugging Face Spaces](https://huggingface.co/docs/hub/spaces), which makes it easy to deploy and use our benchmark tasks through a web GUI, or more relevant to the hackathon - programmatically via a straightforward API. For those who are planning to develop their own benchmark as a hackathon project (Topic #2), we recommend hosting the final benchmark through this same interface. Start by watching the [Hugging Face Spaces overview](https://huggingface.co/docs/hub/spaces-overview) below, which shows how you can get one running in just a few minutes.
 
 {% include youtube.html video="3bSVKNKb_PY" title="Hugging Face Spaces Overview" %}
 
 To make this more concrete, see [our implementation of the Branin function](https://huggingface.co/spaces/AccelerationConsortium/branin) being run via the Hugging Face Spaces interface, which can be set up in just a few minutes. To see how to use it programmatically, click on the "Use with API" button at the bottom of the page (button marked in red in the image below).
 
 [![use with API](assets/branin-api.png)](https://huggingface.co/spaces/AccelerationConsortium/branin)
-
-
-### 
 
 </li>
 
@@ -153,7 +150,7 @@ To make this more concrete, see [our implementation of the Branin function](http
 
 ## Guidelines
 
-### [Submission](_/../submission.md) - The hackathon's workflow for submissions
+### [Submission](_/../submission.md) - The hackathon's workflow for submissions, including project topics and proposal instructions
 
 </li>
 
