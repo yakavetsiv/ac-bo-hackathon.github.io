@@ -135,7 +135,7 @@ For a full list of hackathon projects, we encourage you to check out the [projec
 
 <div style="display: flex; align-items: left; justify-content: left;">
     <a href="https://matterhorn.studio/">
-        <img src="./assets/matterhorn-studio-logo.png" alt="Matterhorn Studio" style="width:450px;">
+        <img src="./assets/matterhorn-studio-sheep-logo.png" alt="Matterhorn Studio" style="width:225px;">
     </a>
 </div>
 
