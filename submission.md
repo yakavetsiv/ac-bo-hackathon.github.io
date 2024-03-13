@@ -12,7 +12,7 @@ See below for the project topics and instructions on how to submit a project pro
 
 While a list of topics is provided, we are open to new ideas. If you have a project in mind that doesn't fit into one of the topics below, you are welcome and encouraged to submit a project proposal for it.
 
-### Topic 1: Applying Algorithms to Benchmark Tasks (`benchmark-app`)
+### Topic 1: Applying Algorithms to Benchmark Tasks (`benchmark-task`)
 
 We will provide a set of benchmark tasks and instructions, and your job will be to choose a package or algorithm and apply it to task(s) of your choice. The tasks will cover a broad range of both optimization complexity and application domains.
 
@@ -57,7 +57,7 @@ As a teamleader, to initialize your project[<sup>(?)</sup>][faq]{:title="Can I p
 
 ![project submission](../assets/project-submission.png)
 
-1. Copy the template from below into the file and fill in the title, topic, team leads, and contributors sections. Topic can be one of `benchmark-app`, `benchmark-dev`, `tutorial`, `real-world`, and `general`, per the topics listed above.
+1. Copy the template from below into the file and fill in the title, topic, team leads, and contributors sections. Topic can be one of `benchmark-task`, `benchmark-dev`, `tutorial`, `real-world`, and `general`, per the topics listed above.
 2. Submit a pull request to the hackathon repository with the title "Add project <your-team-name>" and tag your team members in the pull request description using the `@` symbol followed by their GitHub username. For example, `@sgbaird`.
 3. Once the pull request is merged, your project will appear on [the projects page](_/../../projects.md)
 
