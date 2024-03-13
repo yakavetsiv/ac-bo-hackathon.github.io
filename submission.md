@@ -4,7 +4,9 @@ menu_title: Submission
 menu_icon: cloud-arrow-up
 ---
 
-Start by reviewing the topics below.
+Project proposals are submitted by hackathon participants, where the submitter intends to lead that project and form a team (or work on it solo) during the hackathon. Some people might already have a team in mind while others might add team members after submitting the proposal. Likewise, there will be people who want to join an existing team instead of proposing their own project. The [slack channel](_/../agenda.md) is the primary communication channel for brainstorming project ideas and forming teams.
+
+See below for the project topics and instructions on how to submit a project proposal.
 
 ## Topics
 
