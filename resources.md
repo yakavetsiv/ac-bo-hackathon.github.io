@@ -130,7 +130,7 @@ The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experi
 
 <li class="resource-block" markdown="1">
 
-## Hugging Face Spaces
+## [Hugging Face Spaces](https://huggingface.co/docs/hub/spaces)
 
 The pre-packaged benchmark functions will be available on [Hugging Face Spaces](https://huggingface.co/docs/hub/spaces), which makes it easy to deploy and use our benchmark tasks through a web GUI, or more relevant to the hackathon - programmatically via a straightforward API. For those who are planning to develop their own benchmark as a hackathon project (Topic #2), we recommend hosting the final benchmark through this same interface. Start by watching the [Hugging Face Spaces overview](https://huggingface.co/docs/hub/spaces-overview) below, which shows how you can get one running in just a few minutes.
 
