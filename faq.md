@@ -25,7 +25,7 @@ There is certainly a focus on Bayesian optimization, but you are welcome to use 
 
 ## Is the hackathon a competition?
 
-Yes, in some sense. Rather than collaborating on a single problem together, you will work either solo or in small teams to accomplish one of three tasks: applying a Bayesian optimization algorithm to one of the provided benchmark tasks, designing a new optimization benchmark, or creating concept-focused instructional tutorials. Submissions will be reviewed by a team of judges[<sup>(?)</sup>][faq]{:title="What is expected from me if I act as a judge?"}.
+Yes, in some sense. Rather than collaborating on a single problem together, you will work either solo or in small teams to accomplish one of three tasks: applying a Bayesian optimization algorithm to one of the provided benchmark tasks, designing a new optimization benchmark, or creating concept-focused instructional tutorials. Submissions will be reviewed by a team of judges[<sup>(?)</sup>][faq]{:title="What is expected from me if I act as a judge?"}, and top-ranked projects will receive prizes sponsored by [Matterhorn Studio](https://matterhorn.studio/).
 
 ## Do I need to have a team to participate?
 
@@ -49,6 +49,6 @@ During the course of the hackathon, your repository can remain private. However,
 
 ## What is expected from me if I act as a judge?
 
-If you are interested in acting as a judge, please indicate so in the corresponding question when you [register](_/../registration.md). If you are selected as a judge, you are expected to attend the [project showcase and judging session](_/../agenda.md) on {{ site.event_close_data }}. Prior to this session, you will be provided with a [Gavel](https://anishathalye.com/gavel-an-expo-judging-system/) link which you will use to evaluate projects based on the method of pairwise comparisons. You are welcome to spend as little or as much time as you'd like on each project, and you are not required (or necessarily expected) to review all projects. If you are a participant in the hackathon, we ask that you use the "skip" button in the Gavel app if your own project is sent to you for evaluation.
+If you are interested in acting as a judge, please indicate so in the corresponding question when you [register](_/../registration.md). If you are selected as a judge, you are expected to attend the [project showcase and judging session](_/../agenda.md) on {{ site.event_close_data }}. Prior to this session, you will be provided with a [Gavel](https://anishathalye.com/gavel-an-expo-judging-system/) link which you will use to evaluate projects using the simple method of pairwise comparisons. You are welcome to spend as little or as much time as you'd like on each project, and you are not required or expected to review all projects. If you are a participant in the hackathon, we ask that you use the "skip" button in the Gavel app if your own project is sent to you for evaluation.
 
 [faq]: {{ site.baseurl }}{% link faq.md %}

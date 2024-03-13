@@ -10,7 +10,7 @@ menu_icon: journal-code
 
 ## Getting Started
 
-#### [Slack](https://join.slack.com/share/enQtNjc0MDgwNTM2OTIzNy02ZmZiZDM0YTlkNDVlYzQyNzJjODk2MThkNjM2YWZlZjliY2MxZjlkZmMxMWUzNzlhYzA2ZTFjYjJlYWNlZDQ0) - Join the hackathon's Slack channel to connect, ask questions, and form teams
+#### [Slack](https://join.slack.com/share/enQtNjc5MjI1NTI3MDUzMy1lNjZlZWZlMGYxNzA3MTY2N2Q2MDA2ZjNlMDQxZmIyMmZkMmNhZmYyMjhhYWQyODM1NDI0Yjg0MGE4NjI3YTBl) - Join the hackathon's Slack channel to connect, ask questions, and form teams
 
 #### [Project proposals](_/../submission.md) - team leaders should submit their project proposals using the instructions here
 
@@ -85,6 +85,8 @@ Programming expertise is not required, but at least beginner Python programming 
 
 If you have no prior programming experience, you may wish to start with the [Python Beginners Guide for Non-programmers by Python Software Foundation](https://www.python.org/about/gettingstarted/).
 
+{% include youtube.html video="x7X9w_GIm1s" title="What is Python?" %}
+
 </li>
 
 <li class="resource-block" markdown="1">
@@ -97,7 +99,7 @@ Use of the tools listed on this page is not a requirement. A diverse set of pack
 
 <li class="resource-block" markdown="1">
 
-#### BayBE
+#### [BayBE](https://github.com/emdgroup/baybe)
 
 [![baybe](./assets/baybe.png)](https://github.com/emdgroup/baybe)
 
@@ -107,7 +109,7 @@ This hackathon is co-organized by Merck KGaA. You may consider using an internal
 
 <li class="resource-block" markdown="1">
 
-#### Adaptive Experiment (Ax) Platform
+#### [Adaptive Experiment (Ax) Platform](https://ax.dev/)
 
 [![ax](./assets/ax-black-background.png)](https://ax.dev/)
 
@@ -117,7 +119,7 @@ The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experi
 
 <li class="resource-block" markdown="1">
 
-#### Honegumi
+#### [Honegumi](https://honegumi.readthedocs.io/en/latest/)
 
 [![honegumi](./assets/honegumi.png)](https://honegumi.readthedocs.io/en/latest/)
 
@@ -125,11 +127,30 @@ The [Ax Platform](https://ax.dev/) is a tool developed by Meta's Adaptive Experi
 
 </li>
 
+
+<li class="resource-block" markdown="1">
+
+## [Hugging Face Spaces](https://huggingface.co/docs/hub/spaces)
+
+The pre-packaged benchmark functions will be available on [Hugging Face Spaces](https://huggingface.co/docs/hub/spaces), which makes it easy to deploy and use our benchmark tasks through a web GUI, or more relevant to the hackathon - programmatically via a straightforward API. For those who are planning to develop their own benchmark as a hackathon project (Topic #2), we recommend hosting the final benchmark through this same interface. Start by watching the [Hugging Face Spaces overview](https://huggingface.co/docs/hub/spaces-overview) below, which shows how you can get one running in just a few minutes.
+
+{% include youtube.html video="3bSVKNKb_PY" title="Hugging Face Spaces Overview" %}
+
+To make this more concrete, see [our implementation of the Branin function](https://huggingface.co/spaces/AccelerationConsortium/branin) being run via the Hugging Face Spaces interface, which can be set up in just a few minutes. To see how to use it programmatically, click on the "Use with API" button at the bottom of the page (button marked in red in the image below).
+
+[![use with API](assets/branin-api.png)](https://huggingface.co/spaces/AccelerationConsortium/branin)
+
+</li>
+
+</ul>
+
+<ul class="grid">
+
 <li class="resource-block" markdown="1">
 
 ## Guidelines
 
-### [Submission](_/../submission.md) - The hackathon's workflow for submissions
+### [Submission](_/../submission.md) - The hackathon's workflow for submissions, including project topics and proposal instructions
 
 </li>
 
