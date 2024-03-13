@@ -133,7 +133,7 @@ For a full list of hackathon projects, we encourage you to check out the [projec
 
 ## Prize Sponsor
 
-<div style="display: flex; align-items: left; justify-content: left;">
+<div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://matterhorn.studio/">
         <img src="./assets/matterhorn-studio-sheep-logo.png" alt="Matterhorn Studio" style="width:225px;">
     </a>
