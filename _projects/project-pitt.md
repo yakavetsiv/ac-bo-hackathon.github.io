@@ -1,6 +1,7 @@
 ---
 number: 1 <!-- leave as-is, maintainers will adjust -->
 title: Multi-Objective Bayesian Optimization for Transparent Electromagnetic Interference Shielding with Thin-Film Structures
+topic: real-world
 team_leads:
   - Jungtaek Kim ([University of Pittsburgh](https://jungtaekkim.github.io))
 
