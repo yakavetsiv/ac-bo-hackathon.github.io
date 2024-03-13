@@ -131,7 +131,7 @@ For a full list of hackathon projects, we encourage you to check out the [projec
     </a>
 </div>
 
-## Prize Sponsors
+## Prize Sponsor
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://matterhorn.studio/">
