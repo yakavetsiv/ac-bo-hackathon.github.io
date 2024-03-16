@@ -91,8 +91,11 @@ We want to express our gratitude to all the participants for their contributions
 Prizes sponsored by [Matterhorn Studio](https://matterhorn.studio/) will be announced the day after the hackathon for the highest-ranked[<sup>(?)</sup>][faq]{:title="What is expected from me if I act as a judge?"} projects. Tentative prize tiers are below, and submissions from any project topic are eligible.
 
 First-ranked: Up to CA$300 gift card per team member (max CA$1000)
+
 Second-ranked: Up to CA$150 gift card per team member (max CA$500)
+
 Third-ranked: Up to CA$75 gift card per team member (max CA$250)
+
 4th-10th ranked: Up to CA$30 gift card per team member (max CA$100)
 
 {% else %}
@@ -135,7 +138,7 @@ For a full list of hackathon projects, we encourage you to check out the [projec
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://matterhorn.studio/">
-        <img src="./assets/matterhorn-studio-sheep-logo.png" alt="Matterhorn Studio" style="width:225px;">
+        <img src="./assets/matterhorn-studio-sheep-logo.png" alt="Matterhorn Studio" style="width:200px;">
     </a>
 </div>
 
