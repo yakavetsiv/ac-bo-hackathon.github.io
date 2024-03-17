@@ -10,7 +10,9 @@ team_leads:
 <!-- contributors:
  - Contributor 1 (Institution 1)
  - Contributor 2 (Institution 2) -->
+ 
 <!-- github: AC-BO-Hackathon/<your-repo-name> -->
+
 <!-- youtube_video: <your-video-id> -->
 ---
 
