@@ -10,5 +10,6 @@ layout: page
       <h3>Project {{ project.number }}: <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h3>
       {{ project.content | truncatewords: 50 }}
     </li>
+
   {% endfor %}
 </ul>
