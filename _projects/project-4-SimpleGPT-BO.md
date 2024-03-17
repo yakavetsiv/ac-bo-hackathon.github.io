@@ -15,4 +15,6 @@ team_leads:
 ---
 
 SimpleGPT-BO is an intuitive tool designed to democratize the power of ChatGPT-driven Bayesian Optimization, making it accessible and straightforward for both beginners and experienced users alike.
+
 - OpenAI. (2023). ChatGPT (Feb 13, 2024 version) [Large language model](https://chat.openai.com/chat)
+
