@@ -1,17 +1,15 @@
-number: KLM <!-- leave as-is, maintainers will adjust -->
+---
+number: 1 <!-- leave as-is, maintainers will adjust -->
 title: Investigating Interpretability of Bayesian Optimization Methods
 topic: benchmark-task
-team_leads:
+team_leads: 
   - Kevin Shen (NobleAI)
   - Lawrence Wang (Erthos)
   - Mark Croxall (University of Toronto)
-
-<!--
-Comment these lines to hide these elements
+<!-- Comment these lines to hide these elements
 contributors:
  - Contributor 1 (Institution 1)
- - Contributor 2 (Institution 2)
--->
+ - Contributor 2 (Institution 2) -->
 <!-- github: AC-BO-Hackathon/<your-repo-name> -->
 <!-- youtube_video: <your-video-id> -->
 ---
