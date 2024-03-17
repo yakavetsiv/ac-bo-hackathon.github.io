@@ -4,8 +4,8 @@ title: SimpleGPT-BO, Simplified GPT-Powered Bayesian Optimization
 team_leads:
   - Arifin (JSR-ISM Smart Chemistry Lab, JSR Corporation)
 
-<!-- Comment these lines to hide these elements
-contributors:
+# Comment these lines to hide these elements
+<!-- contributors:
  - Contributor 1 (Institution 1)
  - Contributor 2 (Institution 2) -->
  
