@@ -8,7 +8,7 @@ team_leads:
 contributors:
   - Ayodeji Ijishakin ([Matterhorn Studio](http://matterhorn.studio))
 
-github: AC-BO-Hackathon/<your-repo-name>
+# github: AC-BO-Hackathon/<your-repo-name>
 
 ---
 
