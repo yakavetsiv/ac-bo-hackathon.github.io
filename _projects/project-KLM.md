@@ -17,4 +17,3 @@ team_leads:
 This project will focus on investigating the role of interpretability in Bayesian Optimization and its interplay with real life experiments.
 
 - Muckley, E. S., Saal, J. E., Meredig, B., Roper, C. S., Martin, J. H. (2023) Interpretable models for extrapolation in scientific in machine learning. Digital Discovery, 2023, 2, 1425. https://pubs.rsc.org/en/content/articlepdf/2023/dd/d3dd00082f
-- ...
