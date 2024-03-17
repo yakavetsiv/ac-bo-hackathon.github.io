@@ -8,8 +8,10 @@ team_leads:
 contributors:
  - Contributor 1 (Institution 1)
  - Contributor 2 (Institution 2) -->
+ 
 <!-- github: AC-BO-Hackathon/SimpleGPT-BO -->
-# <!-- youtube_video: <your-video-id> -->
+
+<!-- youtube_video: <your-video-id> -->
 ---
 
 Project 1 description
