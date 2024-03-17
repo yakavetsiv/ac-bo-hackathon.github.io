@@ -1,5 +1,5 @@
 ---
-number: 1 <!-- leave as-is, maintainers will adjust -->
+number: 6 <!-- leave as-is, maintainers will adjust -->
 title: Multi-Objective Bayesian Optimization for Transparent Electromagnetic Interference Shielding with Thin-Film Structures
 topic: real-world
 team_leads:
