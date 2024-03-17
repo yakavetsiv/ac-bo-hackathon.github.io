@@ -6,8 +6,8 @@ team_leads:
   - Kevin Shen (NobleAI)
   - Lawrence Wang (Erthos)
   - Mark Croxall (University of Toronto)
-<!-- Comment these lines to hide these elements
-contributors:
+# Comment these lines to hide these elements
+<!-- contributors:
  - Contributor 1 (Institution 1)
  - Contributor 2 (Institution 2) -->
 <!-- github: AC-BO-Hackathon/<your-repo-name> -->
