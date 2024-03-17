@@ -1,5 +1,5 @@
 ---
-number: 1 <!-- leave as-is, maintainers will adjust -->
+number: 7 <!-- leave as-is, maintainers will adjust -->
 title: BayBE One More Time - Exploring Corrosion Inhibitors for Materials Design
 topic: real-world
 team_leads:
