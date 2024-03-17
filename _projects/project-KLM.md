@@ -6,12 +6,14 @@ team_leads:
   - Lawrence Wang (Erthos)
   - Mark Croxall (University of Toronto)
 
-# Comment these lines to hide these elements
-# contributors:
-#  - Contributor 1 (Institution 1)
-#  - Contributor 2 (Institution 2)
-# <!-- github: AC-BO-Hackathon/<your-repo-name> -->
-# <!-- youtube_video: <your-video-id> -->
+<!--
+Comment these lines to hide these elements
+contributors:
+ - Contributor 1 (Institution 1)
+ - Contributor 2 (Institution 2)
+-->
+<!-- github: AC-BO-Hackathon/<your-repo-name> -->
+<!-- youtube_video: <your-video-id> -->
 ---
 
 This project will focus on investigating the role of interpretability in Bayesian Optimization and its interplay with real life experiments.
