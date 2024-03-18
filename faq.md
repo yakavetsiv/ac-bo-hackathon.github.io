@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions ❔
+title: Frequently Asked Questions
 menu_title: FAQ
 menu_icon: question-circle
 ---
