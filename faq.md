@@ -1,5 +1,7 @@
 ---
-title: FAQ
+title: Frequently Asked Questions ❔
+menu_title: FAQ
+menu_icon: question-circle
 ---
 
 ## What is Bayesian optimization, and why is it important for the physical sciences?
