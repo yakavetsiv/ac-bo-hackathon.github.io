@@ -34,8 +34,9 @@ header_pages:
   - agenda.md
   - projects.md
   - submission.md
-  - videos-slides.md
+  # - videos-slides.md
   - resources.md
+  - faq.md
   - about.md
 
 # Event status
