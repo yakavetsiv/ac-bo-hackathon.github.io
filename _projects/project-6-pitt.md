@@ -1,5 +1,5 @@
 ---
-number: 6 <!-- leave as-is, maintainers will adjust -->
+number: 6 # leave as-is, maintainers will adjust
 title: Multi-Objective Bayesian Optimization for Transparent Electromagnetic Interference Shielding with Thin-Film Structures
 topic: real-world
 team_leads:
@@ -10,7 +10,8 @@ contributors:
   - Oliver Hinder (University of Pittsburgh)
   - Paul W. Leu (University of Pittsburgh)
 
-<!-- github: AC-BO-Hackathon/<your-repo-name> -->
+# github: AC-BO-Hackathon/<your-repo-name>
+# youtube_video: <your-video-id>
 
 ---
 
