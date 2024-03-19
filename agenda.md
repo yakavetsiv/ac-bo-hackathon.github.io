@@ -27,7 +27,7 @@ menu_icon: clock
 
 ## Schedule
 {% if event_status != "over" %}
-The anticipated schedule is as follows, with all times listed in Eastern Time (ET). Be sure to [add the events to your calendar using the Gather links](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA).
+The anticipated schedule is as follows, with all times listed in Eastern Time (ET). Be sure to add the events to your calendar using the [Gather links](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA).
 {% else %}
 The schedule for the event was as follows, with all times listed in Eastern Time (ET):
 {% endif %}
@@ -36,12 +36,14 @@ The schedule for the event was as follows, with all times listed in Eastern Time
 
 Brainstorm, build, team up.
 
+1. Add the events to your calendar using the [links from the Gather Town event page](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA)
 1. Join the [Slack channel](https://join.slack.com/share/enQtNjc5MjI1NTI3MDUzMy1lNjZlZWZlMGYxNzA3MTY2N2Q2MDA2ZjNlMDQxZmIyMmZkMmNhZmYyMjhhYWQyODM1NDI0Yjg0MGE4NjI3YTBl) (if the link is expired, contact us so we can provide a new link). UPDATE: If you aren't able to join due to Slack Pro plan limitations, we can add you as a guest manually. Please send a request to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) with subject line "Slack guest invite request". The message body can be blank.
 2. Brainstorm project ideas and form teams
+   3. Browse [the existing project proposals](_/../projects.md)
    1. If you'd like to solicit team members or get feedback, post your project idea in the slack channel. You may also consider using social media
    2. If you would like to join a team, use the slack channel to express your interest and describe your background
    3. Submit your [project proposal](_/../submission.md) (one per team)
-3. For coding-related projects, [complete the orientation modules](_/../resources.md)
+4. For coding-related projects, [complete the orientation modules](_/../resources.md)
 
 <!-- 4. If you plan to join an existing project, use the GitHub Classroom link corresponding to the project topic and select the appropriate team on the GitHub Classroom interface (see [submission](_/../submission.md)). Reach out to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) if you have trouble getting added to your team -->
 
