@@ -14,7 +14,7 @@ While a list of topics is provided, we are open to new ideas. If you have a proj
 
 ### Topic 1: Applying Algorithms to Benchmark Tasks (`benchmark-task`)
 
-We will provide a set of benchmark tasks and instructions, and your job will be to choose a package or algorithm and apply it to task(s) of your choice. The tasks will cover a broad range of both optimization complexity and application domains.
+We will provide a set of prepackaged benchmark tasks and instructions, and your job will be to choose a package or algorithm and apply it to task(s) of your choice. The tasks will cover a broad range of both optimization complexity and application domains. Submissions that demonstrate algorithm performance on the hackathon-supplied benchmarks falls under the `benchmark-task` topic, but if the focus is on comparing algorithm performance on existing benchmarks that aren't part of the hackathon set, but not necessarily on creating an entirely new benchmark, this can go into either the `benchmark-task` or `general` topic. 
 
 #### Benchmark Tasks
 
@@ -61,34 +61,35 @@ As a teamleader, to initialize your project[<sup>(?)</sup>][faq]{:title="Can I p
 2. Submit a pull request to the hackathon repository with the title "Add project <your-team-name>" and tag your team members in the pull request description using the `@` symbol followed by their GitHub username. For example, `@sgbaird`.
 3. Once the pull request is merged, your project will appear on [the projects page](_/../../projects.md)
 
-```markdown
+```yaml
 ---
-number: 1 <!-- leave as-is, maintainers will adjust -->
+number: 1 # leave as-is, maintainers will adjust
 title: Project 1 title
 topic: <topic-name>
 team_leads:
   - Project lead 1 (Institution 1)
   - Project lead 2 (Institution 2)
 
-# Comment these lines to hide these elements
+# Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
   - Contributor 1 (Institution 1)
   - Contributor 2 (Institution 2)
-<!-- github: AC-BO-Hackathon/<your-repo-name> -->
-<!-- youtube_video: <your-video-id> -->
+# github: AC-BO-Hackathon/<your-repo-name>
+# youtube_video: <your-video-id>
 ---
 
 Project 1 description
 
-- References here
-- ...
+References:
+
+...
 ```
 
 Here is an example of a filled-in project file called `project-bayes-bandits.md` for the "Bayes Bandits" team for a submission to the `general` topic. Please replace any colons (`:`) with hyphens (`-`) in the title, if applicable.
 
-```markdown
+```yaml
 ---
-number: 1 <!-- leave as-is, maintainers will adjust -->
+number: 1 # leave as-is, maintainers will adjust
 title: Investigation of Bandit Optimization for Composite Materials Design
 topic: general
 team_leads:
@@ -99,14 +100,17 @@ contributors:
   - Larry Lab (University of Invention)
   - David Data (University of Science)
   - Rachel Research (Institute of Discovery)
-<!-- github: AC-BO-Hackathon/<your-repo-name> -->
-<!-- youtube_video: <your-video-id> -->
+# github: AC-BO-Hackathon/<your-repo-name>
+# youtube_video: <your-video-id>
 ---
 
 This project will investigate the application of bandit optimization to the design of composite materials. We will focus on the optimization of the mechanical properties of the composite materials, such as strength, stiffness, and toughness as a function of the fiber types and matrix materials. We will compare the performance of bandit optimization with the performance of Bayesian optimization using featurization tactics for this highly discrete space.
 
-- Aleksandrs Slivkins (2019), "Introduction to Multi-Armed Bandits", Foundations and Trends in Machine Learning: Vol. 12: No. 1-2, pp 1-286. http://dx.doi.org/10.1561/2200000068
-- Dimmery, D., Bakshy, E., & Sekhon, J. (2019). Shrinkage Estimators in Online Experiments. arXiv. https://doi.org/10.48550/ARXIV.1904.12918
+References:
+
+Aleksandrs Slivkins (2019), "Introduction to Multi-Armed Bandits", Foundations and Trends in Machine Learning: Vol. 12: No. 1-2, pp 1-286. http://dx.doi.org/10.1561/2200000068
+
+Dimmery, D., Bakshy, E., & Sekhon, J. (2019). Shrinkage Estimators in Online Experiments. arXiv. https://doi.org/10.48550/ARXIV.1904.12918
 ```
 
 The project templates are anticipated for release during mid-March. Once these are ready you, team leaders can follow the instructions below:
@@ -117,7 +121,7 @@ The project templates are anticipated for release during mid-March. Once these a
 4. Open a new pull request to modify your project file. Replace `<your-repo-name>` with the GitHub repository name that was created by GitHub Classroom for you using the corresponding project template link. For example, if your team name is "Bayes Bandits" and the template is called "benchmarking", the repository will be named `benchmarking-bayes-bandits`, and the `github` field should be `AC-BO-Hackathon/benchmarking-bayes-bandits`. You will also need to uncomment the line. For example:
 
 ```markdown
-<!-- github: AC-BO-Hackathon/<your-repo-name> -->
+# github: AC-BO-Hackathon/<your-repo-name>
 ```
 would be replaced with:
   
