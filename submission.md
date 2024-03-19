@@ -143,7 +143,7 @@ Here are the guidelines for submitting your project:
 
 ```markdown
 github: AC-BO-Hackathon/bayes-bandits
-<!-- youtube_video: <your-video-id> -->
+# youtube_video: <your-video-id>
 ```
 with:
 ```
