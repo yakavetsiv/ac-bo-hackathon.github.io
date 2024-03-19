@@ -40,8 +40,8 @@ Brainstorm, build, team up.
 1. Join the [Slack channel](https://join.slack.com/share/enQtNjc5MjI1NTI3MDUzMy1lNjZlZWZlMGYxNzA3MTY2N2Q2MDA2ZjNlMDQxZmIyMmZkMmNhZmYyMjhhYWQyODM1NDI0Yjg0MGE4NjI3YTBl) (if the link is expired, contact us so we can provide a new link). UPDATE: If you aren't able to join due to Slack Pro plan limitations, we can add you as a guest manually. Please send a request to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) with subject line "Slack guest invite request". The message body can be blank.
 2. Brainstorm project ideas and form teams
    3. Browse [the existing project proposals](_/../projects.md)
-   1. If you'd like to solicit team members or get feedback, post your project idea in the slack channel. You may also consider using social media
-   2. If you would like to join a team, use the slack channel to express your interest and describe your background
+   1. If you'd like to solicit team members or get feedback, post your project idea in the slack channel with the `#team` hashtag to make it easier to search for these posts. You may also consider using social media
+   2. If you would like to join a team, use the slack channel to express your interest and describe your background, again using the `#team` hashtag
    3. Submit your [project proposal](_/../submission.md) (multiple allowed)
 4. For coding-related projects, [complete the orientation modules](_/../resources.md)
 
