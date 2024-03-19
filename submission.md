@@ -74,8 +74,10 @@ team_leads:
 contributors:
   - Contributor 1 (Institution 1)
   - Contributor 2 (Institution 2)
+
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
+
 ---
 
 Project 1 description
@@ -100,8 +102,10 @@ contributors:
   - Larry Lab (University of Invention)
   - David Data (University of Science)
   - Rachel Research (Institute of Discovery)
+
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
+
 ---
 
 This project will investigate the application of bandit optimization to the design of composite materials. We will focus on the optimization of the mechanical properties of the composite materials, such as strength, stiffness, and toughness as a function of the fiber types and matrix materials. We will compare the performance of bandit optimization with the performance of Bayesian optimization using featurization tactics for this highly discrete space.
