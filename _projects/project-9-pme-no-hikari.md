@@ -1,6 +1,7 @@
 ---
 number: 9
 title: Optimizing The CO2 Adsorption Capacity of Metal-Organic Frameworks Using Thompson Sampling
+topic: general
 team_leads:
   - Ray Zhu (University of Chicago)
 
