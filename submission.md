@@ -58,7 +58,7 @@ As a teamleader, to initialize your project[<sup>(?)</sup>][faq]{:title="Can I p
 ![project submission](../assets/project-submission.png)
 
 1. Copy the template from below into the file and fill in the title, topic, team leads, and contributors sections. Topic can be one of `benchmark-task`, `benchmark-dev`, `tutorial`, `real-world`, and `general`, per the topics listed above.
-2. Submit a pull request to the hackathon repository with the title "Add project <your-team-name>" and tag your team members in the pull request description using the `@` symbol followed by their GitHub username. For example, `@sgbaird`.
+2. Submit a pull request to the hackathon repository with the title "Add project \<your-team-name\>" and if applicable, tag your team members in the pull request description using the <code>@</code> symbol followed by their GitHub username. For example, <code>@sgbaird</code>. This can be updated later if needed.
 3. Once the pull request is merged, your project will appear on [the projects page](_/../../projects.md)
 
 ```yaml
@@ -171,6 +171,6 @@ See also the [LinkedIn submission post](<your link here>).
 - Dimmery, D., Bakshy, E., & Sekhon, J. (2019). Shrinkage Estimators in Online Experiments. arXiv. https://doi.org/10.48550/ARXIV.1904.12918
 ```
 
-This pull request will be considered your final submission. Again, if you find this process daunting, you are welcome to instead send your link by email to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca). Please include "AC BO Hackathon Final Submission" in the subject line. We will update the project file and create corresponding pull request for you.+
+This pull request will be considered your final submission. Again, if you find this process daunting, you are welcome to instead send your link by email to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca). Please include "AC BO Hackathon Final Submission" in the subject line. We will update the project file and create corresponding pull request for you.
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
