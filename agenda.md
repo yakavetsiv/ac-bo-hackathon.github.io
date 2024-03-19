@@ -42,7 +42,7 @@ Brainstorm, build, team up.
    3. Browse [the existing project proposals](_/../projects.md)
    1. If you'd like to solicit team members or get feedback, post your project idea in the slack channel. You may also consider using social media
    2. If you would like to join a team, use the slack channel to express your interest and describe your background
-   3. Submit your [project proposal](_/../submission.md) (one per team)
+   3. Submit your [project proposal](_/../submission.md) (multiple allowed)
 4. For coding-related projects, [complete the orientation modules](_/../resources.md)
 
 <!-- 4. If you plan to join an existing project, use the GitHub Classroom link corresponding to the project topic and select the appropriate team on the GitHub Classroom interface (see [submission](_/../submission.md)). Reach out to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) if you have trouble getting added to your team -->
