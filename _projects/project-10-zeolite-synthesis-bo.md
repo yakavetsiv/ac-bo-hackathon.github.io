@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 10 # leave as-is, maintainers will adjust
 title: Navigating the black box of zeolite synthesis with Bayesian Optimization
 topic: real-world
 team_leads:
