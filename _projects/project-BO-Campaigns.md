@@ -16,5 +16,5 @@ contributors:
 We are going to investigate established and new ways to interpret BO campaigns, in terms of feature importance, sensitivity etc.
 
 References:
-https://pubmed.ncbi.nlm.nih.gov/35538846/, Section 3.4
+https://dx.doi.org/10.1002/bit.28132, Section 3.4
 ...
