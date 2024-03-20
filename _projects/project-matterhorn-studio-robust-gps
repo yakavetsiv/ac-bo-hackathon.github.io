@@ -1,7 +1,7 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 11 # leave as-is, maintainers will adjust
 title: Robust GPs for Bayesian Optimisation in Chemistry and Material Science
-topic: <topic-name>
+topic: tutorial
 team_leads:
   - Jakob Zeitler (<a href=http://matterhorn.studio/>Matterhorn Studio</a>)
 
