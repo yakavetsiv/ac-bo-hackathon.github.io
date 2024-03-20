@@ -19,6 +19,6 @@ Despite their massive industrial importance as catalysts, ion exchanger and adso
 
 References:
 
-1) Dusselier, M.; Davis, M. E. Small-Pore Zeolites: Synthesis and Catalysis. Chem. Rev. 2018, 118 (11), 5265– 5329,  DOI: 10.1021/acs.chemrev.7b00738
+1. Dusselier, M.; Davis, M. E. Small-Pore Zeolites: Synthesis and Catalysis. Chem. Rev. 2018, 118 (11), 5265– 5329,  DOI: 10.1021/acs.chemrev.7b00738
 
-3) Mallette, A.J.; Shilpa, K; Rimer, J.D. The Current Understanding of Mechanistic Pathways in Zeolite Crystallization. Chem. Rev. 2024,  DOI: 10.1021/acs.chemrev.3c00801
+2. Mallette, A.J.; Shilpa, K; Rimer, J.D. The Current Understanding of Mechanistic Pathways in Zeolite Crystallization. Chem. Rev. 2024,  DOI: 10.1021/acs.chemrev.3c00801
