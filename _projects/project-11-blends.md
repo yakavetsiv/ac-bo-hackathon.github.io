@@ -1,5 +1,5 @@
 ---
-number: 1 # leave as-is, maintainers will adjust
+number: 11 # leave as-is, maintainers will adjust
 title: BlendDS - An intuitive specification of the design space for blends of components
 topic: real-world, benchmark-dev
 team_leads:
@@ -27,5 +27,3 @@ with the classical Mixture Design DOE.
 
 References:
 - [NIST, Engineering Statistics Handbook: 5.5.4 What is a Mixture Design?](https://www.itl.nist.gov/div898/handbook/pri/section5/pri54.htm)
-
-...
