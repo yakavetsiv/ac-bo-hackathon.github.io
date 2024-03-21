@@ -8,6 +8,7 @@ team_leads:
 # Comment these lines to hide these elements
 contributors:
   - Quinn Gallagher (Chemical and Biological Engineering, Princeton University)
+  - Ankur Gupta (Lawrence Berkeley National Laboratory)
 
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
