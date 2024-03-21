@@ -6,13 +6,8 @@ team_leads:
   - <a href="https://github.com/mehradans92">Mehrad Ansari</a> (Acceleration Consortium)
   - <a href="https://github.com/smichtavy"> Shane Michtavy</a> (University of Rochester)
 
-# Comment these lines by prepending the pound symbol (#) to each line to hide these elements
-# contributors:
-#   - Contributor 1 (Institution 1)
-#   - Contributor 2 (Institution 2)
 
-# github: maykcaldas/BO-PU
-# youtube_video: <your-video-id>
+github: mehradans92/BO-PU
 
 ---
 
