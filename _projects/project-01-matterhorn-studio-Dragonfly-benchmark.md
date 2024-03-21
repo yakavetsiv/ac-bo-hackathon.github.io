@@ -12,4 +12,4 @@ contributors:
 
 ---
 
-We will investigate the performance of Dragonfly against state of the multi-objective BO approaches. Dragonfly has found somewhat popularity in the community, but we want to provide evidence that the latest BoTorch solutions are possibly more optimal.
+We will investigate the performance of [Dragonfly](https://github.com/dragonfly/dragonfly) against state of the multi-objective BO approaches. Dragonfly has found somewhat popularity in the community, but we want to provide evidence that the latest BoTorch solutions are possibly more optimal.
