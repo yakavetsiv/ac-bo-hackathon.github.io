@@ -1,5 +1,5 @@
 ---
-number: 11 # leave as-is, maintainers will adjust
+number: 12 # leave as-is, maintainers will adjust
 title: Robust GPs for Sustainable Concrete via Bayesian Optimization
 topic: tutorial
 team_leads:
