@@ -13,7 +13,7 @@ contributors:
 
 ---
 
-We will provide a tutorial on how to use Robust GPs (https://arxiv.org/abs/2311.00463) for the Sustainable Concrete via Bayesian Optimization.
+We will provide a tutorial on how to use Robust GPs ([https://arxiv.org/abs/2311.00463](https://arxiv.org/abs/2311.00463) for the Sustainable Concrete via Bayesian Optimization.
 
 Meta at the end of 2023 published their research on "Sustainable Concrete via Bayesian Optimization". Altamarino et al. published their work on "Robust and Conjugate Gaussian Process Regression" at the same time.
 
