@@ -86,7 +86,7 @@ References:
 
 ```
 
-Here is an example of a filled-in project file called `project-bayes-bandits.md` for the "Bayes Bandits" team for a submission to the `general` topic. Please replace any colons (`:`) with hyphens (`-`) in the title, if applicable, and ensure that the filename ends with the Markdown (`.md`) extension. The references section is optional. Please include links where appropriate.
+Here is an example of a filled-in project file called `project-bayes-bandits.md` for the "Bayes Bandits" team for a submission to the `general` topic. Please replace any colons (`:`) with hyphens (`-`) in the title, if applicable, and ensure that the filename ends with the Markdown (`.md`) extension. The references section is optional. Please include links in Markdown format where appropriate.
 
 ```yaml
 ---
@@ -111,9 +111,9 @@ This project will investigate the application of bandit optimization to the desi
 
 References:
 
-1. Aleksandrs Slivkins (2019), "Introduction to Multi-Armed Bandits", Foundations and Trends in Machine Learning: Vol. 12: No. 1-2, pp 1-286. http://dx.doi.org/10.1561/2200000068
+1. Aleksandrs Slivkins (2019), ["Introduction to Multi-Armed Bandits"](http://dx.doi.org/10.1561/2200000068), Foundations and Trends in Machine Learning: Vol. 12: No. 1-2, pp 1-286.
 
-2. Dimmery, D., Bakshy, E., & Sekhon, J. (2019). Shrinkage Estimators in Online Experiments. arXiv. https://doi.org/10.48550/ARXIV.1904.12918
+2. Dimmery, D., Bakshy, E., & Sekhon, J. (2019). [Shrinkage Estimators in Online Experiments](https://doi.org/10.48550/ARXIV.1904.12918). arXiv.
 ```
 
 The project templates are anticipated for release during mid-March. Once these are ready you, team leaders can follow the instructions below:
