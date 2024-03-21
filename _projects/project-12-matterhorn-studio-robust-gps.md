@@ -22,5 +22,5 @@ This project will introduce robust GPs to the concrete sciences for future BO ca
 We hope to showcase a first PoC of robust GP use for BO for concrete sciences, possibly a notebook tutorial for others to understand the use of robust GPs, e.g. in concrete sciences.
 
 References:
-1. https://arxiv.org/abs/2311.00463
-2. https://arxiv.org/abs/2310.18288
+1. [https://arxiv.org/abs/2311.00463](https://arxiv.org/abs/2311.00463)
+2. [https://arxiv.org/abs/2310.18288](https://arxiv.org/abs/2310.18288)
