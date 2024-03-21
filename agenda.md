@@ -37,7 +37,7 @@ The schedule for the event was as follows, with all times listed in Eastern Time
 Brainstorm, build, team up.
 
 1. Add the events to your calendar using the [links from the Gather Town event page](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA)
-2. Enter your email into [this form](https://forms.gle/1AKnQrdgCPk2Yts96) so that we can manually add you as a guest to the `#ac-bo-hackathon` slack channel, or if your workspace has Slack Pro, join the [Slack channel directly](https://join.slack.com/share/enQtNjc5MjI1NTI3MDUzMy1lNjZlZWZlMGYxNzA3MTY2N2Q2MDA2ZjNlMDQxZmIyMmZkMmNhZmYyMjhhYWQyODM1NDI0Yjg0MGE4NjI3YTBl), These are the preferred options over starting a Slack Pro free trial, since you will lose access to the channel once the trial has expired. The free trial route is a fallback if you need immediate access to the slack channel.
+2. Enter your email into [this form](https://forms.gle/1AKnQrdgCPk2Yts96) so that we can manually add you as a guest to the `#ac-bo-hackathon` slack channel, or if your workspace has Slack Pro, join the [Slack channel directly](https://join.slack.com/share/enQtNjc5MjI1NTI3MDUzMy1lNjZlZWZlMGYxNzA3MTY2N2Q2MDA2ZjNlMDQxZmIyMmZkMmNhZmYyMjhhYWQyODM1NDI0Yjg0MGE4NjI3YTBl). These are the preferred options over starting a Slack Pro free trial, since you will lose access to the channel once the trial has expired. The free trial route is a fallback if you need immediate access to the slack channel.
 3. Brainstorm project ideas and form teams
    1. Browse [the existing project proposals](_/../projects.md)
    2. If you'd like to solicit team members or get feedback, post your project idea in the slack channel with the `#team` hashtag to make it easier to search for these posts. You may also consider using social media
