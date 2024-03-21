@@ -18,5 +18,4 @@ Bayesian Optimisation in Synthetic Biology is an emerging topic. Traditionally, 
 In this project, we investigate how the literature so far has treated the interpretation of BO campaigns, review methods for insight generation and brainstorm ways of how to extend those to synthetic biology in general.
 
 References:
-https://dx.doi.org/10.1002/bit.28132, Section 3.4
-...
+1. [https://dx.doi.org/10.1002/bit.28132](https://dx.doi.org/10.1002/bit.28132), Section 3.4
