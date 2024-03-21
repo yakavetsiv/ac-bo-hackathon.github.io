@@ -1,10 +1,10 @@
-number: 11 # leave as-is, maintainers will adjust
+number: 12 # leave as-is, maintainers will adjust
 title: Bayesian optimization of likely negative candidates in imbalanced biological datasets
 topic: real-world
 team_leads:
-  - Mayk Caldas Ramos (University of Rochester) @maykcaldas
-  - Mehrad Ansari (Acceleration Consortium)     @mehradans92
-  - Shane Michtavy (University of Rochester)    @smichtavy
+  - <a href="https://github.com/maykcaldas">Mayk Caldas Ramos</a> (University of Rochester)
+  - <a href="https://github.com/mehradans92">Mehrad Ansari (Acceleration Consortium)
+  - <a href="https://github.com/smichtavy"> Shane Michtavy (University of Rochester)
 
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 # contributors:
