@@ -1,5 +1,5 @@
-
-number: 14 # leave as-is, maintainers will adjust
+---
+number: 15 # leave as-is, maintainers will adjust
 title: Adaptive Batch Sizes for Bayesian Optimization of Reaction Yield
 topic: general
 team_leads:
