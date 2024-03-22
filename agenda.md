@@ -36,7 +36,7 @@ The schedule for the event was as follows, with all times listed in Eastern Time
 
 Brainstorm, build, team up.
 
-1. Add the events to your calendar using the [links from the Gather Town event page](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA)
+1. Add the events to your calendar using the ["Add to Calendar" link from the Gather Town event page](https://app.gather.town/events/aWWEyxSfRJGgvVwT3rSA) (for Outlook calendars, you will need to login to Outlook online)
 2. Enter your email into [this form](https://forms.gle/1AKnQrdgCPk2Yts96) or send an email to [sterling.baird@utoronto.ca](mailto:sterling.baird@utoronto.ca) with subject line "Slack guest invite request" so that we can manually add you as a guest to the `#ac-bo-hackathon` slack channel, or if your workspace has Slack Pro, join the [Slack channel directly](https://join.slack.com/share/enQtNjg2ODE3OTIwMDcwNC1iNzhiOGYxNzJiN2JkMWIxN2VkMDc4ODNlM2RjMDQ4ZTYyNTI0ZTdhZTZiMDgwMzE3ZTdjZjQ1ZmUxN2E4MjMz). These are the preferred options over starting a Slack Pro free trial, since you will lose access to the channel once the trial has expired. The free trial route (e.g., in a personal workspace) is a fallback if you need immediate access to the slack channel.
 3. Brainstorm project ideas and form teams
    1. Browse [the existing project proposals](_/../projects.md)
