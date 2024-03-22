@@ -6,9 +6,13 @@ team_leads:
   - <a href="https://github.com/mehradans92">Mehrad Ansari</a> (Acceleration Consortium)
   - <a href="https://github.com/smichtavy"> Shane Michtavy</a> (University of Rochester)
 
+# Comment these lines by prepending the pound symbol (#) to each line to hide these elements
+# contributors:
+#   - Contributor 1 (Institution 1)
+#   - Contributor 2 (Institution 2)
 
 github: mehradans92/BO-PU
-
+# youtube_video: <your-video-id>
 ---
 
 Available peptide datasets often lack class balance due to experimental and technical challenges of the high-throughput screening methods in identifying negative examples, which limits the effectiveness of machine learning (ML) models trained on these datasets. A promising solution involves exclusively leveraging positive examples. This method, known as positive-unlabeled (PU) learning[1], treats all non-positive examples as "unlabeled". The classifier is trained by iteratively identifying likely negative candidates (reliable negatives) within the unlabeled data. In this project, we aim to enhance this approach by incorporating Bayesian Optimization (BO)[2,3] for a more strategic selection of likely negative peptide candidates for different biological tasks, including hemolysis and binding against SHP-2 protein target. Utilizing BO to optimize the peptide sequences selection could significantly improve the method's efficiency and accuracy. This is achieved by systematically exploring the example space to find the optimal PU split for training, offering a strategic advantage over traditional heuristic-based methods.[4]
