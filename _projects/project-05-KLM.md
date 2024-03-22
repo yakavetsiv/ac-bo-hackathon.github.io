@@ -1,6 +1,6 @@
 ---
 number: 5 <!-- leave as-is, maintainers will adjust -->
-title: Investigating Interpretability of Bayesian Optimization Methods
+title: Comparing Bayesian Optimization Methods Across Multiple Hyperparameters Against Simulated "Human" Decision-making
 topic: benchmark-task
 team_leads: 
   - Kevin Shen (NobleAI)
@@ -16,7 +16,9 @@ team_leads:
 <!-- youtube_video: <your-video-id> -->
 ---
 
-This project will focus on investigating the role of interpretability in Bayesian Optimization and its interplay with real life experiments.
+This project will focus on trying to simulate the decision-making of a human researcher using a Bayesian Optimization framework, then comparing the performance across different, improved hyperparameters. By exploring these differences, this project aims to understand the strengths and weaknesses of Bayesian Optimization relative to the decision-making of a researcher with access to the same data.
+
+We will look at three hyperparameters that can be used to define the differences between a researcher and regular Bayesian Optimization: the number of features that can be processed, the degree of exploration vs exploitation, and the interpretability/complexity of the surrogate model.
 
 Muckley, E. S., Saal, J. E., Meredig, B., Roper, C. S., Martin, J. H. (2023) [Interpretable models for extrapolation in scientific in machine learning](https://pubs.rsc.org/en/content/articlepdf/2023/dd/d3dd00082f). Digital Discovery, 2023, 2, 1425
 
