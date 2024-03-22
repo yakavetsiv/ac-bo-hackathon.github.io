@@ -1,7 +1,7 @@
 ---
 number: 8 # leave as-is, maintainers will adjust
 title: BO for Drug Discovery-What is the role of molecular representation?
-topic: real-world
+topic: general
 team_leads:
   - Fanjin Wang (Mechanical Engineering, University College London)
 
@@ -21,5 +21,5 @@ The present project aims to investigate how different molecular representations 
 
 References:
 
-1. H. Bellamy, A. A. Rehim, O. I. Orhobor, and R. King, ‘Batched Bayesian Optimization for Drug Design in Noisy Environments’, J. Chem. Inf. Model., vol. 62, no. 17, pp. 3970–3981, Sep. 2022, doi: 10.1021/acs.jcim.2c00602.
-2. D. Reker and G. Schneider, ‘Active-learning strategies in computer-assisted drug discovery’, Drug Discovery Today, vol. 20, no. 4, pp. 458–465, Apr. 2015, doi: 10.1016/j.drudis.2014.12.004.
+1. H. Bellamy, A. A. Rehim, O. I. Orhobor, and R. King, [Batched Bayesian Optimization for Drug Design in Noisy Environments](https://dx.doi.org/10.1021/acs.jcim.2c00602), J. Chem. Inf. Model., vol. 62, no. 17, pp. 3970–3981, Sep. 2022.
+2. D. Reker and G. Schneider, [Active-learning strategies in computer-assisted drug discovery](https://dx.doi.org/10.1016/j.drudis.2014.12.004), Drug Discovery Today, vol. 20, no. 4, pp. 458–465, Apr. 2015.
