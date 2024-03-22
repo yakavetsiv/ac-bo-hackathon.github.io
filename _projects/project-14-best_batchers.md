@@ -1,5 +1,5 @@
 
-number: 1 # leave as-is, maintainers will adjust
+number: 14 # leave as-is, maintainers will adjust
 title: Adaptive Batch Sizes for Bayesian Optimization of Reaction Yield
 topic: general
 team_leads:
@@ -7,7 +7,7 @@ team_leads:
   - Jan Weinreich (Laboratory for Computational Molecular Design, EPFL, Switzerland)
 
 contributors:
-  - Danish Khan (UoT)
+  - Danish Khan (University of Toronto)
 
 # github: AC-BO-Hackathon/<your-repo-name>
 # youtube_video: <your-video-id>
