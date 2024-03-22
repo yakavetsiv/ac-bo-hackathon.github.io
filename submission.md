@@ -86,7 +86,7 @@ References:
 
 ```
 
-Here is an example of a filled-in project file called `project-bayes-bandits.md` for the "Bayes Bandits" team for a submission to the `general` topic. Please replace any colons (`:`) with hyphens (`-`) in the title, if applicable, and ensure that the filename ends with the Markdown (`.md`) extension. The references section is optional. Please include links in Markdown format where appropriate.
+Here is an example of a filled-in project file called `project-bayes-bandits.md` for the "Bayes Bandits" team for a submission to the `general` topic. Please replace any colons (`:`) with hyphens (`-`) in the title, if applicable, and ensure that the filename ends with the Markdown (`.md`) extension. Also, ensure that you include the first line with `---` (required for the webpage to build correctly). The references section is optional. Please include links in Markdown format where appropriate.
 
 ```yaml
 ---
